@@ -1,5 +1,5 @@
 [Former Members of Rajya Sabha since 1952 as on 17th July 2013 in English]
-=================
+==========================================================================
 
 Details
 ---------
@@ -46,7 +46,3 @@ Variables
 [Hobbies]
 [Country(s) Visited]
 [Essential Information]
-
-
-[List of variables in the dataset, each one in a separate line, and units given in brackets, such as "Rainfall (MM)"]
-
