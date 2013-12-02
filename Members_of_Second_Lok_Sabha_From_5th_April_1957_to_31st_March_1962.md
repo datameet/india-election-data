@@ -18,9 +18,14 @@ Variables
 ------------
 
 Lok Sabha
+
 Member Name
+
 Gender
+
 Constituency Name
+
 State Name
+
 Party Name
 
