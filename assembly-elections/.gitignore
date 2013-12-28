@@ -1,3 +1,4 @@
 *.pdf
 *.txt
 .ipynb_checkpoints
+.cache.*
