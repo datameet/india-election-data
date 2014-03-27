@@ -1,568 +1,578 @@
+STATE: ANDAMAN AND NICOBAR ISLANDS
+1-Andaman and Nicobar Islands       1-Andaman and Nicobar Islands
 STATE: ANDHRA PRADESH
-1-ADILABAD (ST)                 1-Sirpur, 5-Asifabad (ST), 6-Khanapur (ST), 7-Adilabad, 8-Boath (ST), 9-Nirmal, 10-Mudhole
-2-PEDDAPALLE (SC)               2-Chennur (SC), 3-Bellampalli (SC), 4-Mancherial, 22-Dharmapuri (SC), 23-Ramagundam, 24-Manthani, 25-Peddapalle
-3-KARIMNAGAR                    26-Karimnagar, 27-Choppadandi (SC), 28-Vemulawada, 29-Sircilla, 30-Manakondur (SC), 31-Huzurabad, 32-Husnabad
-4-NIZAMABAD                     11-Armur, 12-Bodhan, 17-Nizamabad (Urban), 18-Nizamabad (Rural), 19-Balkonda, 20-Koratla, 21-Jagtial
-5-ZAHIRABAD                     13-Jukkal (SC), 14-Banswada, 15-Yellareddy, 16-Kamareddy, 35-Narayankhed, 36-Andole (SC), 38-Zahirabad (SC)
-6-MEDAK                         33-Siddipet, 34-Medak, 37-Narsapur, 39-Sangareddy, 40-Patancheru, 41-Dubbak, 42-Gajwel
-7-MALKAJGIRI                    43-Medchal, 44-Malkajgiri, 45-Qutbullapur, 46-Kukatpalle, 47-Uppal, 49-Lal Bahadur Nagar, 71-Secunderabad Cantt (SC)
-8-SECUNDERABAD                  57-Musheerabad, 59-Amberpet, 60-Khairatabad, 61-Jubilee Hills, 62-Sanathnagar, 63-Nampally, 70-Secunderabad
-9-HYDERABAD                     58-Malakpet, 64-Karwan, 65-Goshamahal, 66-Charminar, 67-Chandrayangutta, 68-Yakutpura, 69-Bahadurpura
-10-CHEVELLA                     50-Maheswaram, 51-Rajendranagar, 52-Serilingampally, 53-Chevella (SC), 54-Pargi, 55-Vicarabad (SC), 56-Tandur
-11-MAHBUBNAGAR                  72-Kodangal, 73-Narayanpet, 74-Mahbubnagar, 75-Jadcherla, 76-Devarkadra, 77-Makthal, 84-Shadnagar
-12-NAGARKURNOOL                 78-Wanaparthy, 79-Gadwal, 80-Alampur (SC), 81-Nagarkurnool (SC), 82-Achampet (SC), 83-Kalwakurthy, 85-Kollapur
-13-NALGONDA                     86-Devarakonda(ST), 87-Nagarjuna Sagar, 88-Miryalaguda, 89-Huzurnagar, 90-Kodad, 91-Suryapet, 92-Nalgonda
-14-BHONGIR                      48-Ibrahimpatnam, 93-Munugode, 94-Bhongir, 95-Nakrekal (SC), 96-Thungathurthi (SC), 97-Alair, 98-Jangaon
-15-WARANGAL(SC)                 99-Ghanpur (Station) (SC), 100-Palakurthi, 104-Parkal, 105-Warangal West, 106-Warangal East, 107-Wardhannapet (SC), 108-Bhupalpalle
-16-MAHABUBABAD (ST)             101-Dornakal (ST), 102-Mahabubabad (ST), 103-Narsampet, 109-Mulug (ST), 110-Pinapaka (ST), 111-Yellandu (ST), 119-Bhadrachalam (ST)
-17-KHAMMAM                      112-Khammam, 113-Palair, 114-Madhira (SC), 115-Wyra (ST), 116-Sathupalle (SC), 117-Kothagudem, 118-Aswaraopeta (ST)
-18-ARAKU (ST)                   129-Palakonda (ST), 130-Kurupam (ST), 131-Parvathipuram (SC), 132-Salur (ST), 147-Araku Valley (ST), 148-Paderu (ST), 172-Rampachodovaram (ST)
-19-SRIKAKULAM                   120-Ichchapuram, 121-Palasa, 122-Tekkali, 123-Pathapatnam, 124-Srikakulam, 125-Amadalavalasa, 127-Narasannapeta
-20-VIZIANAGARAM                 126-Etcherla, 128-Rajam (SC), 133-Bobbili, 134-Cheepurupalli, 135-Gajapathinagaram, 136-Nellimarla, 137-Vizianagaram
-21-VISAKHAPATNAM                138-Srungavarapukota, 139-Bhimli, 140-Visakhapatnam East, 141-Visakhapatnam    South, 142-Visakhapatnam North, 143-Visakhapatnam West, 144-Gajuwaka
-22-ANAKAPALLE                   145-Chodavaram, 146-Madugula, 149-Anakapalle, 150-Pendurthi, 151-Yelamanchili, 152-Payakaraopet (SC), 153-Narsipatnam
-23-KAKINADA                     154-Tuni, 155-Prathipadu, 156-Pithapuram, 157-Kakinada Rural, 158-Peddapuram, 160-Kakinada City, 171-Jaggampeta
-24-AMALAPURAM (SC)              161-Ramachandrapuram, 162-Mummidivaram, 163-Amalapuram (SC), 164-Razole (SC), 165-Gannavaram (SC), 166-Kothapeta, 167-Mandapeta
-25-RAJAHMUNDRY                  159-Anaparthy, 168-Rajanagaram, 169-Rajahmundry City, 170-Rajahmundry Rural, 173-Kovvur (SC), 174-Nidadavole, 185-Gopalapuram (SC)
-26-NARSAPURAM                   175-Achanta, 176-Palacole, 177-Narsapuram, 178-Bhimavaram, 179-Undi, 180-Tanuku, 181-Tadepalligudem
-27-ELURU                        182-Unguturu, 183-Denduluru, 184-Eluru, 186-Polavaram (ST), 187-Chintalapudi (SC), 189-Nuzvid, 192-Kaikalur
-28-MACHILIPATNAM                190-Gannavaram, 191-Gudivada, 193-Pedana, 194-Machilipatnam, 195-Avanigadda, 196-Pamarru (SC), 197-Penamaluru
-29-VIJAYAWADA                   188-Tiruvuru (SC), 198-Vijayawada West, 199-Vijayawada Central, 200-Vijayawada East, 201-Mylavaram, 202-Nandigama (SC), 203-Jaggayyapeta
-30-GUNTUR                       205-Tadikonda (SC), 206-Mangalagiri, 207-Ponnuru, 210-Tenali, 212-Prathipadu (SC), 213-Guntur West, 214-Guntur East
-31-NARASARAOPET                 204-Pedakurapadu, 215-Chilakaluripet, 216-Narasaraopet, 217-Sattenapalli, 218-Vinukonda, 219-Gurajala, 220-Macherla
-32-BAPATLA (SC)                 208-Vemuru (SC), 209-Repalle, 211-Bapatla, 223-Parchur, 224-Addanki, 225-Chirala, 226-Santhanuthalapadu (SC)
-33-ONGOLE                       221-Yerragondapalem (SC), 222-Darsi, 227-Ongole, 229-Kondapi (SC), 230-Markapuram, 231-Giddalur, 232-Kanigiri
-34-NANDYAL                      253-Allagadda, 254-Srisailam, 255-Nandikotkur (SC), 257-Panyam, 258-Nandyal, 259-Banaganapalle, 260-Dhone
-35-KURNOOL                      256-Kurnool, 261-Pattikonda, 262-Kodumur (SC), 263-Yemmiganur, 264-Mantralayam, 265-Adoni, 266-Alur
-36-ANANTAPUR                    267-Rayadurg, 268-Uravakonda, 269-Guntakal, 270-Tadpatri, 271-Singanamala (SC), 272-Anantapur  Urban, 273-Kalyandurg
-37-HINDUPUR                     274-Raptadu, 275-Madakasira (SC), 276-Hindupur, 277-Penukonda, 278-Puttaparthi, 279-Dharmavaram, 280-Kadiri
-38-KADAPA                       243-Badvel (SC), 245-Kadapa, 248-Pulivendla, 249-Kamalapuram, 250-Jammalamadugu, 251-Proddatur, 252-Mydukur
-39-NELLORE                      228-Kandukur, 233-Kavali, 234-Atmakur, 235-Kovur, 236-Nellore City, 237-Nellore Rural, 242-Udayagiri
-40-TIRUPATI (SC)                238-Sarvepalli, 239-Gudur (SC), 240-Sullurpeta (SC), 241-Venkatagiri, 286-Tirupati, 287-Srikalahasti, 288-Satyavedu (SC)
-41-RAJAMPET                     244-Rajampet, 246-Kodur (SC), 247-Rayachoti, 281-Thamballapalle, 282-Pileru, 283-Madanapalle, 284-Punganur
-42-CHITTOOR (SC)                285-Chandragiri, 289-Nagari, 290-Gangadhara Nellore (SC), 291-Chittoor, 292-Puthalapattu (SC), 293-Palamaner, 294-Kuppam
+1-ADILABAD (ST)                     1-Sirpur, 5-Asifabad (ST), 6-Khanapur (ST), 7-Adilabad, 8-Boath (ST), 9-Nirmal, 10-Mudhole
+2-PEDDAPALLE (SC)                   2-Chennur (SC), 3-Bellampalli (SC), 4-Mancherial, 22-Dharmapuri (SC), 23-Ramagundam, 24-Manthani, 25-Peddapalle
+3-KARIMNAGAR                        26-Karimnagar, 27-Choppadandi (SC), 28-Vemulawada, 29-Sircilla, 30-Manakondur (SC), 31-Huzurabad, 32-Husnabad
+4-NIZAMABAD                         11-Armur, 12-Bodhan, 17-Nizamabad (Urban), 18-Nizamabad (Rural), 19-Balkonda, 20-Koratla, 21-Jagtial
+5-ZAHIRABAD                         13-Jukkal (SC), 14-Banswada, 15-Yellareddy, 16-Kamareddy, 35-Narayankhed, 36-Andole (SC), 38-Zahirabad (SC)
+6-MEDAK                             33-Siddipet, 34-Medak, 37-Narsapur, 39-Sangareddy, 40-Patancheru, 41-Dubbak, 42-Gajwel
+7-MALKAJGIRI                        43-Medchal, 44-Malkajgiri, 45-Qutbullapur, 46-Kukatpalle, 47-Uppal, 49-Lal Bahadur Nagar, 71-Secunderabad Cantt (SC)
+8-SECUNDERABAD                      57-Musheerabad, 59-Amberpet, 60-Khairatabad, 61-Jubilee Hills, 62-Sanathnagar, 63-Nampally, 70-Secunderabad
+9-HYDERABAD                         58-Malakpet, 64-Karwan, 65-Goshamahal, 66-Charminar, 67-Chandrayangutta, 68-Yakutpura, 69-Bahadurpura
+10-CHEVELLA                         50-Maheswaram, 51-Rajendranagar, 52-Serilingampally, 53-Chevella (SC), 54-Pargi, 55-Vicarabad (SC), 56-Tandur
+11-MAHBUBNAGAR                      72-Kodangal, 73-Narayanpet, 74-Mahbubnagar, 75-Jadcherla, 76-Devarkadra, 77-Makthal, 84-Shadnagar
+12-NAGARKURNOOL                     78-Wanaparthy, 79-Gadwal, 80-Alampur (SC), 81-Nagarkurnool (SC), 82-Achampet (SC), 83-Kalwakurthy, 85-Kollapur
+13-NALGONDA                         86-Devarakonda(ST), 87-Nagarjuna Sagar, 88-Miryalaguda, 89-Huzurnagar, 90-Kodad, 91-Suryapet, 92-Nalgonda
+14-BHONGIR                          48-Ibrahimpatnam, 93-Munugode, 94-Bhongir, 95-Nakrekal (SC), 96-Thungathurthi (SC), 97-Alair, 98-Jangaon
+15-WARANGAL(SC)                     99-Ghanpur (Station) (SC), 100-Palakurthi, 104-Parkal, 105-Warangal West, 106-Warangal East, 107-Wardhannapet (SC), 108-Bhupalpalle
+16-MAHABUBABAD (ST)                 101-Dornakal (ST), 102-Mahabubabad (ST), 103-Narsampet, 109-Mulug (ST), 110-Pinapaka (ST), 111-Yellandu (ST), 119-Bhadrachalam (ST)
+17-KHAMMAM                          112-Khammam, 113-Palair, 114-Madhira (SC), 115-Wyra (ST), 116-Sathupalle (SC), 117-Kothagudem, 118-Aswaraopeta (ST)
+18-ARAKU (ST)                       129-Palakonda (ST), 130-Kurupam (ST), 131-Parvathipuram (SC), 132-Salur (ST), 147-Araku Valley (ST), 148-Paderu (ST), 172-Rampachodovaram (ST)
+19-SRIKAKULAM                       120-Ichchapuram, 121-Palasa, 122-Tekkali, 123-Pathapatnam, 124-Srikakulam, 125-Amadalavalasa, 127-Narasannapeta
+20-VIZIANAGARAM                     126-Etcherla, 128-Rajam (SC), 133-Bobbili, 134-Cheepurupalli, 135-Gajapathinagaram, 136-Nellimarla, 137-Vizianagaram
+21-VISAKHAPATNAM                    138-Srungavarapukota, 139-Bhimli, 140-Visakhapatnam East, 141-Visakhapatnam    South, 142-Visakhapatnam North, 143-Visakhapatnam West, 144-Gajuwaka
+22-ANAKAPALLE                       145-Chodavaram, 146-Madugula, 149-Anakapalle, 150-Pendurthi, 151-Yelamanchili, 152-Payakaraopet (SC), 153-Narsipatnam
+23-KAKINADA                         154-Tuni, 155-Prathipadu, 156-Pithapuram, 157-Kakinada Rural, 158-Peddapuram, 160-Kakinada City, 171-Jaggampeta
+24-AMALAPURAM (SC)                  161-Ramachandrapuram, 162-Mummidivaram, 163-Amalapuram (SC), 164-Razole (SC), 165-Gannavaram (SC), 166-Kothapeta, 167-Mandapeta
+25-RAJAHMUNDRY                      159-Anaparthy, 168-Rajanagaram, 169-Rajahmundry City, 170-Rajahmundry Rural, 173-Kovvur (SC), 174-Nidadavole, 185-Gopalapuram (SC)
+26-NARSAPURAM                       175-Achanta, 176-Palacole, 177-Narsapuram, 178-Bhimavaram, 179-Undi, 180-Tanuku, 181-Tadepalligudem
+27-ELURU                            182-Unguturu, 183-Denduluru, 184-Eluru, 186-Polavaram (ST), 187-Chintalapudi (SC), 189-Nuzvid, 192-Kaikalur
+28-MACHILIPATNAM                    190-Gannavaram, 191-Gudivada, 193-Pedana, 194-Machilipatnam, 195-Avanigadda, 196-Pamarru (SC), 197-Penamaluru
+29-VIJAYAWADA                       188-Tiruvuru (SC), 198-Vijayawada West, 199-Vijayawada Central, 200-Vijayawada East, 201-Mylavaram, 202-Nandigama (SC), 203-Jaggayyapeta
+30-GUNTUR                           205-Tadikonda (SC), 206-Mangalagiri, 207-Ponnuru, 210-Tenali, 212-Prathipadu (SC), 213-Guntur West, 214-Guntur East
+31-NARASARAOPET                     204-Pedakurapadu, 215-Chilakaluripet, 216-Narasaraopet, 217-Sattenapalli, 218-Vinukonda, 219-Gurajala, 220-Macherla
+32-BAPATLA (SC)                     208-Vemuru (SC), 209-Repalle, 211-Bapatla, 223-Parchur, 224-Addanki, 225-Chirala, 226-Santhanuthalapadu (SC)
+33-ONGOLE                           221-Yerragondapalem (SC), 222-Darsi, 227-Ongole, 229-Kondapi (SC), 230-Markapuram, 231-Giddalur, 232-Kanigiri
+34-NANDYAL                          253-Allagadda, 254-Srisailam, 255-Nandikotkur (SC), 257-Panyam, 258-Nandyal, 259-Banaganapalle, 260-Dhone
+35-KURNOOL                          256-Kurnool, 261-Pattikonda, 262-Kodumur (SC), 263-Yemmiganur, 264-Mantralayam, 265-Adoni, 266-Alur
+36-ANANTAPUR                        267-Rayadurg, 268-Uravakonda, 269-Guntakal, 270-Tadpatri, 271-Singanamala (SC), 272-Anantapur  Urban, 273-Kalyandurg
+37-HINDUPUR                         274-Raptadu, 275-Madakasira (SC), 276-Hindupur, 277-Penukonda, 278-Puttaparthi, 279-Dharmavaram, 280-Kadiri
+38-KADAPA                           243-Badvel (SC), 245-Kadapa, 248-Pulivendla, 249-Kamalapuram, 250-Jammalamadugu, 251-Proddatur, 252-Mydukur
+39-NELLORE                          228-Kandukur, 233-Kavali, 234-Atmakur, 235-Kovur, 236-Nellore City, 237-Nellore Rural, 242-Udayagiri
+40-TIRUPATI (SC)                    238-Sarvepalli, 239-Gudur (SC), 240-Sullurpeta (SC), 241-Venkatagiri, 286-Tirupati, 287-Srikalahasti, 288-Satyavedu (SC)
+41-RAJAMPET                         244-Rajampet, 246-Kodur (SC), 247-Rayachoti, 281-Thamballapalle, 282-Pileru, 283-Madanapalle, 284-Punganur
+42-CHITTOOR (SC)                    285-Chandragiri, 289-Nagari, 290-Gangadhara Nellore (SC), 291-Chittoor, 292-Puthalapattu (SC), 293-Palamaner, 294-Kuppam
 STATE: ARUNACHAL PRADESH
-1-ARUNACHAL WEST                1-Lumla (ST), 2-Tawang (ST), 3-Mukto (ST), 4-Dirang (ST), 5-Kalaktang (ST), 6-Thrizino-Buragaon (ST), 7-Bomdila (ST), 8-Bameng (ST), 9-Chayangtajo (ST), 10-Seppa East (ST), 11-Seppa West (ST),12-Pakke-Kasang (ST),13-Itanagar (ST), 14-Doimukh (ST), 15-Sagalee (ST), 16-Yachuli (ST), 17-Ziro-Hapoli (ST), 18-Palin (ST), 19-Nyapin (ST), 20-Tali (ST), 21-Koloriang (ST), 22.Nacho (ST), 23-Taliha (ST), 24-Daporijo (ST), 25-Raga (ST), 26-Damporijo (ST), 27-Liromoba (ST), 28-Likabali (ST), 29-Basar (ST), 30-Along West (ST), 31-Along East (ST), 32-Rumgong (ST), 33-Mechuka (ST)
-2-ARUNACHAL EAST                34-Tuting-Yingkiong (ST), 35-Pangin (ST), 36-Nari-Koyu (ST), 37-Pasighat West (ST), 38-Pasighat East (ST), 39-Mebo (ST), 40-Mariyang-Geku (ST), 41-Anini (ST), 42-Dambuk (ST), 43-Roing (ST), 44-Tezu (ST), 45-Hayuliang (ST), 46-Chowkham (ST), 47-Namsai (ST), 48-Lekang (ST), 49-Bordumsa-Diyum, 50-Miao (ST), 51-Nampong (ST), 52-Changlang South (ST), 53-Changlang North (ST), 54-Namsang (ST), 55-Khonsa East (ST), 56-Khonsa West (ST), 57-Borduria-Bagapani (ST), 58-Kanubari (ST), 59-Longding-Pumao (ST), 60-Pongchou-Wakka (ST)
+1-ARUNACHAL WEST                    1-Lumla (ST), 2-Tawang (ST), 3-Mukto (ST), 4-Dirang (ST), 5-Kalaktang (ST), 6-Thrizino-Buragaon (ST), 7-Bomdila (ST), 8-Bameng (ST), 9-Chayangtajo (ST), 10-Seppa East (ST), 11-Seppa West (ST),12-Pakke-Kasang (ST),13-Itanagar (ST), 14-Doimukh (ST), 15-Sagalee (ST), 16-Yachuli (ST), 17-Ziro-Hapoli (ST), 18-Palin (ST), 19-Nyapin (ST), 20-Tali (ST), 21-Koloriang (ST), 22.Nacho (ST), 23-Taliha (ST), 24-Daporijo (ST), 25-Raga (ST), 26-Damporijo (ST), 27-Liromoba (ST), 28-Likabali (ST), 29-Basar (ST), 30-Along West (ST), 31-Along East (ST), 32-Rumgong (ST), 33-Mechuka (ST)
+2-ARUNACHAL EAST                    34-Tuting-Yingkiong (ST), 35-Pangin (ST), 36-Nari-Koyu (ST), 37-Pasighat West (ST), 38-Pasighat East (ST), 39-Mebo (ST), 40-Mariyang-Geku (ST), 41-Anini (ST), 42-Dambuk (ST), 43-Roing (ST), 44-Tezu (ST), 45-Hayuliang (ST), 46-Chowkham (ST), 47-Namsai (ST), 48-Lekang (ST), 49-Bordumsa-Diyum, 50-Miao (ST), 51-Nampong (ST), 52-Changlang South (ST), 53-Changlang North (ST), 54-Namsang (ST), 55-Khonsa East (ST), 56-Khonsa West (ST), 57-Borduria-Bagapani (ST), 58-Kanubari (ST), 59-Longding-Pumao (ST), 60-Pongchou-Wakka (ST)
 STATE: ASSAM
-1-Karimganj (SC)                1-Ratabari (SC), 2-Patharkandi, 3-Karimganj North, 4-Karimganj South, 5-Badarpur, 6-Hailakandi, 7-Katlicherra, 8-Algapur
-2-Silchar                       9-Silchar, 10-Sonai, 11-Dholai(SC), 12-Udharbond, 13-Lakhipur, 14-Barkhola, 15-Katigora
-3-Autonomous District (ST)      16-Haflong (ST), 17-Bokajan(ST), 18-Howraghat (ST), 19-Diphu (ST), 20-Baithalangso (ST)
-4-Dhubri                        21-Mankachar, 22-Salmara South, 23-Dhubri,24-Gauripur, 25-Golakganj, 26-Bilasipara West, 27-Bilasipara East, 37-Goalpara East, 38-Goalpara West, 39-Jaleswar
-5-Kokrajhar (ST)                28-Gossaigaon, 29-Kokrajhar West (ST), 30-Kokrajhar East (ST), 31-Sidli (ST), 33-Bijni, 40-Sorbhog, 41-Bhabanipur, 58-Tamulpur, 62-Barama (ST), 63-Chapaguri (ST)
-6-Barpeta                       32-Bongaigaon, 34-Abhayapuri North, 35-Abhayapuri South (SC), 42-Patacharkuchi, 43-Barpeta, 44-Jania, 45-Baghbar, 46-Sarukhetri, 47-Chenga, 61-Dharmapur
-7-Gauhati                       36-Dudhnai (ST), 48-Boko (SC), 49-Chaygaon, 50-Palasbari, 51-Jalukbari, 52-Dispur, 53-Gauhati East, 54-Gauhati West, 55-Hajo, 60-Barkhetry
-8-Mangaldoi                     56-Kamalpur, 57-Rangiya, 59-Nalbari,64-Panery, 65-Kalaigaon, 66-Sipajhar, 67-Mangaldoi (SC), 68-Dalgaon, 69-Udalguri (ST), 70-Majbat
-9-Tezpur                        71-Dhekiajuli, 72-Barchalla, 73-Tezpur,74-Rangapara, 75-Sootea, 76-Biswanath, 77-Behali, 78-Gohpur, 109-Bihpuria
-10-Nawgong                      79-Jagiroad (SC), 80-Marigaon, 81-Laharighat, 82-Raha (SC), 86-Nowgong, 87-Barhampur, 90-Jamunamukh, 91-Hojai, 92-Lumding
-11-Kaliabor                     83-Dhing, 84-Batadroba, 85-Rupohihat, 88-Samaguri, 89-Kaliabor, 93-Bokakhat, 94-Sarupathar, 95-Golaghat, 96-Khumtai, 97-Dergaon (SC)
-12-Jorhat                       98-Jorhat, 100-Titabar, 101-Mariani, 102-Teok, 103-Amguri, 104-Nazira, 105-Mahmara, 106-Sonari, 107-Thowra, 108-Sibsagar
-13-Dibrugarh                    115-Moran, 116-Dibrugarh, 117-Lahowal, 118-Duliajan, 119-Tingkhong, 120-Nahar Katia, 122-Tinsukia, 123-Digboi, 124-Margherita
-14-Lakhimpur                    99-Majuli (ST), 110-Naoboicha, 111-Lakhimpur, 112-Dhakuakhana (ST), 113-Dhemaji (ST), 114-Jonai (ST), 121-Chabua, 125-Doom Dooma, 126-Sadiya
+1-Karimganj (SC)                    1-Ratabari (SC), 2-Patharkandi, 3-Karimganj North, 4-Karimganj South, 5-Badarpur, 6-Hailakandi, 7-Katlicherra, 8-Algapur
+2-Silchar                           9-Silchar, 10-Sonai, 11-Dholai(SC), 12-Udharbond, 13-Lakhipur, 14-Barkhola, 15-Katigora
+3-Autonomous District (ST)          16-Haflong (ST), 17-Bokajan(ST), 18-Howraghat (ST), 19-Diphu (ST), 20-Baithalangso (ST)
+4-Dhubri                            21-Mankachar, 22-Salmara South, 23-Dhubri,24-Gauripur, 25-Golakganj, 26-Bilasipara West, 27-Bilasipara East, 37-Goalpara East, 38-Goalpara West, 39-Jaleswar
+5-Kokrajhar (ST)                    28-Gossaigaon, 29-Kokrajhar West (ST), 30-Kokrajhar East (ST), 31-Sidli (ST), 33-Bijni, 40-Sorbhog, 41-Bhabanipur, 58-Tamulpur, 62-Barama (ST), 63-Chapaguri (ST)
+6-Barpeta                           32-Bongaigaon, 34-Abhayapuri North, 35-Abhayapuri South (SC), 42-Patacharkuchi, 43-Barpeta, 44-Jania, 45-Baghbar, 46-Sarukhetri, 47-Chenga, 61-Dharmapur
+7-Gauhati                           36-Dudhnai (ST), 48-Boko (SC), 49-Chaygaon, 50-Palasbari, 51-Jalukbari, 52-Dispur, 53-Gauhati East, 54-Gauhati West, 55-Hajo, 60-Barkhetry
+8-Mangaldoi                         56-Kamalpur, 57-Rangiya, 59-Nalbari,64-Panery, 65-Kalaigaon, 66-Sipajhar, 67-Mangaldoi (SC), 68-Dalgaon, 69-Udalguri (ST), 70-Majbat
+9-Tezpur                            71-Dhekiajuli, 72-Barchalla, 73-Tezpur,74-Rangapara, 75-Sootea, 76-Biswanath, 77-Behali, 78-Gohpur, 109-Bihpuria
+10-Nawgong                          79-Jagiroad (SC), 80-Marigaon, 81-Laharighat, 82-Raha (SC), 86-Nowgong, 87-Barhampur, 90-Jamunamukh, 91-Hojai, 92-Lumding
+11-Kaliabor                         83-Dhing, 84-Batadroba, 85-Rupohihat, 88-Samaguri, 89-Kaliabor, 93-Bokakhat, 94-Sarupathar, 95-Golaghat, 96-Khumtai, 97-Dergaon (SC)
+12-Jorhat                           98-Jorhat, 100-Titabar, 101-Mariani, 102-Teok, 103-Amguri, 104-Nazira, 105-Mahmara, 106-Sonari, 107-Thowra, 108-Sibsagar
+13-Dibrugarh                        115-Moran, 116-Dibrugarh, 117-Lahowal, 118-Duliajan, 119-Tingkhong, 120-Nahar Katia, 122-Tinsukia, 123-Digboi, 124-Margherita
+14-Lakhimpur                        99-Majuli (ST), 110-Naoboicha, 111-Lakhimpur, 112-Dhakuakhana (ST), 113-Dhemaji (ST), 114-Jonai (ST), 121-Chabua, 125-Doom Dooma, 126-Sadiya
 STATE: BIHAR
-1-Valmiki Nagar                 1-Valmiki Nagar, 2-Ramnagar (SC), 3-Narkatiaganj, 4-Bagaha, 5-Lauriya, 9-Sikta
-2-Paschim Champaran             6-Nautan, 7-Chanpatia, 8-Bettiah, 10-Raxaul, 11-Sugauli, 12-Narkatia
-3-Purvi Champaran               13-Harsidhi (SC), 14-Govindganj, 15-Kesaria, 16-Kalyanpur, 17-Pipra, 19-Motihari
-4-Sheohar                       18-Madhuban, 20-Chiraia, 21-Dhaka, 22-Sheohar, 23-Riga, 30-Belsand
-5-Sitamarhi                     24-Bathnaha(SC), 25-Parihar, 26-Sursand, 27-Bajpatti, 28-Sitamarhi, 29-Runnisaidpur
-6-Madhubani                     31-Harlakhi, 32-Benipatti, 35-Bisfi, 36-Madhubani, 86-Keoti, 87-Jale
-7-Jhanjharpur                   33-Khajauli, 34-Babubarhi, 37-Rajnagar (SC), 38-Jhanjharpur, 39-Phulparas, 40-Laukaha
-8-Supaul                        41-Nirmali, 42-Pipra, 43-Supaul, 44-Triveniganj (SC), 45-Chhatapur, 72-Singheshwar (SC)
-9-Araria                        46-Narpatganj, 47-Raniganj (SC), 48-Forbesganj, 49-Araria, 50-Jokhihat, 51-Sikti
-10-Kishanganj                   52-Bahadurganj, 53-Thakurganj, 54-Kishanganj, 55-Kochadhaman, 56-Amour, 57-Baisi
-11-Katihar                      63-Katihar, 64-Kadwa, 65-Balrampur, 66-Pranpur, 67-Manihari (ST), 68-Barari
-12-Purnia                       58-Kasba, 59-Banmankhi (SC), 60-Rupauli, 61-Dhamdaha, 62-Purnia, 69-Korha (SC)
-13-Madhepura                    70-Alamnagar, 71-Bihariganj, 73-Madhepura, 74-Sonbarsha (SC), 75-Saharsa, 77-Mahishi
-14-Darbhanga                    79-Gaura Bauram, 80-Benipur, 81-Alinagar, 82-Darbhanga Rural, 83-Darbhanga, 85-Bahadurpur
-15-Muzaffarpur                  88-Gaighat, 89-Aurai, 91-Bochahan (SC), 92-Sakra (SC), 93-Kurhani, 94-Muzaffarpur
-16-Vaishali                     90-Minapur, 95-Kanti, 96-Baruraj, 97-Paroo, 98-Sahebganj, 125-Vaishali
-17-Gopalganj (SC)               99-Baikunthpur, 100-Barauli, 101-Gopalganj, 102-Kuchaikote, 103-Bhore (SC), 104-Hathua
-18-Siwan                        105-Siwan, 106-Ziradei, 107-Darauli (SC), 108-Raghunathpur, 109-Daraunda, 110-Barharia
-19-Maharajganj                  111-Goriyakothi, 112-Maharajganj, 113-Ekma, 114-Manjhi, 115-Baniapur, 116-Taraiya
-20-Saran                        117-Marhaura, 118-Chapra, 119-Garkha (SC), 120-Amnour, 121-Parsa, 122-Sonepur
-21-Hajipur (SC)                 123-Hajipur, 124-Lalganj, 126-Mahua, 127-Raja     Pakar (SC), 128-Raghopur, 129-Mahnar
-22-Ujiarpur                     130-Patepur (SC), 134-Ujiarpur, 135-Morwa, 136-Sarairanjan, 137-Mohiuddinnagar, 138-Bibhutipur
-23-Samastipur (SC)              78-Kusheshwar Asthan (SC), 84-Hayaghat, 131-Kalyanpur (SC), 132-Warisnagar, 133-Samastipur, 139-Rosera (SC)
-24-Begusarai                    141-Cheria Bariarpur, 142-Bachhwara, 143-Teghra, 144-Matihani, 145-Sahebpur Kamal, 146-Begusarai, 147-Bakhri (SC)
-25-Khagaria                     76-Simri Bakhtiarpur, 140-Hasanpur, 148-Alauli (SC), 149-Khagaria, 150-Beldaur, 151-Parbatta
-26-Bhagalpur                    152-Bihpur, 153-Gopalpur, 154-Pirpainti (SC), 155-Kahalgaon, 156-Bhagalpur, 158-Nathnagar
-27-Banka                        157-Sultanganj, 159-Amarpur, 160-Dhoraiya (SC), 161-Banka, 162-Katoria (ST), 163-Belhar
-28-Munger                       165-Munger, 166-Jamalpur, 167-Suryagarha, 168-Lakhisarai, 178-Mokama, 179-Barh
-29-Nalanda                      171-Asthawan, 172-Biharsharif, 173-Rajgir (SC), 174-Islampur, 175-Hilsa, 176-Nalanda, 177-Harnaut
-30-Patna Sahib                  180-Bakhtiarpur, 181-Digha, 182-Bankipur, 183-Kumhrar, 184-Patna Sahib, 185-Fatuha
-31-Pataliputra                  186-Danapur, 187-Maner, 188-Phulwari (SC), 189-Masaurhi (SC), 190-Paliganj, 191-Bikram
-32-Arrah                        192-Sandesh, 193-Barhara, 194-Arrah, 195-Agiaon (SC), 196-Tarari, 197-Jagdishpur, 198-Shahpur
-33-Buxar                        199-Brahampur, 200-Buxar, 201-Dumraon, 202-Rajpur (SC), 203-Ramgarh, 210-Dinara
-34-Sasaram (SC)                 204-Mohania (SC), 205-Bhabua, 206-Chainpur, 207-Chenari (SC), 208-Sasaram, 209-Kargahar
-35-Karakat                      211-Nokha, 212-Dehri, 213-Karakat, 219-Goh, 220-Obra, 221-Nabinagar
-36-Jahanabad                    214-Arwal, 215-Kurtha, 216-Jahanabad, 217-Ghosi, 218-Makhdumpur (SC), 233-Atri
-37-Aurangabad                   222-Kutumba (SC), 223-Aurangabad, 224-Rafiganj, 225-Gurua, 227-Imamganj (SC), 231-Tikari
-38-Gaya (SC)                    226-Sherghati, 228-Barachatti (SC), 229-Bodh Gaya (SC), 230-Gaya Town, 232-Belaganj, 234-Wazirganj
-39-Nawada                       170-Barbigha, 235-Rajauli (SC), 236-Hisua, 237-Nawada, 238-Gobindpur, 239-Warsaliganj
-40-Jamui (SC)                   164-Tarapur, 169-Sheikhpura, 240-Sikandra (SC), 241-Jamui, 242-Jhajha, 243-Chakai
+1-Valmiki Nagar                     1-Valmiki Nagar, 2-Ramnagar (SC), 3-Narkatiaganj, 4-Bagaha, 5-Lauriya, 9-Sikta
+2-Paschim Champaran                 6-Nautan, 7-Chanpatia, 8-Bettiah, 10-Raxaul, 11-Sugauli, 12-Narkatia
+3-Purvi Champaran                   13-Harsidhi (SC), 14-Govindganj, 15-Kesaria, 16-Kalyanpur, 17-Pipra, 19-Motihari
+4-Sheohar                           18-Madhuban, 20-Chiraia, 21-Dhaka, 22-Sheohar, 23-Riga, 30-Belsand
+5-Sitamarhi                         24-Bathnaha(SC), 25-Parihar, 26-Sursand, 27-Bajpatti, 28-Sitamarhi, 29-Runnisaidpur
+6-Madhubani                         31-Harlakhi, 32-Benipatti, 35-Bisfi, 36-Madhubani, 86-Keoti, 87-Jale
+7-Jhanjharpur                       33-Khajauli, 34-Babubarhi, 37-Rajnagar (SC), 38-Jhanjharpur, 39-Phulparas, 40-Laukaha
+8-Supaul                            41-Nirmali, 42-Pipra, 43-Supaul, 44-Triveniganj (SC), 45-Chhatapur, 72-Singheshwar (SC)
+9-Araria                            46-Narpatganj, 47-Raniganj (SC), 48-Forbesganj, 49-Araria, 50-Jokhihat, 51-Sikti
+10-Kishanganj                       52-Bahadurganj, 53-Thakurganj, 54-Kishanganj, 55-Kochadhaman, 56-Amour, 57-Baisi
+11-Katihar                          63-Katihar, 64-Kadwa, 65-Balrampur, 66-Pranpur, 67-Manihari (ST), 68-Barari
+12-Purnia                           58-Kasba, 59-Banmankhi (SC), 60-Rupauli, 61-Dhamdaha, 62-Purnia, 69-Korha (SC)
+13-Madhepura                        70-Alamnagar, 71-Bihariganj, 73-Madhepura, 74-Sonbarsha (SC), 75-Saharsa, 77-Mahishi
+14-Darbhanga                        79-Gaura Bauram, 80-Benipur, 81-Alinagar, 82-Darbhanga Rural, 83-Darbhanga, 85-Bahadurpur
+15-Muzaffarpur                      88-Gaighat, 89-Aurai, 91-Bochahan (SC), 92-Sakra (SC), 93-Kurhani, 94-Muzaffarpur
+16-Vaishali                         90-Minapur, 95-Kanti, 96-Baruraj, 97-Paroo, 98-Sahebganj, 125-Vaishali
+17-Gopalganj (SC)                   99-Baikunthpur, 100-Barauli, 101-Gopalganj, 102-Kuchaikote, 103-Bhore (SC), 104-Hathua
+18-Siwan                            105-Siwan, 106-Ziradei, 107-Darauli (SC), 108-Raghunathpur, 109-Daraunda, 110-Barharia
+19-Maharajganj                      111-Goriyakothi, 112-Maharajganj, 113-Ekma, 114-Manjhi, 115-Baniapur, 116-Taraiya
+20-Saran                            117-Marhaura, 118-Chapra, 119-Garkha (SC), 120-Amnour, 121-Parsa, 122-Sonepur
+21-Hajipur (SC)                     123-Hajipur, 124-Lalganj, 126-Mahua, 127-Raja     Pakar (SC), 128-Raghopur, 129-Mahnar
+22-Ujiarpur                         130-Patepur (SC), 134-Ujiarpur, 135-Morwa, 136-Sarairanjan, 137-Mohiuddinnagar, 138-Bibhutipur
+23-Samastipur (SC)                  78-Kusheshwar Asthan (SC), 84-Hayaghat, 131-Kalyanpur (SC), 132-Warisnagar, 133-Samastipur, 139-Rosera (SC)
+24-Begusarai                        141-Cheria Bariarpur, 142-Bachhwara, 143-Teghra, 144-Matihani, 145-Sahebpur Kamal, 146-Begusarai, 147-Bakhri (SC)
+25-Khagaria                         76-Simri Bakhtiarpur, 140-Hasanpur, 148-Alauli (SC), 149-Khagaria, 150-Beldaur, 151-Parbatta
+26-Bhagalpur                        152-Bihpur, 153-Gopalpur, 154-Pirpainti (SC), 155-Kahalgaon, 156-Bhagalpur, 158-Nathnagar
+27-Banka                            157-Sultanganj, 159-Amarpur, 160-Dhoraiya (SC), 161-Banka, 162-Katoria (ST), 163-Belhar
+28-Munger                           165-Munger, 166-Jamalpur, 167-Suryagarha, 168-Lakhisarai, 178-Mokama, 179-Barh
+29-Nalanda                          171-Asthawan, 172-Biharsharif, 173-Rajgir (SC), 174-Islampur, 175-Hilsa, 176-Nalanda, 177-Harnaut
+30-Patna Sahib                      180-Bakhtiarpur, 181-Digha, 182-Bankipur, 183-Kumhrar, 184-Patna Sahib, 185-Fatuha
+31-Pataliputra                      186-Danapur, 187-Maner, 188-Phulwari (SC), 189-Masaurhi (SC), 190-Paliganj, 191-Bikram
+32-Arrah                            192-Sandesh, 193-Barhara, 194-Arrah, 195-Agiaon (SC), 196-Tarari, 197-Jagdishpur, 198-Shahpur
+33-Buxar                            199-Brahampur, 200-Buxar, 201-Dumraon, 202-Rajpur (SC), 203-Ramgarh, 210-Dinara
+34-Sasaram (SC)                     204-Mohania (SC), 205-Bhabua, 206-Chainpur, 207-Chenari (SC), 208-Sasaram, 209-Kargahar
+35-Karakat                          211-Nokha, 212-Dehri, 213-Karakat, 219-Goh, 220-Obra, 221-Nabinagar
+36-Jahanabad                        214-Arwal, 215-Kurtha, 216-Jahanabad, 217-Ghosi, 218-Makhdumpur (SC), 233-Atri
+37-Aurangabad                       222-Kutumba (SC), 223-Aurangabad, 224-Rafiganj, 225-Gurua, 227-Imamganj (SC), 231-Tikari
+38-Gaya (SC)                        226-Sherghati, 228-Barachatti (SC), 229-Bodh Gaya (SC), 230-Gaya Town, 232-Belaganj, 234-Wazirganj
+39-Nawada                           170-Barbigha, 235-Rajauli (SC), 236-Hisua, 237-Nawada, 238-Gobindpur, 239-Warsaliganj
+40-Jamui (SC)                       164-Tarapur, 169-Sheikhpura, 240-Sikandra (SC), 241-Jamui, 242-Jhajha, 243-Chakai
+STATE: CHANDIGARH
+1-Chandigarh                        1-Chandigarh
 STATE: CHHATTISGARH
-1-Surguja (ST)                  4-Premnagar, 5-Bhatgaon, 6-Pratappur (ST), 7-Ramanujganj (ST), 8-Samri (ST), 9-Lundra (ST), 10-Ambikapur, 11-Sitapur (ST)
-2-Raigarh (ST)                  12-Jashpur (ST), 13-Kunkuri (ST), 14-Pathalgaon (ST), 15-Lailunga (ST), 16-Raigarh, 17-Sarangarh (SC), 18-Kharsia, 19-Dharamjaigarh (ST)
-3 Janjgir-Champa (SC)           33-Akaltara, 34-Janjgir-Champa, 35-Sakti, 36-Chandrapur, 37-Jaijaipur, 38-Pamgarh (SC), 43-Bilaigarh (SC), 44-Kasdol
-4-Korba                         1-Bharatpur-Sonhat (ST), 2-Manendragarh, 3-Baikunthpur, 20-Rampur (ST), 21-Korba, 22-Katghora, 23-Pali-Tanakhar (ST), 24-Marwahi (ST)
-5-Bilaspur                      25-Kota, 26-Lormi, 27-Mungeli (SC), 28-Takhatpur, 29-Bilha, 30-Bilaspur, 31-Beltara, 32-Masturi (SC)
-6-Rajnandgaon                   71-Pandariya, 72-Kawardha, 73-Khairagarh, 74-Dongargarh (SC), 75-Rajnandgaon, 76-Dongargaon, 77-Khujji, 78-Mohla-Manpur (ST)
-7-Durg                          62-Patan, 63-Durg-Rural, 64-Durg City, 65-Bhilai Nagar, 66-Vaishali Nagar, 67-Ahiwara (SC), 68-Saja, 69-Bemetara, 70-Nawagarh (SC)
-8-Raipur                        45-Baloda Bazar, 46-Bhatapara, 47-Dharsiwa, 48-Raipur Rural, 49-Raipur City West, 50-Raipur City North, 51-Raipur City South, 52-Arang (SC), 53-Abhanpur
-9-Mahasamund                    39-Saraipali (SC), 40-Basna, 41-Khallari, 42-Mahasamund, 54-Rajim, 55-Bindranawagarh (ST), 57-Kurud, 58-Dhamtari
-10-Bastar (ST)                  83-Kondagaon (ST), 84-Narayanpur (ST), 85-Bastar (ST), 86-Jagdalpur, 87-Chitrakot (ST), 88-Dantewada (ST), 89-Bijapur (ST), 90-Konta (ST)
-11-Kanker (ST)                  56-Sihawa (ST), 59-Sanjari Balod, 60-Dondi Lohara (ST), 61.Gunderdehi, 79-Antagarh (ST), 80-Bhanupratappur (ST), 81-Kanker (ST), 82-Keshkal (ST)
+1-Surguja (ST)                      4-Premnagar, 5-Bhatgaon, 6-Pratappur (ST), 7-Ramanujganj (ST), 8-Samri (ST), 9-Lundra (ST), 10-Ambikapur, 11-Sitapur (ST)
+2-Raigarh (ST)                      12-Jashpur (ST), 13-Kunkuri (ST), 14-Pathalgaon (ST), 15-Lailunga (ST), 16-Raigarh, 17-Sarangarh (SC), 18-Kharsia, 19-Dharamjaigarh (ST)
+3 Janjgir-Champa (SC)               33-Akaltara, 34-Janjgir-Champa, 35-Sakti, 36-Chandrapur, 37-Jaijaipur, 38-Pamgarh (SC), 43-Bilaigarh (SC), 44-Kasdol
+4-Korba                             1-Bharatpur-Sonhat (ST), 2-Manendragarh, 3-Baikunthpur, 20-Rampur (ST), 21-Korba, 22-Katghora, 23-Pali-Tanakhar (ST), 24-Marwahi (ST)
+5-Bilaspur                          25-Kota, 26-Lormi, 27-Mungeli (SC), 28-Takhatpur, 29-Bilha, 30-Bilaspur, 31-Beltara, 32-Masturi (SC)
+6-Rajnandgaon                       71-Pandariya, 72-Kawardha, 73-Khairagarh, 74-Dongargarh (SC), 75-Rajnandgaon, 76-Dongargaon, 77-Khujji, 78-Mohla-Manpur (ST)
+7-Durg                              62-Patan, 63-Durg-Rural, 64-Durg City, 65-Bhilai Nagar, 66-Vaishali Nagar, 67-Ahiwara (SC), 68-Saja, 69-Bemetara, 70-Nawagarh (SC)
+8-Raipur                            45-Baloda Bazar, 46-Bhatapara, 47-Dharsiwa, 48-Raipur Rural, 49-Raipur City West, 50-Raipur City North, 51-Raipur City South, 52-Arang (SC), 53-Abhanpur
+9-Mahasamund                        39-Saraipali (SC), 40-Basna, 41-Khallari, 42-Mahasamund, 54-Rajim, 55-Bindranawagarh (ST), 57-Kurud, 58-Dhamtari
+10-Bastar (ST)                      83-Kondagaon (ST), 84-Narayanpur (ST), 85-Bastar (ST), 86-Jagdalpur, 87-Chitrakot (ST), 88-Dantewada (ST), 89-Bijapur (ST), 90-Konta (ST)
+11-Kanker (ST)                      56-Sihawa (ST), 59-Sanjari Balod, 60-Dondi Lohara (ST), 61.Gunderdehi, 79-Antagarh (ST), 80-Bhanupratappur (ST), 81-Kanker (ST), 82-Keshkal (ST)
+STATE: DADRA AND NAGAR HAVELI
+1-Dadra and Nagar Haveli (ST)       1-Dadra and Nagar Haveli (ST)
+STATE: DAMAN AND DIU
+1-Daman and Diu                     1-Daman and Diu
 STATE: GOA
-1-North Goa                     1-Mandrem, 2-Pernem (SC), 3-Bicholim, 4-Tivim, 5-Mapusa, 6-Siolim, 7-Saligao, 8-Calangute, 9-Porvorim, 10-Aldona, 11-Panaji, 12-Taleigao, 13-St.Cruz, 14-St.Andre, 15-Cumbarjua, 16-Mayem, 17-Sanquelim, 18-Poriem, 19-Valpoi, 20-Priol
-2-South Goa                     21-Ponda, 22-Shiroda, 23-Marcaim, 24-Mormugao, 25-Vasco-Da-Gama, 26-Dabolim, 27-Cortalim, 28-Nuvem, 29-Curtorim, 30-Fatorda, 31-Margao, 32-Benaulim, 33-Navelim, 34-Cuncolim, 35-Velim, 36-Quepem, 37-Curchorem, 38-Sanvordem, 39-Sanguem, 40-Canacona
+1-North Goa                         1-Mandrem, 2-Pernem (SC), 3-Bicholim, 4-Tivim, 5-Mapusa, 6-Siolim, 7-Saligao, 8-Calangute, 9-Porvorim, 10-Aldona, 11-Panaji, 12-Taleigao, 13-St.Cruz, 14-St.Andre, 15-Cumbarjua, 16-Mayem, 17-Sanquelim, 18-Poriem, 19-Valpoi, 20-Priol
+2-South Goa                         21-Ponda, 22-Shiroda, 23-Marcaim, 24-Mormugao, 25-Vasco-Da-Gama, 26-Dabolim, 27-Cortalim, 28-Nuvem, 29-Curtorim, 30-Fatorda, 31-Margao, 32-Benaulim, 33-Navelim, 34-Cuncolim, 35-Velim, 36-Quepem, 37-Curchorem, 38-Sanvordem, 39-Sanguem, 40-Canacona
 STATE: GUJARAT
-1-Kachchh (SC)                  1-Abdasa, 2-Mandvi, 3-Bhuj, 4-Anjar, 5-Gandhidham (SC), 6-Rapar, 65-Morbi
-2-Banaskantha                   7-Vav, 8-Tharad, 9-Dhanera, 10-Danta (ST), 12-Palanpur, 13-Deesa, 14-Deodar
-3-Patan                         11-Vadgam (SC), 15-Kankrej, 16-Radhanpur, 17-Chanasma, 18-Patan, 19-Sidhpur, 20-Kheralu
-4-Mahesana                      21-Unjha, 22-Visnagar, 23-Becharaji, 24-Kadi (SC), 25-Mahesana, 26-Vijapur, 37-Mansa
-5-Sabarkantha                   27-Himatnagar, 28-Idar (SC), 29-Khedbrahma (ST), 30-Bhiloda (ST), 31-Modasa, 32-Bayad, 33-Prantij
-6-Gandhinagar                   36-Gandhinagar North, 38-Kalol, 40-Sanand, 41-Ghatlodia, 42-Vejalpur, 45-Naranpura, 55-Sabarmati
-7-Ahmedabad East                34-Dahegam, 35-Gandhinagar South, 43-Vatva, 46-Nikol, 47-Naroda, 48-Thakkarbapa Nagar, 49-Bapunagar
-8-Ahmedabad West (SC)           44-Ellisbridge, 50-Amraiwadi, 51-Dariapur, 52-Jamalpur-Khadia, 53-Maninagar, 54-Danilimda (SC), 56-Asarwa (SC)
-9-Surendranagar                 39-Viramgam, 59-Dhandhuka, 60-Dasada (SC), 61-Limbdi, 62-Wadhwan, 63-Chotila, 64-Dhrangadhra
-10-Rajkot                       66-Tankara, 67-Wankaner, 68-Rajkot East, 69-Rajkot West, 70-Rajkot South, 71-Rajkot Rural (SC), 72-Jasdan
-11-Porbandar                    73-Gondal, 74-Jetpur, 75-Dhoraji, 83-Porbandar, 84-Kutiyana, 85-Manavadar, 88-Keshod
-12-Jamnagar                     76-Kalavad (SC), 77-Jamnagar Rural, 78-Jamnagar North, 79-Jamnagar South, 80-Jamjodhpur, 81-Khambhalia, 82-Dwarka
-13-Junagadh                     86-Junagadh, 87-Visavadar, 89-Mangrol, 90-Somnath, 91-Talala, 92-Kodinar (SC), 93-Una
-14-Amreli                       94-Dhari, 95-Amreli, 96-Lathi, 97-Savarkundla, 98-Rajula, 99-Mahuva, 101-Gariadhar
-15-Bhavnagar                    100-Talaja, 102-Palitana, 103-Bhavnagar Rural, 104-Bhavnagar East, 105-Bhavnagar West, 106-Gadhada (SC), 107-Botad
-16-Anand                        108-Khambhat, 109-Borsad, 110-Anklav, 111-Umreth, 112-Anand, 113-Petlad, 114-Sojitra
-17-Kheda                        57-Daskroi, 58-Dholka, 115-Matar, 116-Nadiad, 117-Mehmedabad, 118-Mahudha, 120-Kapadvanj
-18-Panchmahal                   119-Thasra, 121-Balasinor, 122-Lunawada, 124-Shehra, 125-Morva Hadaf (ST), 126-Godhra, 127-Kalol
-19-Dahod (ST)                   123-Santrampur (ST), 129-Fatepura (ST), 130-Jhalod (ST), 131-Limkheda (ST), 132-Dahod (ST), 133-Garbada (ST), 134-Devgadbaria
-20-Vadodara                     135-Savli, 136-Vaghodia, 141-Vadodara City (SC), 142-Sayajigunj, 143-Akota, 144-Raopura, 145-Manjalpur
-21 Chhota Udaipur (ST)          128-Halol, 137-Chhota Udaipur (ST), 138-Jetpur (ST), 139-Sankheda (ST), 140-Dabhoi, 146-Padra, 148-Nandod (ST)
-22-Bharuch                      147-Karjan, 149-Dediapada (ST), 150-Jambusar, 151-Vagra, 152-Jhagadia (ST), 153-Bharuch, 154-Ankleshwar
-23-Bardoli (ST)                 156-Mangrol (ST), 157-Mandvi (ST), 158-Kamrej, 169-Bardoli (SC), 170-Mahuva (ST), 171-Vyara (ST), 172-Nizar (ST)
-24-Surat                        155-Olpad, 159-Surat East, 160-Surat North, 161-Varachha Road, 162-Karanj, 166-Katargam, 167-Surat West
-25-Navsari                      163-Limbayat, 164-Udhna, 165-Majura, 168-Choryasi, 174-Jalalpore, 175-Navsari, 176-Gandevi (ST)
-26-Valsad (ST)                  173-Dangs (ST), 177-Vansda (ST), 178-Dharampur (ST), 179-Valsad, 180-Pardi, 181-Kaprada (ST), 182-Umbergaon (ST)
+1-Kachchh (SC)                      1-Abdasa, 2-Mandvi, 3-Bhuj, 4-Anjar, 5-Gandhidham (SC), 6-Rapar, 65-Morbi
+2-Banaskantha                       7-Vav, 8-Tharad, 9-Dhanera, 10-Danta (ST), 12-Palanpur, 13-Deesa, 14-Deodar
+3-Patan                             11-Vadgam (SC), 15-Kankrej, 16-Radhanpur, 17-Chanasma, 18-Patan, 19-Sidhpur, 20-Kheralu
+4-Mahesana                          21-Unjha, 22-Visnagar, 23-Becharaji, 24-Kadi (SC), 25-Mahesana, 26-Vijapur, 37-Mansa
+5-Sabarkantha                       27-Himatnagar, 28-Idar (SC), 29-Khedbrahma (ST), 30-Bhiloda (ST), 31-Modasa, 32-Bayad, 33-Prantij
+6-Gandhinagar                       36-Gandhinagar North, 38-Kalol, 40-Sanand, 41-Ghatlodia, 42-Vejalpur, 45-Naranpura, 55-Sabarmati
+7-Ahmedabad East                    34-Dahegam, 35-Gandhinagar South, 43-Vatva, 46-Nikol, 47-Naroda, 48-Thakkarbapa Nagar, 49-Bapunagar
+8-Ahmedabad West (SC)               44-Ellisbridge, 50-Amraiwadi, 51-Dariapur, 52-Jamalpur-Khadia, 53-Maninagar, 54-Danilimda (SC), 56-Asarwa (SC)
+9-Surendranagar                     39-Viramgam, 59-Dhandhuka, 60-Dasada (SC), 61-Limbdi, 62-Wadhwan, 63-Chotila, 64-Dhrangadhra
+10-Rajkot                           66-Tankara, 67-Wankaner, 68-Rajkot East, 69-Rajkot West, 70-Rajkot South, 71-Rajkot Rural (SC), 72-Jasdan
+11-Porbandar                        73-Gondal, 74-Jetpur, 75-Dhoraji, 83-Porbandar, 84-Kutiyana, 85-Manavadar, 88-Keshod
+12-Jamnagar                         76-Kalavad (SC), 77-Jamnagar Rural, 78-Jamnagar North, 79-Jamnagar South, 80-Jamjodhpur, 81-Khambhalia, 82-Dwarka
+13-Junagadh                         86-Junagadh, 87-Visavadar, 89-Mangrol, 90-Somnath, 91-Talala, 92-Kodinar (SC), 93-Una
+14-Amreli                           94-Dhari, 95-Amreli, 96-Lathi, 97-Savarkundla, 98-Rajula, 99-Mahuva, 101-Gariadhar
+15-Bhavnagar                        100-Talaja, 102-Palitana, 103-Bhavnagar Rural, 104-Bhavnagar East, 105-Bhavnagar West, 106-Gadhada (SC), 107-Botad
+16-Anand                            108-Khambhat, 109-Borsad, 110-Anklav, 111-Umreth, 112-Anand, 113-Petlad, 114-Sojitra
+17-Kheda                            57-Daskroi, 58-Dholka, 115-Matar, 116-Nadiad, 117-Mehmedabad, 118-Mahudha, 120-Kapadvanj
+18-Panchmahal                       119-Thasra, 121-Balasinor, 122-Lunawada, 124-Shehra, 125-Morva Hadaf (ST), 126-Godhra, 127-Kalol
+19-Dahod (ST)                       123-Santrampur (ST), 129-Fatepura (ST), 130-Jhalod (ST), 131-Limkheda (ST), 132-Dahod (ST), 133-Garbada (ST), 134-Devgadbaria
+20-Vadodara                         135-Savli, 136-Vaghodia, 141-Vadodara City (SC), 142-Sayajigunj, 143-Akota, 144-Raopura, 145-Manjalpur
+21 Chhota Udaipur (ST)              128-Halol, 137-Chhota Udaipur (ST), 138-Jetpur (ST), 139-Sankheda (ST), 140-Dabhoi, 146-Padra, 148-Nandod (ST)
+22-Bharuch                          147-Karjan, 149-Dediapada (ST), 150-Jambusar, 151-Vagra, 152-Jhagadia (ST), 153-Bharuch, 154-Ankleshwar
+23-Bardoli (ST)                     156-Mangrol (ST), 157-Mandvi (ST), 158-Kamrej, 169-Bardoli (SC), 170-Mahuva (ST), 171-Vyara (ST), 172-Nizar (ST)
+24-Surat                            155-Olpad, 159-Surat East, 160-Surat North, 161-Varachha Road, 162-Karanj, 166-Katargam, 167-Surat West
+25-Navsari                          163-Limbayat, 164-Udhna, 165-Majura, 168-Choryasi, 174-Jalalpore, 175-Navsari, 176-Gandevi (ST)
+26-Valsad (ST)                      173-Dangs (ST), 177-Vansda (ST), 178-Dharampur (ST), 179-Valsad, 180-Pardi, 181-Kaprada (ST), 182-Umbergaon (ST)
 STATE: HARYANA
-1-Ambala (SC)                   1-Kalka, 2-Panchkula, 3-Naraingarh, 4-Ambala Cantt., 5-Ambala City, 6-Mulana (SC), 7-Sadhaura (SC), 8-Jagadhri, 9-Yamunanagar
-2-Kurukshetra                   10-Radaur, 11-Ladwa, 12-Shahbad (SC), 13-Thanesar, 14-Pehowa, 15-Guhla (SC), 16-Kalayat, 17-Kaithal, 18-Pundri
-3-Sirsa (SC)                    38-Narwana (SC), 39-Tohana, 40-Fatehabad, 41-Ratia (SC), 42-Kalanwali (SC), 43-Dabwali, 44-Rania, 45-Sirsa, 46-Ellenabad
-4-Hisar                         37-Uchana Kalan, 47-Adampur, 48-Uklana (SC), 49-Narnaund, 50-Hansi, 51-Barwala, 52-Hisar, 53-Nalwa, 59-Bawani Khera (SC)
-5-Karnal                        19-Nilokheri (SC), 20-Indri, 21-Karnal, 22-Gharaunda, 23-Assandh, 24-Panipat Rural, 25-Panipat City, 26-Israna (SC), 27-Samalkha
-6-Sonipat                       28-Ganaur, 29-Rai, 30-Kharkhauda (SC), 31-Sonipat, 32-Gohana, 33-Baroda, 34-Julana, 35-Safidon, 36-Jind
-7-Rohtak                        60-Meham, 61-Garhi Sampla-Kiloi, 62-Rohtak, 63-Kalanaur (SC), 64-Bahadurgarh, 65-Badli, 66-Jhajjar (SC), 67-Beri, 73-Kosli
-8-Bhiwani-Mahendragarh          54-Loharu, 55-Badhra, 56-Dadri, 57-Bhiwani, 58-Tosham, 68-Ateli, 69-Mahendragarh, 70-Narnaul, 71-Nangal Chaudhry
-9-Gurgaon                       72-Bawal (SC), 74-Rewari, 75-Pataudi (SC), 76-Badshahpur, 77-Gurgaon, 78-Sohna, 79-Nuh, 80-Ferozepur Jhirka, 81-Punahana
-10-Faridabad                    82-Hathin, 83-Hodal (SC), 84-Palwal, 85-Prithla, 86-Faridabad NIT, 87-Badkhal, 88-Ballabgarh, 89-Faridabad, 90-Tigaon
+1-Ambala (SC)                       1-Kalka, 2-Panchkula, 3-Naraingarh, 4-Ambala Cantt., 5-Ambala City, 6-Mulana (SC), 7-Sadhaura (SC), 8-Jagadhri, 9-Yamunanagar
+2-Kurukshetra                       10-Radaur, 11-Ladwa, 12-Shahbad (SC), 13-Thanesar, 14-Pehowa, 15-Guhla (SC), 16-Kalayat, 17-Kaithal, 18-Pundri
+3-Sirsa (SC)                        38-Narwana (SC), 39-Tohana, 40-Fatehabad, 41-Ratia (SC), 42-Kalanwali (SC), 43-Dabwali, 44-Rania, 45-Sirsa, 46-Ellenabad
+4-Hisar                             37-Uchana Kalan, 47-Adampur, 48-Uklana (SC), 49-Narnaund, 50-Hansi, 51-Barwala, 52-Hisar, 53-Nalwa, 59-Bawani Khera (SC)
+5-Karnal                            19-Nilokheri (SC), 20-Indri, 21-Karnal, 22-Gharaunda, 23-Assandh, 24-Panipat Rural, 25-Panipat City, 26-Israna (SC), 27-Samalkha
+6-Sonipat                           28-Ganaur, 29-Rai, 30-Kharkhauda (SC), 31-Sonipat, 32-Gohana, 33-Baroda, 34-Julana, 35-Safidon, 36-Jind
+7-Rohtak                            60-Meham, 61-Garhi Sampla-Kiloi, 62-Rohtak, 63-Kalanaur (SC), 64-Bahadurgarh, 65-Badli, 66-Jhajjar (SC), 67-Beri, 73-Kosli
+8-Bhiwani-Mahendragarh              54-Loharu, 55-Badhra, 56-Dadri, 57-Bhiwani, 58-Tosham, 68-Ateli, 69-Mahendragarh, 70-Narnaul, 71-Nangal Chaudhry
+9-Gurgaon                           72-Bawal (SC), 74-Rewari, 75-Pataudi (SC), 76-Badshahpur, 77-Gurgaon, 78-Sohna, 79-Nuh, 80-Ferozepur Jhirka, 81-Punahana
+10-Faridabad                        82-Hathin, 83-Hodal (SC), 84-Palwal, 85-Prithla, 86-Faridabad NIT, 87-Badkhal, 88-Ballabgarh, 89-Faridabad, 90-Tigaon
 STATE: HIMACHAL PRADESH
-1-Kangra                        1-Churah (SC), 3-Chamba, 4-Dalhousie, 5-Bhattiyat, 6-Nurpur, 7-Indora (SC), 8-Fatehpur, 9-Jawali, 12-Jawalamukhi, 13-Jaisinghpur (SC), 14-Sullah, 15-Nagrota, 16-Kangra, 17-Shahpur, 18-Dharamshala, 19-Palampur, 20-Baijnath (SC)
-2-Mandi                         2-Bharmour (ST), 21-Lahaul & Spiti (ST), 22-Manali, 23-Kullu, 24-Banjar, 25-Anni (SC), 26-Karsog (SC), 27-Sundernagar, 28-Nachan (SC), 29-Seraj, 30-Darang, 31-Jogindernagar, 33-Mandi, 34-Balh (SC), 35-Sarkaghat, 66-Rampur (SC), 68-Kinnaur (ST)
-3-Hamirpur                      10-Dehra, 11-Jaswan-Pragpur, 32-Dharampur, 36-Bhoranj (SC), 37-Sujanpur, 38-Hamirpur, 39-Barsar, 40-Nadaun, 41-Chintpurni (SC), 42-Gagret, 43-Haroli, 44-Una, 45-Kutlehar, 46-Jhanduta (SC), 47-Ghumarwin, 48-Bilaspur, 49-Sri Naina Deviji
-4-Shimla (SC)                   50-Arki, 51-Nalagarh, 52-Doon, 53-Solan (SC), 54-Kasauli (SC), 55-Pachhad (SC), 56-Nahan, 57-Sri Renukaji (SC), 58-Paonta Sahib, 59-Shillai, 60-Chopal, 61-Theog, 62-Kasumpti, 63-Shimla, 64-Shimla Rural, 65-Jubbal-Kotkhai, 67-Rohru (SC)
+1-Kangra                            1-Churah (SC), 3-Chamba, 4-Dalhousie, 5-Bhattiyat, 6-Nurpur, 7-Indora (SC), 8-Fatehpur, 9-Jawali, 12-Jawalamukhi, 13-Jaisinghpur (SC), 14-Sullah, 15-Nagrota, 16-Kangra, 17-Shahpur, 18-Dharamshala, 19-Palampur, 20-Baijnath (SC)
+2-Mandi                             2-Bharmour (ST), 21-Lahaul & Spiti (ST), 22-Manali, 23-Kullu, 24-Banjar, 25-Anni (SC), 26-Karsog (SC), 27-Sundernagar, 28-Nachan (SC), 29-Seraj, 30-Darang, 31-Jogindernagar, 33-Mandi, 34-Balh (SC), 35-Sarkaghat, 66-Rampur (SC), 68-Kinnaur (ST)
+3-Hamirpur                          10-Dehra, 11-Jaswan-Pragpur, 32-Dharampur, 36-Bhoranj (SC), 37-Sujanpur, 38-Hamirpur, 39-Barsar, 40-Nadaun, 41-Chintpurni (SC), 42-Gagret, 43-Haroli, 44-Una, 45-Kutlehar, 46-Jhanduta (SC), 47-Ghumarwin, 48-Bilaspur, 49-Sri Naina Deviji
+4-Shimla (SC)                       50-Arki, 51-Nalagarh, 52-Doon, 53-Solan (SC), 54-Kasauli (SC), 55-Pachhad (SC), 56-Nahan, 57-Sri Renukaji (SC), 58-Paonta Sahib, 59-Shillai, 60-Chopal, 61-Theog, 62-Kasumpti, 63-Shimla, 64-Shimla Rural, 65-Jubbal-Kotkhai, 67-Rohru (SC)
 STATE: JAMMU & KASHMIR
-1-Baramulla                     1-Karnah, 2-Kupwara, 3-Lolab, 4-Handwara, 5-Langate, 6-Uri, 7-Rafiabad, 8-Sopore, 9-Gurez, 10-Bandipora, 11-Sonawari, 12-Sangrama, 13-Baramulla, 14-Gulmarg, 15-Pattan
-2-Srinagar                      16-Kangan, 17-Ganderbal, 18-Hazratbal, 19-Zadibal, 20-Idgah, 21-Khanyar, 22-Habbakadal, 23-Amirakadal, 24-Sonawar, 25-Batamaloo, 26-Chadoora, 27-Badgam, 28-Beerwah, 29-Khansahib, 30-Chrar-I-Sharief
-3-Anantnag                      31-Tral, 32-Pampore, 33-Pulwama, 34-Rajpora, 35-Wachi, 36-Shopian, 37-Noorabad, 38-Kulgam, 39-Home-shalibugh, 40-Anantnag, 41-Devsar, 42-Doru, 43-Kokernag, 44-Shangus, 45-Bijbehara, 46-Pahalgam
-4-Ladakh                        47-Nobra, 48-Leh, 49-Kargil, 50-Zanskar
-5-Udhampur                      51-Kishtwar, 52-Inderwal, 53-Doda, 54-Bhaderwah, 55-Ramban (SC), 56-Banihal, 57-Gulabgarh, 58-Reasi, 59-Gool Arnas, 60-Udhampur, 61-Chenani (SC), 62-Ramnagar, 63-Bani, 64-Basohli, 65-Kathua, 66-Billawar, 67-Hiranagar (SC)
-6-Jammu                         68-Samba (SC), 69-Vijaypur, 70-Nagrota, 71-Gandhinagar, 72-Jammu East, 73-Jammu West, 74-Bishnah, 75-R.S.Pura (SC), 76-Suehetgarh, 77-Marh, 78-Raipur Domana (SC), 79-Akhnoor, 80-Chhamb (SC), 81-Nowshara, 82-Darhal, 83-Rajouri, 84-Kalakote, 85-Surankote, 86-Mendhar, 87-Poonch Haveli
+1-Baramulla                         1-Karnah, 2-Kupwara, 3-Lolab, 4-Handwara, 5-Langate, 6-Uri, 7-Rafiabad, 8-Sopore, 9-Gurez, 10-Bandipora, 11-Sonawari, 12-Sangrama, 13-Baramulla, 14-Gulmarg, 15-Pattan
+2-Srinagar                          16-Kangan, 17-Ganderbal, 18-Hazratbal, 19-Zadibal, 20-Idgah, 21-Khanyar, 22-Habbakadal, 23-Amirakadal, 24-Sonawar, 25-Batamaloo, 26-Chadoora, 27-Badgam, 28-Beerwah, 29-Khansahib, 30-Chrar-I-Sharief
+3-Anantnag                          31-Tral, 32-Pampore, 33-Pulwama, 34-Rajpora, 35-Wachi, 36-Shopian, 37-Noorabad, 38-Kulgam, 39-Home-shalibugh, 40-Anantnag, 41-Devsar, 42-Doru, 43-Kokernag, 44-Shangus, 45-Bijbehara, 46-Pahalgam
+4-Ladakh                            47-Nobra, 48-Leh, 49-Kargil, 50-Zanskar
+5-Udhampur                          51-Kishtwar, 52-Inderwal, 53-Doda, 54-Bhaderwah, 55-Ramban (SC), 56-Banihal, 57-Gulabgarh, 58-Reasi, 59-Gool Arnas, 60-Udhampur, 61-Chenani (SC), 62-Ramnagar, 63-Bani, 64-Basohli, 65-Kathua, 66-Billawar, 67-Hiranagar (SC)
+6-Jammu                             68-Samba (SC), 69-Vijaypur, 70-Nagrota, 71-Gandhinagar, 72-Jammu East, 73-Jammu West, 74-Bishnah, 75-R.S.Pura (SC), 76-Suehetgarh, 77-Marh, 78-Raipur Domana (SC), 79-Akhnoor, 80-Chhamb (SC), 81-Nowshara, 82-Darhal, 83-Rajouri, 84-Kalakote, 85-Surankote, 86-Mendhar, 87-Poonch Haveli
 STATE: JHARKHAND
-1-Rajmahal (ST)                 1-Rajmahal, 2-Boiro (ST), 3-Barhait (ST), 4-Litipara (ST), 5-Pakaur, 6-Maheshpur (ST)
-2-Dumka (ST)                    7-Skiaripara (ST), 8-Nala, 9-Jamtara, 14-Sarath, 10-Dumka (ST), 11-Jama (ST)
-3-Godda                         13-Madhupur, 15-Deoghar (SC), 12-Jarmundi, 16-Poreyahat, 17-Godda, 18-Mahagama
-4-Chatra                        27-Chatra (SC), 26-Simaria (SC), 74-Latehar (SC), 75-Panki, 73-Manika (ST)
-5-Kodarma                       19-Kodarma, 20-Barkatha, 28-Dhanwar, 29-Bagodar, 30-Jamua (SC), 31-Gandey
-6-Giridih                       32-Giridih, 33-Dumri, 34-Gomia, 35-Bermo, 42-Tundi, 43-Baghmara
-7-Dhanbad                       36-Bokaro, 38-Sindri, 39-Nirsa, 40-Dhanbad, 41-Jharia, 37-Chandankiyari (SC)
-8-Ranchi                        50-Ichagarh, 61-Silli, 62-Khijri (ST), 63-Ranchi, 64-Hatia, 65-Kanke (SC)
-9-Jamshedpur                    44-Bahragora, 45-Ghatsila (ST), 46-Potka, 47-Jugsalai (SC), 48-Jamshedpur-East, 49-Jamshedpur-West
-10-singhbhum (ST)               51-Seraikela (ST), 52-Chaibasa (ST), 53-Majhgaon (ST), 54-Jaganathpur (ST), 55-Manoharpur (ST), 56-Chakaradharpur (ST)
-11-Khunti (ST)                  57-Kharsawan (ST), 58-Tamar (ST), 59-Torpa (ST), 60-Khunti (ST), 71-Kolebira (ST), 70-Simdega (ST)
-12-Lohardaga (ST)               66-Mandar (ST), 67-Sisai (ST), 68-Gumla (ST), 69-Bishunpur (ST), 72-Lohardagga (ST)
-13-Palamu (SC)                  76-Daltonganj, 80-Garhwa, 81-Bhawanathpur, 77-Bishrampur, 78-Chhatarpur (SC), 79-Hussainabad
-14-Hazaribagh                   21-Barhi, 22-Barkagaon, 23-Ramgarh, 24-Mandu, 25-Hazaribagh
+1-Rajmahal (ST)                     1-Rajmahal, 2-Boiro (ST), 3-Barhait (ST), 4-Litipara (ST), 5-Pakaur, 6-Maheshpur (ST)
+2-Dumka (ST)                        7-Skiaripara (ST), 8-Nala, 9-Jamtara, 14-Sarath, 10-Dumka (ST), 11-Jama (ST)
+3-Godda                             13-Madhupur, 15-Deoghar (SC), 12-Jarmundi, 16-Poreyahat, 17-Godda, 18-Mahagama
+4-Chatra                            27-Chatra (SC), 26-Simaria (SC), 74-Latehar (SC), 75-Panki, 73-Manika (ST)
+5-Kodarma                           19-Kodarma, 20-Barkatha, 28-Dhanwar, 29-Bagodar, 30-Jamua (SC), 31-Gandey
+6-Giridih                           32-Giridih, 33-Dumri, 34-Gomia, 35-Bermo, 42-Tundi, 43-Baghmara
+7-Dhanbad                           36-Bokaro, 38-Sindri, 39-Nirsa, 40-Dhanbad, 41-Jharia, 37-Chandankiyari (SC)
+8-Ranchi                            50-Ichagarh, 61-Silli, 62-Khijri (ST), 63-Ranchi, 64-Hatia, 65-Kanke (SC)
+9-Jamshedpur                        44-Bahragora, 45-Ghatsila (ST), 46-Potka, 47-Jugsalai (SC), 48-Jamshedpur-East, 49-Jamshedpur-West
+10-singhbhum (ST)                   51-Seraikela (ST), 52-Chaibasa (ST), 53-Majhgaon (ST), 54-Jaganathpur (ST), 55-Manoharpur (ST), 56-Chakaradharpur (ST)
+11-Khunti (ST)                      57-Kharsawan (ST), 58-Tamar (ST), 59-Torpa (ST), 60-Khunti (ST), 71-Kolebira (ST), 70-Simdega (ST)
+12-Lohardaga (ST)                   66-Mandar (ST), 67-Sisai (ST), 68-Gumla (ST), 69-Bishunpur (ST), 72-Lohardagga (ST)
+13-Palamu (SC)                      76-Daltonganj, 80-Garhwa, 81-Bhawanathpur, 77-Bishrampur, 78-Chhatarpur (SC), 79-Hussainabad
+14-Hazaribagh                       21-Barhi, 22-Barkagaon, 23-Ramgarh, 24-Mandu, 25-Hazaribagh
 STATE: KARNATAKA
-1-Chikkodi                      1-Nippani, 2-Chikkodi-Sadalga, 3-Athni, 4-Kagawad, 5-Kudachi (SC), 6-Raybag (SC), 7-Hukeri, 10-Yemkanmardi (ST)
-2-Belgaum                       8-Arabhavi, 9-Gokak, 11-Belgaum Uttar, 12-Belgaum Dakshin, 13-Belgaum Rural, 16-Bailhongal, 17-Saundatti Yellamma, 18-Ramdurg
-3-Bagalkot                      19-Mudhol (SC), 20-Terdal, 21-Jamkhandi, 22-Bilgi, 23-Badami, 24-Bagalkot, 25-Hungund, 68-Nargund
-4-Bijapur (SC)                  26-Muddebihal, 27-Devar Hippargi, 28-Basavana Bagevadi, 29-Babaleshwar, 30-Bijapur City, 31-Nagthan (SC), 32-Indi, 33-Sindgi
-5-Gulbarga (SC)                 34-Afzalpur, 35-Jewargi, 39.Gurmitkal, 40-Chittapur (SC), 41-Sedam, 43-Gulbarga Rural (SC), 44-Gulbarga Dakshin, 45-Gulbarga Uttar
-6-Raichur (ST)                  36-Shorapur (ST), 37-Shahapur, 38-Yadgir, 53-Raichur Rural (ST), 54-Raichur, 55-Manvi (ST), 56-Devadurga (ST), 57-Lingsugur (SC)
-7-Bidar                         42-Chincholi (SC), 46-Aland, 47-Basavakalyan, 48-Humnabad, 49-Bidar South, 50-Bidar, 51-Bhalki, 52-Aurad (SC)
-8-Koppal                        58-Sindhanur, 59-Maski (ST), 60-Kushtagi, 61-Kanakagiri (SC), 62-Gangawati, 63-Yelburga, 64-Koppal, 92-Siruguppa (ST)
-9-Bellary (ST)                  88-Hadagalli (SC), 89-Hagaribommanahalli (SC), 90-Vijayanagara, 91-Kampli (ST), 93-Bellary (ST), 94-Bellary City, 95-Sandur (ST), 96-Kudligi (ST)
-10-Haveri                       65-Shirahatti (SC), 66-Gadag, 67-Ron, 82-Hangal, 84-Haveri (SC), 85-Byadgi, 86-Hirekerur, 87-Ranibennur
-11-Dharwad                      69-Navalgund, 70-Kundgol, 71-Dharwad, 72-Hubli-Dharwad-East (SC), 73-Hubli-Dharwad-Central, 74-Hubli-Dharwad-West, 75-Kalghatgi, 83-Shiggaon
-12-Uttara Kannada               14-Khanapur, 15-Kittur, 76-Haliyal, 77-Karwar, 78-Kumta, 79-Bhatkal, 80-Sirsi, 81-Yellapur
-13-Davanagere                   103-Jagalur (ST), 104-Harapanahalli, 105-Harihar, 106-Davanagere North, 107-Davanagere South, 108-Mayakonda (SC), 109-Channagiri, 110-Honnali
-14-Shimoga                      111-Shimoga Rural (SC), 112-Bhadravati, 113-Shimoga, 114-Tirthahalli, 115-Shikaripur, 116-Sorab, 117-Sagar, 118-Byndoor
-15-Udupi Chikmagalur            119-Kundapura, 120-Udupi, 121-Kapu, 122-Karkal, 123-Sringeri,124-Mudigere (SC), 125-Chikmagalur, 126-Tarikere
-16-Hassan                       127-Kadur, 193-Shravanabelagola, 194-Arsikere, 195-Belur, 196-Hassan, 197-Holenarasipur, 198-Arkalgud, 199-Sakleshpur (SC)
-17-Dakshina Kannada             200-Belthangady, 201-Moodabidri, 202-Mangalore City North, 203-Mangalore City South, 204-Mangalore, 205-Bantval, 206-Puttur, 207-Sullia (SC)
-18-Chitradurga (SC)             97-Molakalmuru (ST), 98-Challakere (ST), 99-Chitradurga, 100-Hiriyur, 101-Hosadurga, 102-Holalkere (SC), 136-Sira, 137-Pavagada (SC)
-19-Tumkur                       128-Chikkanayakanahalli, 129-Tiptur, 130-Turuvekere, 132-Tumkur City, 133-Tumkur Rural, 134-Koratagere (SC), 135-Gubbi, 138-Madhugiri
-20-Mandya                       186-Malavalli (SC), 187-Maddur, 188-Melukote, 189-Mandya, 190-Srirangapatna, 191-Nagamangala, 192-Krishnarajpet, 211-Krishnarajanagara
-21-Mysore                       208-Madikeri, 209-Virajpet, 210-Piriyapatna, 212-Hunsur, 215-Chamundeshwari, 216-Krishnaraja, 217-Chamaraja, 218 Narasimharaja
-22-Chamarajanagar (SC)          213-Heggadadevankote (ST), 214-Nanjangud (SC), 219-Varuna, 220-T.Narasipur (SC), 221-Hanur, 222-Kollegal (SC), 223-Chamarajanagar, 224-Gundlupet
-23-Bangalore Rural              131-Kunigal, 154.Rajarajeshwarinagar, 176-Bangalore South, 177-Anekal (SC), 182-Magadi, 183-Ramanagaram, 184-Kanakapura, 185-Channapatna
-24-Bangalore North              151-K.R.Pura, 152-Byatarayanapura, 153-Yeshvanthapura, 155-Dasarahalli, 156-Mahalakshmi Layout, 157 Malleshwaram, 158 Hebbal, 159 Pulakeshinagar (SC)
-25-Bangalore Central            160 Sarvagnanagar, 161 C.V.Raman Nagar (SC), 162 Shivajinagar, 163 Shanti Nagar, 164 Gandhi Nagar, 165 Rajaji Nagar, 168 Chamrajpet, 174-Mahadevapura (SC)
-26-Bangalore South              166 Govindraj Nagar, 167 Vijay Nagar, 169 Chickpet, 170 Basavanagudi, 171 Padmanaba Nagar, 172 B.T.M.Layout, 173 Jayanagar, 175-Bommanahalli
-27-Chikkballapur                139-Gauribidanur, 140-Bagepalli, 141-Chikkballapur, 150-Yelahanka, 178-Hosakote, 179-Devanahalli (SC), 180-Doddaballapur, 181-Nelamangala (SC)
-28-Kolar (SC)                   142-Sidlaghatta, 143-Chintamani, 144-Srinivaspur, 145-Mulbagal (SC), 146-Kolar Gold Field (SC), 147-Bangarapet (SC), 148-Kolar, 149-Malur
+1-Chikkodi                          1-Nippani, 2-Chikkodi-Sadalga, 3-Athni, 4-Kagawad, 5-Kudachi (SC), 6-Raybag (SC), 7-Hukeri, 10-Yemkanmardi (ST)
+2-Belgaum                           8-Arabhavi, 9-Gokak, 11-Belgaum Uttar, 12-Belgaum Dakshin, 13-Belgaum Rural, 16-Bailhongal, 17-Saundatti Yellamma, 18-Ramdurg
+3-Bagalkot                          19-Mudhol (SC), 20-Terdal, 21-Jamkhandi, 22-Bilgi, 23-Badami, 24-Bagalkot, 25-Hungund, 68-Nargund
+4-Bijapur (SC)                      26-Muddebihal, 27-Devar Hippargi, 28-Basavana Bagevadi, 29-Babaleshwar, 30-Bijapur City, 31-Nagthan (SC), 32-Indi, 33-Sindgi
+5-Gulbarga (SC)                     34-Afzalpur, 35-Jewargi, 39.Gurmitkal, 40-Chittapur (SC), 41-Sedam, 43-Gulbarga Rural (SC), 44-Gulbarga Dakshin, 45-Gulbarga Uttar
+6-Raichur (ST)                      36-Shorapur (ST), 37-Shahapur, 38-Yadgir, 53-Raichur Rural (ST), 54-Raichur, 55-Manvi (ST), 56-Devadurga (ST), 57-Lingsugur (SC)
+7-Bidar                             42-Chincholi (SC), 46-Aland, 47-Basavakalyan, 48-Humnabad, 49-Bidar South, 50-Bidar, 51-Bhalki, 52-Aurad (SC)
+8-Koppal                            58-Sindhanur, 59-Maski (ST), 60-Kushtagi, 61-Kanakagiri (SC), 62-Gangawati, 63-Yelburga, 64-Koppal, 92-Siruguppa (ST)
+9-Bellary (ST)                      88-Hadagalli (SC), 89-Hagaribommanahalli (SC), 90-Vijayanagara, 91-Kampli (ST), 93-Bellary (ST), 94-Bellary City, 95-Sandur (ST), 96-Kudligi (ST)
+10-Haveri                           65-Shirahatti (SC), 66-Gadag, 67-Ron, 82-Hangal, 84-Haveri (SC), 85-Byadgi, 86-Hirekerur, 87-Ranibennur
+11-Dharwad                          69-Navalgund, 70-Kundgol, 71-Dharwad, 72-Hubli-Dharwad-East (SC), 73-Hubli-Dharwad-Central, 74-Hubli-Dharwad-West, 75-Kalghatgi, 83-Shiggaon
+12-Uttara Kannada                   14-Khanapur, 15-Kittur, 76-Haliyal, 77-Karwar, 78-Kumta, 79-Bhatkal, 80-Sirsi, 81-Yellapur
+13-Davanagere                       103-Jagalur (ST), 104-Harapanahalli, 105-Harihar, 106-Davanagere North, 107-Davanagere South, 108-Mayakonda (SC), 109-Channagiri, 110-Honnali
+14-Shimoga                          111-Shimoga Rural (SC), 112-Bhadravati, 113-Shimoga, 114-Tirthahalli, 115-Shikaripur, 116-Sorab, 117-Sagar, 118-Byndoor
+15-Udupi Chikmagalur                119-Kundapura, 120-Udupi, 121-Kapu, 122-Karkal, 123-Sringeri,124-Mudigere (SC), 125-Chikmagalur, 126-Tarikere
+16-Hassan                           127-Kadur, 193-Shravanabelagola, 194-Arsikere, 195-Belur, 196-Hassan, 197-Holenarasipur, 198-Arkalgud, 199-Sakleshpur (SC)
+17-Dakshina Kannada                 200-Belthangady, 201-Moodabidri, 202-Mangalore City North, 203-Mangalore City South, 204-Mangalore, 205-Bantval, 206-Puttur, 207-Sullia (SC)
+18-Chitradurga (SC)                 97-Molakalmuru (ST), 98-Challakere (ST), 99-Chitradurga, 100-Hiriyur, 101-Hosadurga, 102-Holalkere (SC), 136-Sira, 137-Pavagada (SC)
+19-Tumkur                           128-Chikkanayakanahalli, 129-Tiptur, 130-Turuvekere, 132-Tumkur City, 133-Tumkur Rural, 134-Koratagere (SC), 135-Gubbi, 138-Madhugiri
+20-Mandya                           186-Malavalli (SC), 187-Maddur, 188-Melukote, 189-Mandya, 190-Srirangapatna, 191-Nagamangala, 192-Krishnarajpet, 211-Krishnarajanagara
+21-Mysore                           208-Madikeri, 209-Virajpet, 210-Piriyapatna, 212-Hunsur, 215-Chamundeshwari, 216-Krishnaraja, 217-Chamaraja, 218 Narasimharaja
+22-Chamarajanagar (SC)              213-Heggadadevankote (ST), 214-Nanjangud (SC), 219-Varuna, 220-T.Narasipur (SC), 221-Hanur, 222-Kollegal (SC), 223-Chamarajanagar, 224-Gundlupet
+23-Bangalore Rural                  131-Kunigal, 154.Rajarajeshwarinagar, 176-Bangalore South, 177-Anekal (SC), 182-Magadi, 183-Ramanagaram, 184-Kanakapura, 185-Channapatna
+24-Bangalore North                  151-K.R.Pura, 152-Byatarayanapura, 153-Yeshvanthapura, 155-Dasarahalli, 156-Mahalakshmi Layout, 157 Malleshwaram, 158 Hebbal, 159 Pulakeshinagar (SC)
+25-Bangalore Central                160 Sarvagnanagar, 161 C.V.Raman Nagar (SC), 162 Shivajinagar, 163 Shanti Nagar, 164 Gandhi Nagar, 165 Rajaji Nagar, 168 Chamrajpet, 174-Mahadevapura (SC)
+26-Bangalore South                  166 Govindraj Nagar, 167 Vijay Nagar, 169 Chickpet, 170 Basavanagudi, 171 Padmanaba Nagar, 172 B.T.M.Layout, 173 Jayanagar, 175-Bommanahalli
+27-Chikkballapur                    139-Gauribidanur, 140-Bagepalli, 141-Chikkballapur, 150-Yelahanka, 178-Hosakote, 179-Devanahalli (SC), 180-Doddaballapur, 181-Nelamangala (SC)
+28-Kolar (SC)                       142-Sidlaghatta, 143-Chintamani, 144-Srinivaspur, 145-Mulbagal (SC), 146-Kolar Gold Field (SC), 147-Bangarapet (SC), 148-Kolar, 149-Malur
 STATE: KERALA
-1-Kasaragod                     1-Manjeshwar, 2-Kasaragod, 3-Udma, 4-Kanhangad, 5-Trikaripur, 6-Payyannur, 7-Kalliasseri
-2 ­Kannur                        8-Taliparamba, 9-Irikkur, 10-Azhikode, 11-Kannur, 12-Dharmadam, 15-Mattannur, 16-Peravoor
-3-Vadakara                      13-Thalassery, 14-Kuthuparamba, 20-Vadakara, 21-Kuttiadi, 22-Nadapuram, 23-Quilandy, 24-Perambra
-4-Wayanad                       17-Mananthavady (ST), 18-Sulthanbathery (ST), 19-Kalpetta, 32-Thiruvambadi, 34-Ernad, 35-Nilambur, 36-Wandoor (SC)
-5-Kozhikode                     25-Balusseri (SC), 26-Elathur, 27-Kozhikode North, 28-Kozhikode South, 29-Beypore, 30-Kunnamangalam, 31-Koduvally
-6-Malappuram                    33-Kondotty, 37-Manjeri, 38-Perinthalmanna, 39-Mankada,40-Malappuram, 41-Vengara, 42-Vallikkunnu
-7-Ponnani                       43-Tirurangadi, 44-Tanur, 45-Tirur, 46-Kottakkal, 47-Thavanur, 48-Ponnani, 49-Thrithala
-8-Palakkad                      50-Pattambi, 51-Shoranur, 52-Ottappalam, 53-Kongad (SC), 54-Mannarkkad, 55-Malampuzha, 56-Palakkad
-9-Alathur (SC)                  57-Tarur (SC), 58-Chittur, 59-Nemmara, 60-Alathur, 61-Chelakkara (SC), 62-Kunnamkulam, 65-Wadakkanchery
-10-Thrissur                     63-Guruvayoor, 64-Manalur, 66-Ollur, 67-Thrissur, 68-Nattika(SC), 70-Irinjalakuda, 71-Pudukkad
-11-Chalakudy                    69-Kaipamangalam, 72-Chalakudy, 73-Kodungallur, 74-Perumbavoor, 75-Angamaly, 76-Aluva, 84-Kunnathunad (SC)
-12-Ernakulam                    77-Kalamassery, 78-Paravur, 79-Vypeen, 80-Kochi, 81-Tripunithura, 82-Ernakulam, 83-Thrikkakara
-13-Idukki                       86-Muvattupuzha, 87-Kothamangalam, 88-Devikulam (SC), 89-Udumbanchola, 90-Thodupuzha, 91-Idukki, 92-Peerumade
-14-Kottayam                     85-Piravom, 93-Pala, 94-Kaduthuruthy, 95-Vaikom (SC), 96-Ettumanoor, 97-Kottayam, 98-Puthuppally
-15-Alappuzha                    102-Aroor, 103-Cherthala, 104-Alappuzha, 105-Ambalappuzha, 107-Haripad, 108-Kayamkulam, 116-Karunagappally
-16-Mavelikkara (SC)             99-Changanassery, 106-Kuttanad, 109-Mavelikkara (SC), 110-Chengannur, 118-Kunnathur (SC), 119-Kottarakkara, 120-Pathanapuram
-17-Pathanamthitta               100-Kanjirappally, 101-Poonjar, 111-Thiruvalla, 112-Ranni, 113-Aranmula, 114-Konni, 115-Adoor (SC)
-18-Kollam                       117-Chavara, 121-Punalur, 122-Chadayamangalam, 123-Kundara, 124-Kollam, 125-Eravipuram, 126-Chathannoor
-19-Attingal                     127-Varkala, 128-Attingal (SC), 129-Chirayinkeezhu (SC), 130-Nedumangad, 131-Vamanapuram, 136-Aruvikkara, 138-Kattakkada
-20-Thiruvananthapuram           132-Kazhakkoottam, 133-Vattiyoorkavu, 134-Thiruvananthapuram, 135-Nemom, 137-Parassala, 139-Kovalam, 140-Neyyattinkara
+1-Kasaragod                         1-Manjeshwar, 2-Kasaragod, 3-Udma, 4-Kanhangad, 5-Trikaripur, 6-Payyannur, 7-Kalliasseri
+2 ­Kannur                            8-Taliparamba, 9-Irikkur, 10-Azhikode, 11-Kannur, 12-Dharmadam, 15-Mattannur, 16-Peravoor
+3-Vadakara                          13-Thalassery, 14-Kuthuparamba, 20-Vadakara, 21-Kuttiadi, 22-Nadapuram, 23-Quilandy, 24-Perambra
+4-Wayanad                           17-Mananthavady (ST), 18-Sulthanbathery (ST), 19-Kalpetta, 32-Thiruvambadi, 34-Ernad, 35-Nilambur, 36-Wandoor (SC)
+5-Kozhikode                         25-Balusseri (SC), 26-Elathur, 27-Kozhikode North, 28-Kozhikode South, 29-Beypore, 30-Kunnamangalam, 31-Koduvally
+6-Malappuram                        33-Kondotty, 37-Manjeri, 38-Perinthalmanna, 39-Mankada,40-Malappuram, 41-Vengara, 42-Vallikkunnu
+7-Ponnani                           43-Tirurangadi, 44-Tanur, 45-Tirur, 46-Kottakkal, 47-Thavanur, 48-Ponnani, 49-Thrithala
+8-Palakkad                          50-Pattambi, 51-Shoranur, 52-Ottappalam, 53-Kongad (SC), 54-Mannarkkad, 55-Malampuzha, 56-Palakkad
+9-Alathur (SC)                      57-Tarur (SC), 58-Chittur, 59-Nemmara, 60-Alathur, 61-Chelakkara (SC), 62-Kunnamkulam, 65-Wadakkanchery
+10-Thrissur                         63-Guruvayoor, 64-Manalur, 66-Ollur, 67-Thrissur, 68-Nattika(SC), 70-Irinjalakuda, 71-Pudukkad
+11-Chalakudy                        69-Kaipamangalam, 72-Chalakudy, 73-Kodungallur, 74-Perumbavoor, 75-Angamaly, 76-Aluva, 84-Kunnathunad (SC)
+12-Ernakulam                        77-Kalamassery, 78-Paravur, 79-Vypeen, 80-Kochi, 81-Tripunithura, 82-Ernakulam, 83-Thrikkakara
+13-Idukki                           86-Muvattupuzha, 87-Kothamangalam, 88-Devikulam (SC), 89-Udumbanchola, 90-Thodupuzha, 91-Idukki, 92-Peerumade
+14-Kottayam                         85-Piravom, 93-Pala, 94-Kaduthuruthy, 95-Vaikom (SC), 96-Ettumanoor, 97-Kottayam, 98-Puthuppally
+15-Alappuzha                        102-Aroor, 103-Cherthala, 104-Alappuzha, 105-Ambalappuzha, 107-Haripad, 108-Kayamkulam, 116-Karunagappally
+16-Mavelikkara (SC)                 99-Changanassery, 106-Kuttanad, 109-Mavelikkara (SC), 110-Chengannur, 118-Kunnathur (SC), 119-Kottarakkara, 120-Pathanapuram
+17-Pathanamthitta                   100-Kanjirappally, 101-Poonjar, 111-Thiruvalla, 112-Ranni, 113-Aranmula, 114-Konni, 115-Adoor (SC)
+18-Kollam                           117-Chavara, 121-Punalur, 122-Chadayamangalam, 123-Kundara, 124-Kollam, 125-Eravipuram, 126-Chathannoor
+19-Attingal                         127-Varkala, 128-Attingal (SC), 129-Chirayinkeezhu (SC), 130-Nedumangad, 131-Vamanapuram, 136-Aruvikkara, 138-Kattakkada
+20-Thiruvananthapuram               132-Kazhakkoottam, 133-Vattiyoorkavu, 134-Thiruvananthapuram, 135-Nemom, 137-Parassala, 139-Kovalam, 140-Neyyattinkara
+STATE: LAKSHADWEEP
+1-Lakshadweep (ST)                  1-Lakshadweep (ST)
 STATE: MADHYA PRADESH
-1-MORENA                        1-Sheopur, 2-Vijaypur, 3-Sabalgarh, 4-Joura, 5-Sumawali, 6-Morena, 7-Dimani, 8-Ambah (SC)
-2-BHIND (SC)                    9-Ater, 10-Bhind, 11-Lahar, 12-Mehgaon, 13-Gohad (SC), 20-Sewda, 21-Bhander (SC), 22-Datia
-3-GWALIOR                       14-Gwalior Rural, 15-Gwalior, 16-Gwalior East, 17-Gwalior South, 18-Bhitarwar, 19-Dabra (SC), 23-Karera (SC), 24-Pohari
-4-GUNA                          25-Shivpuri, 26-Pichhore, 27-Kolaras, 28-Bamori, 29-Guna (SC), 32-Ashok Nagar (SC), 33-Chanderi, 34-Mungaoli
-5-SAGAR                         35-Bina (SC), 36-Khurai, 37-Surkhi, 40-Naryoli (SC), 41-Sagar, 146-Kurwai (SC),147-Sironj, 148-Shamshabad
-6-TIKAMGARH (SC)                43-Tikamgarh, 44-Jatara (SC), 45-Prithvipur, 46-Niwari, 47-Khargapur, 48-Maharajpur, 51-Chhatarpur, 52-Bijawar
-7-DAMOH                         38-Deori, 39-Rehli, 42-Banda, 53-Malhara, 54-Pathariya, 55-Damoh, 56-Jabera, 57-Hatta (SC)
-8-KHAJURAHO                     49-Chandla (SC), 50-Rajnagar, 58-Pawai, 59-Gunnaor (SC), 60-Panna, 92-Vijayraghavgarh, 93-Murwara, 94-Bahoriband
-9-SATNA                         61-Chitrakoot, 62-Raigaon (SC), 63-Satna, 64-Nagod, 65-Maihar, 66-Amarpatan, 67-Rampur-Baghelan
-10-REWA                         68-Sirmour, 69-Semariya, 70-Teonthar, 71-Mauganj, 72-Deotalab, 73-Mangawan (SC), 74-Rewa, 75-Gurh
-11-SIDHI                        76-Churhat, 77-Sidhi, 78-Sihawal, 79-Chitrangi (ST), 80-Singrauli, 81-Devsar (SC), 82-Dhauhani (ST), 83-Beohari (ST)
-12-SHAHDOL (ST)                 84-Jaisingnagar (ST), 85-Jaitpur(ST), 86-Kotma, 87-Anuppur (ST), 88-Pushprajgarh (ST), 89-Bandhavgarh (ST), 90-Manpur (ST), 91-Barwara (ST)
-13-JABALPUR                     95-Patan, 96-Bargi, 97-Jabalpur Purba (SC), 98-Jabalpur Uttar, 99-Jabalpur Cantt., 100-Jabalpur Paschim, 101-Panagar, 102-Sihora (ST)
-14-MANDLA (ST)                  103-Shahpura (ST), 104-Dindori (ST), 105-Bichhiya (ST), 106-Niwas (ST), 107-Mandla (ST), 116-Keolari, 117-Lakhnadon (ST), 118-Gotegaon (SC)
-15-BALAGHAT                     108-Baihar (ST), 109-Lanji, 110-Paraswada, 111-Balaghat, 112-Waraseoni, 113-Katangi, 114-Barghat (ST), 115-Seoni
-16-CHHINDWARA                   122-Junnardeo (ST), 123-Amarwara (ST), 124-Churai, 125-Saunsar, 126-Chhindwara, 127-Parasia (SC), 128-Pandhurna (ST)
-17-HOSHANGABAD                  119-Narsingpur, 120-Tendukheda, 121-Gadarwara, 136-Seoni-Malwa, 137-Hoshangabad, 138-Sohagpur, 139-Pipariya (SC), 140-Udaipura
-18-VIDISHA                      141-Bhojpur, 142-Sanchi (SC), 143-Silwani, 144-Vidisha, 145-Basoda, 156-Budhni, 158-Ichhawar, 173-Khategaon
-19-BHOPAL                       149-Berasia (SC), 150-Bhopal Uttar, 151-Narela, 152-Bhopal Dakshin-Paschim, 153-Bhopal Madhya, 154-Govindpura, 155-Huzur, 159-Sehore
-20-RAJGARH                      30-Chachoura, 31-Raghogarh, 160-Narsinghgarh, 161-Biaora, 162-Rajgarh, 163-Khilchipur, 164-Sarangpur (SC), 165-Susner
-21-DEWAS (SC)                   157-Ashta (SC), 166-Agar (SC), 167-Shajapur, 168-Shujalpur, 169-Kalapipal, 170-Sonkatch (SC), 171-Dewas, 172-Hatpipliya
-22-UJJAIN (SC)                  212 Nagada-Khachrod, 213 Mahidpur, 214 Tarana (SC), 215 Ghatiya (SC), 216 Ujjain Uttar, 217 Ujjain Dakshin, 218 Badnagar, 223 Alot (SC)
-23-MANDSOUR                     222-Jaora, 224-Mandsour, 225-Malhargarh (SC), 226-Suwasra, 227-Garoth, 228-Manasa, 229-Neemuch, 230-Jawad
-24-RATLAM (ST)                  191-Alirajpur (ST), 192-Jobat (ST), 193-Jhabua (ST), 194-Thandla (ST), 195-Petlawad (ST), 219-Ratlam Rural (ST), 220-Ratlam City, 221-Sailana (ST)
-25-DHAR (ST)                    196 Sardarpur (ST), 197 Gandhwani (ST), 198 Kukshi (ST), 199 Manawar (ST), 200 Dharampuri (ST), 201 Dhar, 202 Badnawar, 209 Dr.Ambedkarnagar-Mhow
-26-INDORE                       203-Debalpur, 204-Indore-1, 205-Indore-2, 206-Indore-3, 207-Indore-4, 208-Indore-5, 210-Rau, 211-Sanwer (SC)
-27-KHARGONE (ST)                183-Maheshwar (SC), 184-Kasrawad, 185-Khargone, 186-Bhagwanpura (ST), 187-Sendhawa (ST), 188-Rajpur (ST), 189-Pansemal (ST), 190-Badwani (ST)
-28-KHANDWA                      174-Bagali (ST), 175-Mandhata, 177-Khandwa (SC), 178-Pandhana (ST), 179-Nepanagar (ST), 180-Burhanpur, 181-Bikhangaon (ST), 182-Badwah
-29-BETUL (ST)                   129-Multai, 130-Amla (SC), 131-Betul, 132-Ghoradongri (ST), 133-Bhainsdehi (ST), 134-Timarni (ST), 135-Harda, 176-Harsud (ST)
+1-MORENA                            1-Sheopur, 2-Vijaypur, 3-Sabalgarh, 4-Joura, 5-Sumawali, 6-Morena, 7-Dimani, 8-Ambah (SC)
+2-BHIND (SC)                        9-Ater, 10-Bhind, 11-Lahar, 12-Mehgaon, 13-Gohad (SC), 20-Sewda, 21-Bhander (SC), 22-Datia
+3-GWALIOR                           14-Gwalior Rural, 15-Gwalior, 16-Gwalior East, 17-Gwalior South, 18-Bhitarwar, 19-Dabra (SC), 23-Karera (SC), 24-Pohari
+4-GUNA                              25-Shivpuri, 26-Pichhore, 27-Kolaras, 28-Bamori, 29-Guna (SC), 32-Ashok Nagar (SC), 33-Chanderi, 34-Mungaoli
+5-SAGAR                             35-Bina (SC), 36-Khurai, 37-Surkhi, 40-Naryoli (SC), 41-Sagar, 146-Kurwai (SC),147-Sironj, 148-Shamshabad
+6-TIKAMGARH (SC)                    43-Tikamgarh, 44-Jatara (SC), 45-Prithvipur, 46-Niwari, 47-Khargapur, 48-Maharajpur, 51-Chhatarpur, 52-Bijawar
+7-DAMOH                             38-Deori, 39-Rehli, 42-Banda, 53-Malhara, 54-Pathariya, 55-Damoh, 56-Jabera, 57-Hatta (SC)
+8-KHAJURAHO                         49-Chandla (SC), 50-Rajnagar, 58-Pawai, 59-Gunnaor (SC), 60-Panna, 92-Vijayraghavgarh, 93-Murwara, 94-Bahoriband
+9-SATNA                             61-Chitrakoot, 62-Raigaon (SC), 63-Satna, 64-Nagod, 65-Maihar, 66-Amarpatan, 67-Rampur-Baghelan
+10-REWA                             68-Sirmour, 69-Semariya, 70-Teonthar, 71-Mauganj, 72-Deotalab, 73-Mangawan (SC), 74-Rewa, 75-Gurh
+11-SIDHI                            76-Churhat, 77-Sidhi, 78-Sihawal, 79-Chitrangi (ST), 80-Singrauli, 81-Devsar (SC), 82-Dhauhani (ST), 83-Beohari (ST)
+12-SHAHDOL (ST)                     84-Jaisingnagar (ST), 85-Jaitpur(ST), 86-Kotma, 87-Anuppur (ST), 88-Pushprajgarh (ST), 89-Bandhavgarh (ST), 90-Manpur (ST), 91-Barwara (ST)
+13-JABALPUR                         95-Patan, 96-Bargi, 97-Jabalpur Purba (SC), 98-Jabalpur Uttar, 99-Jabalpur Cantt., 100-Jabalpur Paschim, 101-Panagar, 102-Sihora (ST)
+14-MANDLA (ST)                      103-Shahpura (ST), 104-Dindori (ST), 105-Bichhiya (ST), 106-Niwas (ST), 107-Mandla (ST), 116-Keolari, 117-Lakhnadon (ST), 118-Gotegaon (SC)
+15-BALAGHAT                         108-Baihar (ST), 109-Lanji, 110-Paraswada, 111-Balaghat, 112-Waraseoni, 113-Katangi, 114-Barghat (ST), 115-Seoni
+16-CHHINDWARA                       122-Junnardeo (ST), 123-Amarwara (ST), 124-Churai, 125-Saunsar, 126-Chhindwara, 127-Parasia (SC), 128-Pandhurna (ST)
+17-HOSHANGABAD                      119-Narsingpur, 120-Tendukheda, 121-Gadarwara, 136-Seoni-Malwa, 137-Hoshangabad, 138-Sohagpur, 139-Pipariya (SC), 140-Udaipura
+18-VIDISHA                          141-Bhojpur, 142-Sanchi (SC), 143-Silwani, 144-Vidisha, 145-Basoda, 156-Budhni, 158-Ichhawar, 173-Khategaon
+19-BHOPAL                           149-Berasia (SC), 150-Bhopal Uttar, 151-Narela, 152-Bhopal Dakshin-Paschim, 153-Bhopal Madhya, 154-Govindpura, 155-Huzur, 159-Sehore
+20-RAJGARH                          30-Chachoura, 31-Raghogarh, 160-Narsinghgarh, 161-Biaora, 162-Rajgarh, 163-Khilchipur, 164-Sarangpur (SC), 165-Susner
+21-DEWAS (SC)                       157-Ashta (SC), 166-Agar (SC), 167-Shajapur, 168-Shujalpur, 169-Kalapipal, 170-Sonkatch (SC), 171-Dewas, 172-Hatpipliya
+22-UJJAIN (SC)                      212 Nagada-Khachrod, 213 Mahidpur, 214 Tarana (SC), 215 Ghatiya (SC), 216 Ujjain Uttar, 217 Ujjain Dakshin, 218 Badnagar, 223 Alot (SC)
+23-MANDSOUR                         222-Jaora, 224-Mandsour, 225-Malhargarh (SC), 226-Suwasra, 227-Garoth, 228-Manasa, 229-Neemuch, 230-Jawad
+24-RATLAM (ST)                      191-Alirajpur (ST), 192-Jobat (ST), 193-Jhabua (ST), 194-Thandla (ST), 195-Petlawad (ST), 219-Ratlam Rural (ST), 220-Ratlam City, 221-Sailana (ST)
+25-DHAR (ST)                        196 Sardarpur (ST), 197 Gandhwani (ST), 198 Kukshi (ST), 199 Manawar (ST), 200 Dharampuri (ST), 201 Dhar, 202 Badnawar, 209 Dr.Ambedkarnagar-Mhow
+26-INDORE                           203-Debalpur, 204-Indore-1, 205-Indore-2, 206-Indore-3, 207-Indore-4, 208-Indore-5, 210-Rau, 211-Sanwer (SC)
+27-KHARGONE (ST)                    183-Maheshwar (SC), 184-Kasrawad, 185-Khargone, 186-Bhagwanpura (ST), 187-Sendhawa (ST), 188-Rajpur (ST), 189-Pansemal (ST), 190-Badwani (ST)
+28-KHANDWA                          174-Bagali (ST), 175-Mandhata, 177-Khandwa (SC), 178-Pandhana (ST), 179-Nepanagar (ST), 180-Burhanpur, 181-Bikhangaon (ST), 182-Badwah
+29-BETUL (ST)                       129-Multai, 130-Amla (SC), 131-Betul, 132-Ghoradongri (ST), 133-Bhainsdehi (ST), 134-Timarni (ST), 135-Harda, 176-Harsud (ST)
 STATE: MAHARASHTRA
-1-Nandurbar (ST)                1-Akkalkuwa (ST), 2-Shahada (ST), 3-Nandurbar (ST), 4-Nawapur (ST), 5-Sakri (ST), 9-Shirpur (ST)
-2-Dhule                         6-Dhule Rural, 7-Dhule City, 8-Sindkheda, 114-Malegaon Central, 115-Malegaon Outer, 116-Baglan (ST)
-3-Jalgaon                       13-Jalgaon City, 14-Jalgaon Rural, 15-Amalner, 16-Erandol, 17-Chalisgaon, 18-Pachora
-4-Raver                         10-Chopda (ST), 11 Raver, 12-Bhusawal (SC), 19-Jamner, 20 Muktainagar, 21-Malkapur
-5-Buldhana                      22-Buldhana, 23-Chikhli, 24-Sindkhed Raja, 25-Mehkar (SC), 26-Khamgaon, 27-Jalgaon (Jamod)
-6-Akola                         28-Akot, 29-Balapur, 30-Akola West, 31-Akola East, 32-Murtizapur (SC), 33-Risod
-7-Amravati (SC)                 37-Badnera, 38-Amravati, 39-Teosa, 40-Daryapur (SC), 41-Melghat (ST), 42-Achalpur
-8-Wardha                        36-Dhamangaon Railway, 43-Morshi, 44-Arvi, 45-Deoli, 46-Hinganghat, 47-Wardha
-9-Ramtek (SC)                   48-Katol, 49-Savner, 50-Hingna, 51-Umred (SC), 58-Kamthi, 59-Ramtek
-10-Nagpur                       52 Nagpur South West, 53-Nagpur South, 54-Nagpur East, 55-Nagpur Central, 56-Nagpur West, 57-Nagpur North (SC)
-11-Bhandara-Gondiya             60-Tumsar, 61-Bhandara (SC), 62-Sakoli, 63-Arjuni-Morgaon (SC), 64-Tirora, 65-Gondiya
-12-Gadchiroli-Chimur (ST)       66-Amgaon (ST), 67-Armori (ST), 68-Gadchiroli (ST), 69-Aheri (ST), 73-Brahmapuri, 74-Chimur
-13-Chandrapur                   70-Rajura, 71-Chandrapur (SC), 72-Ballarpur, 75-Warora, 76-Wani, 80-Arni (ST)
-14-Yavatmal-Washim              34-Washim (SC), 35-Karanja, 77-Ralegaon (ST), 78-Yavatmal, 79-Digras, 81-Pusad
-15-Hingoli                      82-Umarkhed (SC), 83-Kinwat, 84-Hadgaon, 92-Basmath, 93-Kalamnuri, 94-Hingoli
-16-Nanded                       85-Bhokar, 86-Nanded North, 87-Nanded South, 89-Naigaon, 90-Deglur (SC), 91-Mukhed
-17-Parbhani                     95-Jintur, 96-Parbhani, 97-Gangakhed, 98-Pathri, 99-Partur, 100-Ghansawangi
-18-Jalna                        101-Jalna, 102-Badnapur (SC), 103-Bhokardan, 104-Sillod, 106-Phulambri, 110-Paithan
-19-Aurangabad                   105-Kannad, 107-Aurangabad Central, 108-Aurangabad West (SC), 109-Aurangabad East, 111-Gangapur, 112-Vaijapur
-20-Dindori (ST)                 113-Nandgaon, 117-Kalwan (ST), 118-Chandvad, 119-Yevla, 121-Niphad, 122-Dindori (ST)
-21-Nashik                       120-Sinnar, 123-Nashik East, 124-Nashik Central, 125-Nashik West, 126-Deolali (SC), 127-Igatpuri (ST)
-22-Palghar (ST)                 128-Dahanu (ST), 129-Vikramgad (ST), 130-Palghar (ST), 131-Boisar (ST), 132-Nalasopara, 133-Vasai
-23-Bhiwandi                     134 Bhiwandi Rural (ST), 135-Shahapur (ST), 136-Bhiwandi West, 137-Bhiwandi East, 138-Kalyan West, 139-Murbad
-24-Kalyan                       140-Ambernath (SC), 141-Ulhas Nagar, 142-Kalyan East, 143-Dombivali, 144-Kalyan Rural, 149-Mumbra-Kalwa
-25-Thane                        145-Mira Bhayandar, 146-Ovala-Majiwada, 147 Kopri-Pachpakhadi, 148-Thane, 150-Airoli, 151-Belapur
-26-Mumbai North                 152-Borivali, 153-Dahisar, 154 Magathane, 160-Kandivali East, 161-Charkop, 162-Malad West
-27-Mumbai North-West            158-Jogeshwari East, 159-Dindoshi, 163-Goregaon, 164-Versova, 165-Andheri West, 166-Andheri East
-28-Mumbai North-East            155 Mulund, 156-Vikhroli, 157-Bhandup West, 169-Ghatkopar West, 170-Ghatkopar East, 171 Mankhurd Shivaji Nagar
-29-Mumbai North-Central         167-Vile Parle, 168-Chandivali, 174-Kurla (SC), 176-Vandre East, 177-Vandre West, 175-Kalina
-30-Mumbai South-Central         172-Anushakti Nagar, 173-Chembur, 178-Dharavi (SC), 179-Sion Koliwada, 180-Wadala, 181.Mahim
-31-Mumbai South                 182-Worli, 183-Shivadi, 184-Byculla, 185-Malabar Hill, 186-Mumbadevi, 187-Colaba
-32-Raigad                       191-Pen, 192-Alibag, 193-Shrivardhan, 194-Mahad, 263-Dapoli, 264-Guhagar
-33-Maval                        188.Panvel, 189-Karjat, 190-Uran, 204-Maval, 205-Chinchwad, 206-Pimpri (SC)
-34-Pune                         208-Vadgaon Sheri, 209-Shivajinagar, 210-Kothrud, 212-Parvati, 214 Pune Cantonment (SC), 215-Kasba Peth
-35-Baramati                     199-Daund, 200-Indapur, 201-Baramati, 202-Purandar, 203-Bhor, 211-Khadakwasala
-36-Shirur                       195-Junnar, 196-Ambegaon, 197-Khed Alandi, 198-Shirur, 207-Bhosari, 213-Hadapsar
-37-Ahmednagar                   222-Shevgaon, 223-Rahuri, 224-Parner, 225-Ahmednagar City, 226-Shrigonda, 227-Karjat Jamkhed
-38-Shirdi (SC)                  216-Akole (ST), 217-Sangamner, 218-Shirdi, 219-Kopargaon, 220-Shrirampur (SC), 221-Nevasa
-39-Beed                         228-Georai, 229-Majalgaon, 230-Beed, 231-Ashti, 232-Kaij (SC), 233-Parli
-40-Osmanabad                    239-Ausa, 240-Umarga (SC), 241-Tuljapur, 242-Osmanabad, 243-Paranda, 246-Barshi
-41-Latur (SC)                   234-Latur Rural, 235-Latur City, 236-Ahmadpur, 237-Udgir (SC), 238-Nilanga, 88-Loha
-42-Solapur (SC)                 247-Mohol (SC), 248-Solapur City North, 249-Solapur City Central, 250-Akkalkot, 251-Solapur South, 252-Pandharpur
-43-Madha                        244-Karmala, 245-Madha, 253-Sangole, 254-Malshiras (SC), 255-Phaltan (SC), 258-Man
-44-Sangli                       281-Miraj (SC), 282-Sangli, 285-Palus-Kadegaon, 286-Khanapur, 287-Tasgaon-Kavathe Mahankal, 288-Jat
-45-Satara                       256-Wai, 257-Koregaon, 259-Karad North, 260-Karad South, 261-Patan, 262-Satara
-46-Ratnagiri Sindhudurg         265-Chiplun, 266-Ratnagiri, 267-Rajapur, 268-Kankavli, 269-Kudal, 270-Sawantwadi
-47-Kolhapur                     271-Chandgad, 272-Radhanagari, 273-Kagal, 274-Kolhapur South, 275-Karvir, 276 Kolhapur North
-48-Hatkanangle                  277-Shahuwadi, 278-Hatkanangle (SC), 279-Ichalkaranji, 280-Shirol, 283-Islampur, 284-Shirala
+1-Nandurbar (ST)                    1-Akkalkuwa (ST), 2-Shahada (ST), 3-Nandurbar (ST), 4-Nawapur (ST), 5-Sakri (ST), 9-Shirpur (ST)
+2-Dhule                             6-Dhule Rural, 7-Dhule City, 8-Sindkheda, 114-Malegaon Central, 115-Malegaon Outer, 116-Baglan (ST)
+3-Jalgaon                           13-Jalgaon City, 14-Jalgaon Rural, 15-Amalner, 16-Erandol, 17-Chalisgaon, 18-Pachora
+4-Raver                             10-Chopda (ST), 11 Raver, 12-Bhusawal (SC), 19-Jamner, 20 Muktainagar, 21-Malkapur
+5-Buldhana                          22-Buldhana, 23-Chikhli, 24-Sindkhed Raja, 25-Mehkar (SC), 26-Khamgaon, 27-Jalgaon (Jamod)
+6-Akola                             28-Akot, 29-Balapur, 30-Akola West, 31-Akola East, 32-Murtizapur (SC), 33-Risod
+7-Amravati (SC)                     37-Badnera, 38-Amravati, 39-Teosa, 40-Daryapur (SC), 41-Melghat (ST), 42-Achalpur
+8-Wardha                            36-Dhamangaon Railway, 43-Morshi, 44-Arvi, 45-Deoli, 46-Hinganghat, 47-Wardha
+9-Ramtek (SC)                       48-Katol, 49-Savner, 50-Hingna, 51-Umred (SC), 58-Kamthi, 59-Ramtek
+10-Nagpur                           52 Nagpur South West, 53-Nagpur South, 54-Nagpur East, 55-Nagpur Central, 56-Nagpur West, 57-Nagpur North (SC)
+11-Bhandara-Gondiya                 60-Tumsar, 61-Bhandara (SC), 62-Sakoli, 63-Arjuni-Morgaon (SC), 64-Tirora, 65-Gondiya
+12-Gadchiroli-Chimur (ST)           66-Amgaon (ST), 67-Armori (ST), 68-Gadchiroli (ST), 69-Aheri (ST), 73-Brahmapuri, 74-Chimur
+13-Chandrapur                       70-Rajura, 71-Chandrapur (SC), 72-Ballarpur, 75-Warora, 76-Wani, 80-Arni (ST)
+14-Yavatmal-Washim                  34-Washim (SC), 35-Karanja, 77-Ralegaon (ST), 78-Yavatmal, 79-Digras, 81-Pusad
+15-Hingoli                          82-Umarkhed (SC), 83-Kinwat, 84-Hadgaon, 92-Basmath, 93-Kalamnuri, 94-Hingoli
+16-Nanded                           85-Bhokar, 86-Nanded North, 87-Nanded South, 89-Naigaon, 90-Deglur (SC), 91-Mukhed
+17-Parbhani                         95-Jintur, 96-Parbhani, 97-Gangakhed, 98-Pathri, 99-Partur, 100-Ghansawangi
+18-Jalna                            101-Jalna, 102-Badnapur (SC), 103-Bhokardan, 104-Sillod, 106-Phulambri, 110-Paithan
+19-Aurangabad                       105-Kannad, 107-Aurangabad Central, 108-Aurangabad West (SC), 109-Aurangabad East, 111-Gangapur, 112-Vaijapur
+20-Dindori (ST)                     113-Nandgaon, 117-Kalwan (ST), 118-Chandvad, 119-Yevla, 121-Niphad, 122-Dindori (ST)
+21-Nashik                           120-Sinnar, 123-Nashik East, 124-Nashik Central, 125-Nashik West, 126-Deolali (SC), 127-Igatpuri (ST)
+22-Palghar (ST)                     128-Dahanu (ST), 129-Vikramgad (ST), 130-Palghar (ST), 131-Boisar (ST), 132-Nalasopara, 133-Vasai
+23-Bhiwandi                         134 Bhiwandi Rural (ST), 135-Shahapur (ST), 136-Bhiwandi West, 137-Bhiwandi East, 138-Kalyan West, 139-Murbad
+24-Kalyan                           140-Ambernath (SC), 141-Ulhas Nagar, 142-Kalyan East, 143-Dombivali, 144-Kalyan Rural, 149-Mumbra-Kalwa
+25-Thane                            145-Mira Bhayandar, 146-Ovala-Majiwada, 147 Kopri-Pachpakhadi, 148-Thane, 150-Airoli, 151-Belapur
+26-Mumbai North                     152-Borivali, 153-Dahisar, 154 Magathane, 160-Kandivali East, 161-Charkop, 162-Malad West
+27-Mumbai North-West                158-Jogeshwari East, 159-Dindoshi, 163-Goregaon, 164-Versova, 165-Andheri West, 166-Andheri East
+28-Mumbai North-East                155 Mulund, 156-Vikhroli, 157-Bhandup West, 169-Ghatkopar West, 170-Ghatkopar East, 171 Mankhurd Shivaji Nagar
+29-Mumbai North-Central             167-Vile Parle, 168-Chandivali, 174-Kurla (SC), 176-Vandre East, 177-Vandre West, 175-Kalina
+30-Mumbai South-Central             172-Anushakti Nagar, 173-Chembur, 178-Dharavi (SC), 179-Sion Koliwada, 180-Wadala, 181.Mahim
+31-Mumbai South                     182-Worli, 183-Shivadi, 184-Byculla, 185-Malabar Hill, 186-Mumbadevi, 187-Colaba
+32-Raigad                           191-Pen, 192-Alibag, 193-Shrivardhan, 194-Mahad, 263-Dapoli, 264-Guhagar
+33-Maval                            188.Panvel, 189-Karjat, 190-Uran, 204-Maval, 205-Chinchwad, 206-Pimpri (SC)
+34-Pune                             208-Vadgaon Sheri, 209-Shivajinagar, 210-Kothrud, 212-Parvati, 214 Pune Cantonment (SC), 215-Kasba Peth
+35-Baramati                         199-Daund, 200-Indapur, 201-Baramati, 202-Purandar, 203-Bhor, 211-Khadakwasala
+36-Shirur                           195-Junnar, 196-Ambegaon, 197-Khed Alandi, 198-Shirur, 207-Bhosari, 213-Hadapsar
+37-Ahmednagar                       222-Shevgaon, 223-Rahuri, 224-Parner, 225-Ahmednagar City, 226-Shrigonda, 227-Karjat Jamkhed
+38-Shirdi (SC)                      216-Akole (ST), 217-Sangamner, 218-Shirdi, 219-Kopargaon, 220-Shrirampur (SC), 221-Nevasa
+39-Beed                             228-Georai, 229-Majalgaon, 230-Beed, 231-Ashti, 232-Kaij (SC), 233-Parli
+40-Osmanabad                        239-Ausa, 240-Umarga (SC), 241-Tuljapur, 242-Osmanabad, 243-Paranda, 246-Barshi
+41-Latur (SC)                       234-Latur Rural, 235-Latur City, 236-Ahmadpur, 237-Udgir (SC), 238-Nilanga, 88-Loha
+42-Solapur (SC)                     247-Mohol (SC), 248-Solapur City North, 249-Solapur City Central, 250-Akkalkot, 251-Solapur South, 252-Pandharpur
+43-Madha                            244-Karmala, 245-Madha, 253-Sangole, 254-Malshiras (SC), 255-Phaltan (SC), 258-Man
+44-Sangli                           281-Miraj (SC), 282-Sangli, 285-Palus-Kadegaon, 286-Khanapur, 287-Tasgaon-Kavathe Mahankal, 288-Jat
+45-Satara                           256-Wai, 257-Koregaon, 259-Karad North, 260-Karad South, 261-Patan, 262-Satara
+46-Ratnagiri Sindhudurg             265-Chiplun, 266-Ratnagiri, 267-Rajapur, 268-Kankavli, 269-Kudal, 270-Sawantwadi
+47-Kolhapur                         271-Chandgad, 272-Radhanagari, 273-Kagal, 274-Kolhapur South, 275-Karvir, 276 Kolhapur North
+48-Hatkanangle                      277-Shahuwadi, 278-Hatkanangle (SC), 279-Ichalkaranji, 280-Shirol, 283-Islampur, 284-Shirala
 STATE: MANIPUR
-1-Inner Manipur                 1-Khundrakpam, 2-Heingang, 3-Khurai, 4-Khetrigao, 5-Thongju, 6-Keirao, 7-Andro, 8-Lamlai, 9-Thangmeiband, 10-Uripok, 11-Sagolband, 12-Keisamthong, 13-Singjamei, 14-Yaiskul, 15-Wangkhei, 16-Sekmai (SC), 17-Lamsang, 18-Konthoujam, 19-Patsoi, 20-Langthabal, 21-Naoriya Pakhanglakpa, 22-Wangoi, 23-Mayang Imphal, 24-Nambol, 25-Oinam, 26-Bishenpur, 27-Moirang, 28-Thanga, 29-Kumbi, 30-Lilong, 31-Thoubal, 32-Wangkhem
-2-Outer Manipur (ST)            33-Heirok, 34-Wanging Tentha, 35-Khangabok, 36-Wabgai, 37-Kakch:ng, 38-Hiyanglam, 39-Sugnoo, 40-Jiribam, 41-Chandel (ST), 42-Tengnoupal (ST), 43-Phungyar (ST), 44-Ukhrul (ST), 45-Chingai (ST), 46-Saikul (ST), 47-Karong (ST), 48-Mao (ST), 49-Tadubi (ST), 50-Kangpokpi, 51-Saitu (ST), 52-Tamei (ST), 53-Tamenglong (ST), 54-Nungba (ST), 55-Tipaimukh (ST), 56-Thanlon (ST), 57-Henglep (ST), 58-Churachandpur (ST), 59-Saikot (ST), 60-Singhat (ST)
+1-Inner Manipur                     1-Khundrakpam, 2-Heingang, 3-Khurai, 4-Khetrigao, 5-Thongju, 6-Keirao, 7-Andro, 8-Lamlai, 9-Thangmeiband, 10-Uripok, 11-Sagolband, 12-Keisamthong, 13-Singjamei, 14-Yaiskul, 15-Wangkhei, 16-Sekmai (SC), 17-Lamsang, 18-Konthoujam, 19-Patsoi, 20-Langthabal, 21-Naoriya Pakhanglakpa, 22-Wangoi, 23-Mayang Imphal, 24-Nambol, 25-Oinam, 26-Bishenpur, 27-Moirang, 28-Thanga, 29-Kumbi, 30-Lilong, 31-Thoubal, 32-Wangkhem
+2-Outer Manipur (ST)                33-Heirok, 34-Wanging Tentha, 35-Khangabok, 36-Wabgai, 37-Kakch:ng, 38-Hiyanglam, 39-Sugnoo, 40-Jiribam, 41-Chandel (ST), 42-Tengnoupal (ST), 43-Phungyar (ST), 44-Ukhrul (ST), 45-Chingai (ST), 46-Saikul (ST), 47-Karong (ST), 48-Mao (ST), 49-Tadubi (ST), 50-Kangpokpi, 51-Saitu (ST), 52-Tamei (ST), 53-Tamenglong (ST), 54-Nungba (ST), 55-Tipaimukh (ST), 56-Thanlon (ST), 57-Henglep (ST), 58-Churachandpur (ST), 59-Saikot (ST), 60-Singhat (ST)
 STATE: MEGHALAYA
-1-SHILLONG (ST)                 1-Nartiang (ST), 2-Jowai (ST), 3-Raliang (ST), 4-Mowkaiaw (ST), 5-Sutnga-Saipung (ST), 6-Khliehriat (ST), 7-Amlarem (ST), 8-Mawhati (ST), 9-Nongpoh (ST), 10-Jirang (ST), 11-Umsning (ST), 12-Umroi (ST), 13-Mawryngkneng (ST), 14-Pynthorumkhrah, 15-Mawlai (ST), 16-East Shillong (ST), 17-North Shillong (ST), 18-West Shillong, 19-South        Shillong, 20-Mylliem (ST), 21-Nongthymmai (ST), 22-Nongkrem (ST), 23-Sohiong (ST), 24-Mawphlang (ST), 25-Mawsynram (ST), 26-Shella (ST), 27-Pynursla (ST), 28-Sohra (ST), 29-Mawkynrew (ST), 30-Mairang (ST), 31-Mawthadraishan (ST), 32-Nongstoin (ST), 33-Rambrai Jyrngam (ST), 34-Mawshynrut (ST), 35-Ranikor (ST), 36-Mawkyrwat (ST)
-2-TURA (ST)                     37-Kharkutta (ST), 38-Mendipathar (ST), 39-Resubelpara (ST), 40-Bajengdoba (ST), 41-Songsak (ST), 42-Rongjeng (ST), 43-William Nagar (ST), 44-Raksamgre (ST), 45-Tikrikila (ST), 46-Phulbari, 47-Rajabala, 48-Selsella (ST), 49-Dadenggre (ST), 50-North Tura (ST), 51-SouthTura (ST), 52-Rangsakona (ST), 53-Ampati (ST), 54-Mahendraganj (ST), 55-Salmanpara (ST), 56-Gambegre (ST), 57-Dalu (ST), 58-Rongara-Siju (ST), 59-Chokpot (ST), 60-Baghmara (ST)
+1-SHILLONG (ST)                     1-Nartiang (ST), 2-Jowai (ST), 3-Raliang (ST), 4-Mowkaiaw (ST), 5-Sutnga-Saipung (ST), 6-Khliehriat (ST), 7-Amlarem (ST), 8-Mawhati (ST), 9-Nongpoh (ST), 10-Jirang (ST), 11-Umsning (ST), 12-Umroi (ST), 13-Mawryngkneng (ST), 14-Pynthorumkhrah, 15-Mawlai (ST), 16-East Shillong (ST), 17-North Shillong (ST), 18-West Shillong, 19-South        Shillong, 20-Mylliem (ST), 21-Nongthymmai (ST), 22-Nongkrem (ST), 23-Sohiong (ST), 24-Mawphlang (ST), 25-Mawsynram (ST), 26-Shella (ST), 27-Pynursla (ST), 28-Sohra (ST), 29-Mawkynrew (ST), 30-Mairang (ST), 31-Mawthadraishan (ST), 32-Nongstoin (ST), 33-Rambrai Jyrngam (ST), 34-Mawshynrut (ST), 35-Ranikor (ST), 36-Mawkyrwat (ST)
+2-TURA (ST)                         37-Kharkutta (ST), 38-Mendipathar (ST), 39-Resubelpara (ST), 40-Bajengdoba (ST), 41-Songsak (ST), 42-Rongjeng (ST), 43-William Nagar (ST), 44-Raksamgre (ST), 45-Tikrikila (ST), 46-Phulbari, 47-Rajabala, 48-Selsella (ST), 49-Dadenggre (ST), 50-North Tura (ST), 51-SouthTura (ST), 52-Rangsakona (ST), 53-Ampati (ST), 54-Mahendraganj (ST), 55-Salmanpara (ST), 56-Gambegre (ST), 57-Dalu (ST), 58-Rongara-Siju (ST), 59-Chokpot (ST), 60-Baghmara (ST)
 STATE: MIZORAM
-1-MIZORAM (ST)                  1-Hachhek (ST), 2-Dampa (ST), 3-Mamit (ST), 4-Tuirial (ST), 5-Kolasib (ST), 6-Serlui (ST), 7-Tuivawl (ST), 8-Chalfilh (ST), 9-Tawi (ST), 10-Aizawl North-I (ST), 11-Aizawl North-II (ST), 12-Aizawl North-III (ST), 13-Aizawl East-I, 14-Aizawl East-II (ST), 15-Aizawl West-I (ST), 16-Aizawl West-II (ST), 17-Aizawl West-III (ST), 18-Aizawl South-I (ST), 19-Aizawl South-II (ST), 20-Aizawl South-III (ST), 21-Lengteng (ST), 22-Tuichang (ST), 23-Champhai North, 24-Champhai South (ST), 25-East Tuipui (ST), 26-Serchhip (ST), 27-Tuikum (ST), 28-Hrangturzo (ST), 29-South Tuipui (ST), 30-Lunglei North (ST), 31-Lunglei East (ST), 32-Lunglei West (ST), 33-Lunglei South (ST), 34-Thorang (ST), 35-West Tuipui (ST), 36-Tuichawng (ST), 37-Lawngtlai West (ST), 38-Lawngtlai East (ST), 39-Saiha (ST), 40-Palak (ST)
+1-MIZORAM (ST)                      1-Hachhek (ST), 2-Dampa (ST), 3-Mamit (ST), 4-Tuirial (ST), 5-Kolasib (ST), 6-Serlui (ST), 7-Tuivawl (ST), 8-Chalfilh (ST), 9-Tawi (ST), 10-Aizawl North-I (ST), 11-Aizawl North-II (ST), 12-Aizawl North-III (ST), 13-Aizawl East-I, 14-Aizawl East-II (ST), 15-Aizawl West-I (ST), 16-Aizawl West-II (ST), 17-Aizawl West-III (ST), 18-Aizawl South-I (ST), 19-Aizawl South-II (ST), 20-Aizawl South-III (ST), 21-Lengteng (ST), 22-Tuichang (ST), 23-Champhai North, 24-Champhai South (ST), 25-East Tuipui (ST), 26-Serchhip (ST), 27-Tuikum (ST), 28-Hrangturzo (ST), 29-South Tuipui (ST), 30-Lunglei North (ST), 31-Lunglei East (ST), 32-Lunglei West (ST), 33-Lunglei South (ST), 34-Thorang (ST), 35-West Tuipui (ST), 36-Tuichawng (ST), 37-Lawngtlai West (ST), 38-Lawngtlai East (ST), 39-Saiha (ST), 40-Palak (ST)
 STATE: NAGALAND
-1-NAGALAND                      1-Dimapur-I, 2-Dimapur-II (ST), 3-Dimapur-III (ST), 4-Ghaspani-I (ST), 5-Ghaspani-II (ST), 6-Tenning (ST), 7-Peren (ST), 8-Western Angami (ST), 9-Kohima Town (ST), 10-Northern Angami-I (ST), 11-Northern Angami-II (ST), 12-Tseminyu (ST), 13-Pughoboto (ST), 14-Southern Angami-I (ST), 15-Southern Angami-II (ST), 16-Pfutsero (ST), 17-Chizami (ST), 18-Chazouba (ST), 19-Phek (ST), 20-Meluri (ST), 21-Tuli (ST), 22-Arkakong (ST), 23-Impur (ST), 24-Angetyongpang (ST), 25-Monguya, 26-Aonglenden, 27-Mokokchung Town, 28-Koridang (ST), 29-Jangpetkong (ST), 30-Alungtaki (ST), 31-Akuluto (ST), 32-Atoizu (ST), 33-Suruhuto (ST), 34-Aghunato (ST), 35-Zunheboto (ST), 36-Satakha (ST), 37-Tyui (ST), 38-wokha (ST), 39-Sanis (ST), 40-Bhandari (ST), 41-Tizit (ST), 42-Wakching (ST), 43-Tapi (ST), 44-Phomching (ST), 45-Tehok (ST), 46-Mon Town (ST), 47-Aboi (ST), 48-Moka (ST), 49 ­Tamlu (ST), 50-Longleng (ST), 51-Noksen (ST), 52-Longkhim Chare (ST), 53-Tuensang Sadar-I (ST), 54-Tuensang Sadar-II (ST), 55-Tobu (ST), 56-Noklak (ST), 57-Thonoknyu (ST), 58-Shamtorr-Chessore (ST), 59-Siyuchong-Sitimi (ST), 60-Pungro-Kiphire (ST)
-STATE: ORISSA
-1-BARGARH                       1-Padampur, 2-Bijepur, 3-Bargarh, 4-Attabira (SC), 5-Bhatli, 6-Brajarajnagar, 7-Jharsuguda
-2-SUNDARGARH (ST)               8-Talsara (ST), 9-Sundargarh (ST), 10-Biramitrapur (ST), 11-Raghunathpali (SC), 12-Rourkela, 13-Rajgangapur (ST), 14-Bonai (ST)
-3-SAMBALPUR                     15-Kuchinda (ST), 16-Rengali (SC), 17-Sambalpur, 18-Rairakhol, 19-Deogarh, 62-Chhendipada (SC), 63-Athamallik
-4-KEONJHAR (ST)                 20-Telkoi (ST), 21-Ghasipura, 22-Anandapur (SC), 23-Patna (ST), 24-Keonjhar (ST), 25-Champua, 30-Karanjia (ST)
-5-MAYURBHANJ (ST)               26-Jashipur (ST), 27-Saraskana (ST), 28-Rairangpur (ST), 29-Bangriposi (ST), 31-Udala (ST), 33-Baripada (ST), 34-Morada
-6-BALASORE                      32-Badasahi (SC), 35-Jaleswar, 36-Bhograi, 37-Basta, 38-Balasore, 39-Remuna (SC), 40-Nilgiri
-7-BHADRAK (SC)                  41-Soro (SC), 42-Simulia, 43-Bhandaripokhari, 44-Bhadrak, 45-Basudevpur, 46-Dhamnagar (SC), 47-Chandabali
-8-JAJPUR (SC)                   48-Binjharpur (SC), 49-Bari, 50-Barachana, 51-Dharmasala, 52-Jajpur, 53-Korei, 54-Sukinda
-9-DHENKANAL                     55-Dhenkanal, 56-Hindol (SC), 57-Kamakhyanagar, 58 Parjanga, 59-Pallahara, 60-Talcher, 61-Angul
-10-BOLANGIR                     64-Birmaharajpur (SC), 65-Sonepur, 66-Loisingha (SC), 67-Patnagarh, 68-Bolangir, 69-Titlagarh, 70-Kantabanji
-11-KALAHANDI                    71-Nuapada, 72-Khariar, 77-Lanjigarh (ST), 78-Junagarh, 79-Dharmgarh, 80-Bhawanipatna (SC), 81-Narla
-12-NABARANGPUR (ST)             73-Umarkote (ST), 74-Jharigam (ST), 75-Nabarangpur (ST), 76-Dabugam (ST), 142-kotpad (ST), 146-MALKANGIRI (ST), 147-chitrakonda (ST)
-13-KANDHAMAL                    82-Baliguda (ST), 83-G. Udayagiri (ST), 84-Phulbani (ST), 85-Kantamal, 86-Boudh, 121-Daspalla (SC), 123-Bhanjanagar
-14-CUTTACK                      87-Baramba, 88-Banki, 89-Athagarh, 90-Barabati-Cuttack, 91-Choudwar-Cuttack, 93-Cuttack Sadar (SC), 120-Khandapada
-15-KENDRAPARA                   94-Salipur, 95-Mahanga, 96-Patkura, 97-Kendrapara (SC), 98-Aul, 99-Rajanagar, 100-Mahakalapada
-16-JAGATSINGHPUR (SC)           92-Niali (SC), 101-Paradeep, 102-Tirtol (SC), 103-Balikuda-Erasama, 104-Jagatsinghpur, 105-Kakatpur (SC), 106-Nimapara
-17-PURI                         107-Puri, 108-Brahmagiri, 109-Satyabadi , 110-Pipili, 118-Chilika, 119-Ranpur, 122-Nayagarh
-18-BHUBANESWAR                  111-Jayadev (SC), 112-Bhubaneswar Central (Madhya), 113-Bhubaneswar North (Uttar), 114-Ekamra-Bhubaneswar, 115-Jatani, 116-Begunia, 117-Khurda
-19-ASKA                         124-Polasara, 125-Kabisuryanagar, 126-Khalikote (SC), 128-Aska, 129-Surada, 130-Sanakhemundi, 131-Hinjili
-20-BERHAMPUR                    127-Chhatrapur (SC), 132-Gopalpur, 133-Berhampur, 134-Digapahandi, 135-Chikiti, 136-Mohana (ST), 137-Paralakhemundi
-21-KORAPUT (ST)                 138-Gunupur (ST), 139-Bissam Cuttack (ST), 140-Rayagada (ST), 141-Laxmipur (ST), 143-Jeypore, 144-Koraput (SC), 145-Pottangi (ST)
-STATE: PUNJAB
-1. Gurdaspur                    1-Sujanpur, 2-Bhoa (SC), 3-Pathankot, 4- Gurdaspur, 5-Dina Nagar (SC), 6-Qadian, 7-Batala, 9-Fatehgarh Churian, 10- Dera Baba Nanak
-2. Amritsar                     11-Ajnala, 12-Raja Sansi, 13-Majitha, 15-Amritsar North, 16-Amritsar West (SC), 17-Amritsar Central, 18-Amritsar East, 19-Amristar South, 20-Attari (SC)
-3. Khadoor Sahib                14-Jandiala (SC), 21-Tarn Taran, 22-Khem Karan, 23-Patti, 24-Khadoor Sahib, 25-Baba Bakala (SC), 27-Kapurthala, 28-Sultanpur Lodhi, 75-Zira
-4. Jalandhar (SC)               30-Phillaur (SC), 31-Nakodar, 32-Shahkot, 33-Kartarpur (SC), 34-Jalandhar West (SC), 35-Jalandhar Central, 36-Jalandhar North, 37-Jalandhar Cantt., 38-Adampur (SC)
-5. Hoshiarpur (SC)              8-Sri Hargobindpur (SC), 26-Bholath, 29-Phagwara (SC), 39-Mukerian, 40-Dasuya, 41-Urmar, 42-Sham Chaurasi (SC), 43-Hoshiarpur, 44-Chabbewal (SC)
-6. Anandpur Sahib               45-Garhshankar, 46-Banga (SC), 47-Nawan Shahr, 48- Balachaur, 49-Anandpur Sahib, 50-Rupnagar, 51-Chamkaur Sahib (SC), 52-Kharar, 53-S.A.S. Nagar
-7. Ludhiana                     60-Ludhiana East, 61-Ludhiana South, 62-Atam Nagar, 63-Ludhiana Central, 64-Ludhiana West, 65-Ludhiana North, 66-Gill (SC), 68-Dakha, 70-Jagraon (SC)
-8. Fatehgarh Sahib (SC)         54-Bassi Pathana (SC), 55-Fatehgarh Sahib, 56-Amloh, 57-Khanna, 58-Samrala, 59-Sahnewal, 67-Payal (SC), 69- Raikot (SC), 106-Amargarh
-9. Faridkot (SC)                71-Nihal Singhwala (SC), 72-Bhagha Purana, 73-Moga, 74-Dharamkot, 84-Giddarbaha, 87-Faridkot, 88-Kotkapura, 89-Jaitu (SC), 90-Rampura Phul
-10. Firozpur                    76-Firozpur City, 77-Firozpur Rural (SC), 78-Guru Har Sahai, 79-Jalalabad, 80-Fazilka, 81-Abohar, 82-Balluana (SC), 85-Malout (SC), 86-Muktsar
-11. Bathinda                    83-Lambi, 91-Bhucho Mandi (SC), 92-Bathinda Urban, 93-Bathinda Rural (SC), 94-Talwandi Sabo, 95-Maur, 96- Mansa, 97-Sardulgarh, 98-Budhlada (SC)
-12. Sangrur                     99-Lehra, 100-Dirba (SC), 101-Sunam, 102-Bhadaur (SC), 103-Barnala, 104-Mehal Kalan (SC), 105-Malerkotla, 107- Dhuri, 108-Sangrur
-13. Patiala                     109-Nabha (SC), 110-Patiala Rural, 111-Rajpura, 112-Dera Bassi, 113-Ghanaur, 114-Sanour, 115-Patiala, 116-Samana, 117-Shutrana (SC)
-STATE: RAJASTHAN
-1-Ganganagar (SC)               1-Sadulshahar, 2-Ganganagar, 3-Karanpur, 4-Suratgarh, 5-Raisinghnagar (SC), 7-Sangaria, 8-Hanumangarh, 9-Pilibanga (SC)
-2-Bikaner (SC)                  6-Anupgarh (SC), 12-Khajuwala (SC), 13-Bikaner West, 14-Bikaner East, 15-Kolayat, 16-Lunkaransar, 17-Dungargarh, 18-Nokha
-3-Churu                         10-Nohar, 11-Bhadra, 19-Sadulpur, 20-Taranagar, 21-Sardarshahar, 22-Churu, 23-Ratangarh, 24-Sujangarh (SC)
-4-Jhunjhunu                     25-Pilani (SC), 26-Surajgarh, 27-Jhunjhunu, 28-Mandawa, 29-Nawalgarh, 30-Udaipurwati, 31-Khetri, 32-Fatehpur
-5-Sikar                         33-Lachhmangarh, 34-Dhod (SC), 35-Sikar, 36-Danta Ramgarh, 37-Khandela, 38-Neem Ka Thana, 39-Srimadhopur, 43-Chomu
-6-Jaipur Rural                  40-Kotputli, 41-Viratnagar, 42-Shahpura, 44-Phulera, 46-Jhotwara, 47-Amber, 48-Jamwa Ramgarh (ST), 63-Bansur
-7-Jaipur                        49-Hawa Mahal, 50-Vidhyadhar Nagar, 51-Civil Lines, 52-Kishan Pole, 53-Adarsh Nagar, 54-Malviya Nagar, 55-Sanganer, 56-Bagru (SC)
-8-Alwar                         59-Tijara, 60-Kishangarh Bas, 61-Mundawar, 62-Behror, 65-Alwar Rural (SC), 66-Alwar Urban, 67-Ramgarh, 68-Rajgarh-Laxmangarh (ST)
-9-Bharatpur (SC)                69-Kathumar (SC), 70-Kaman, 71-Nagar, 72- Deeg-Kumher, 73-Bharatpur, 74-Nadbai, 75-Weir (SC), 76-Bayana (SC)
-10-Karauli-Dholpur (SC)         77-Baseri (SC), 78-Bari, 79-Dholpur, 80-Rajakhera, 81-Todabhim (ST), 82-Hindaun (SC), 83-Karauli, 84-Sapotra (ST)
-11-Dausa (ST)                   57-Bassi (ST), 58-Chaksu (SC), 64-Thanagazi, 85-Bandikui, 86-Mahuwa, 87-Sikrai (SC), 88-Dausa, 89-Lalsot (ST)
-12-Tonk-Sawai Madhopur          90-Gangapur, 91-Bamanwas (ST), 92-Sawai Madhopur, 93-Khandar (SC), 94-Malpura, 95-Niwai (SC), 96-Tonk, 97-Deoli-Uniara
-13-Ajmer                        45-Dudu (SC), 98-Kishangarh, 99-Pushkar, 100-Ajmer North, 101-Ajmer South (SC), 102-Nasirabad, 104-Masuda, 105-Kekri
-14-Nagaur                       106-Ladnun, 107-Deedwana, 108-Jayal (SC), 109-Nagaur, 110-Khinvsar, 113-Makrana, 114-Parbatsar, 115-Nawan
-15-Pali                         117-Sojat (SC), 118-Pali, 119-Marwar Junction, 120-Bali, 121- Sumerpur, 125-Osian, 126-Bhopalgarh (SC), 131-Bilara (SC)
-16-Jodhpur                      122-Phalodi, 123-Lohawat, 124-Shergarh, 127-Sardarpura, 128-Jodhpur, 129-Soorsagar, 130-Luni, 133-Pokaran
-17-Barmer                       132-Jaisalmer, 134-Sheo, 135-Barmer, 136-Baytoo, 137-Pachpadra, 138-Siwana, 139-Gudha Malani, 140-Chohtan (SC)
-18-Jalore                       141-Ahore, 142-Jalore (SC), 143-Bhinmal, 144-Sanchore, 145-Raniwara, 146-Sirohi, 147-Pindwara-Abu (ST), 148-Reodar (SC)
-19-Udaipur (ST)                 149-Gogunda (ST), 150-Jhadol (ST), 151-Kherwara (ST), 152- Udaipur Rural (ST), 153-Udaipur, 156-Salumber (ST), 157- Dhariawad (ST), 159-Aspur (ST)
-20-Banswara (ST)                158-Dungarpur (ST), 160-Sagwara (ST), 161-Chorasi (ST), 162- Ghatol (ST), 163-Garhi (ST), 164-Banswara (ST), 165-Bagidora (ST), 166-Kushalgarh (ST)
-21-Chittorgarh                  154-Mavli, 155-Vallabhnagar, 167-Kapasan (SC), 168-Begun, 169-Chittorgarh, 170-Nimbahera, 171-Bari Sadri, 172-Pratapgarh (ST)
-22- Rajsamand                   103-Beawar, 111-Merta (SC), 112-Degana, 116-Jaitaran, 173-Bhim, 174-Kumbhalgarh, 175-Rajsamand, 176-Nathdwara
-23- Bhilwara                    177-Asind, 178-Mandal, 179-Sahara, 180-Bhilwara, 181-Shahpura (SC), 182-Jahazpur, 183-Mandalgarh, 184-Hindoli
-24-Kota                         185-Keshoraipatan (SC), 186-Bundi, 187-Pipalda, 188-Sangod, 189- Kota North, 190-Kota South, 191-Ladpura, 192-Ramganj Mandi (SC)
-25-Jhalawar-Baran               193-Anta, 194-Kishanganj (ST), 195-Baran-Atru (SC), 196-Chhabra, 197-Dag (SC), 198-Jhalrapatan, 199-Khanpur, 200-Manohar Thana
-STATE: SIKKIM
-1-Sikkim                        1-Yoksam-Tashiding (BL), 2-Yangthang, 3-Maneybung-Dentam, 4-Gyalshing-Barnyak, 5-Rinchenpong (BL), 6-Daramdin (BL), 7-Soreng-Chakung, 8-Salghari-Zoom (SC), 9-Barfung (BL), 10-Poklok-Kamrang, 11-Namchi-Singhithang, 12-Melli, 13-Namthang-Rateypani, 14-Temi-Namphing, 15-Rangang-Yangang, 16-Tumen-Lingi (BL), 17-Khamdong-Singtam, 18-West Pendam(SC), 19-Rhenock, 20-Chujachen, 21-Gnathang-Machong (BL), 22-Namcheybung, 23-Shyari (BL), 24-Martam-Rumtek (BL), 25-Upper Tadong, 26-Arithang, 27-Gangtok (BL), 28-Upper Burtuk, 29-Kabi Lungchuk (BL), 30-Djongu (BL), 31-Lachen Mangan (BL), 32-Sangha (SANGHA)
-STATE: TAMIL NADU
-1-TIRUVALLUR (SC)               1-Gummidipoondi, 2 Ponneri (SC), 4 Tiruvallur, 5 Poonamallee (SC), 6 Avadi, 9 Madavaram
-2-CHENNAI NORTH                 10 Tiruvottiyur, 11 Dr.Radhakrishnan Nagar, 12 Perambur, 13 Kolathur, 15 Thiru-Vi-Ka-Nagar (SC), 17 Royapuram
-3-CHENNAI SOUTH                 22Virugambakkam, 23Saidapet, 24 Thiyagarayanagar, 25 Mylapore, 26 Velachery, 27 Sholinganallur
-4-CHENNAI CENTRAL               14 Villivakkam, 16 Egmore (SC), 18-Harbour, 19 Chepauk-Thiruvallikeni, 20 Thousand Lights, 21 Anna Nagar
-5-SRIPERUMBUDUR                 7 Maduravoyal, 8 Ambattur, 28 Alandur, 29 Sriperumbudur (SC), 30 Pallavaram, 31 Tambaram
-6-KANCHEEPURAM (SC)             32 Chengalpattu, 33 Thiruporur, 34     Cheyyur (SC), 35 Madurantakam (SC), 36                   Uthiramerur, 37 Kancheepuram
-7-ARAKKONAM                     3 Tiruttani, 38 Arakkonam (SC), 39 Sholingur, 40 Katpadi, 41 Ranipet, 42 Arcot
-8-VELLORE                       43 Vellore, 44 Anaikattu, 45 Kilvaithinankuppam (SC), 46 Gudiyattam (SC), 47 Vaniyambadi, 48 Ambur
-9-KRISHNAGIRI                   51 Uthangarai (SC), 52 Bargur, 53   Krishnagiri, 54 Veppanahalli, 55 Hosur, 56 Thalli
-10-DHARMAPURI                   57   Palacodu, 58   Pennagaram, 59    Dharmapuri, 60 Pappireddippatti, 61 Harur (SC), 85 Mettur
-11-TIRUVANNAMALAI               49 Jolarpet, 50 Tiruppattur, 62 Chengam (SC), 63 Tiruvannamalai, 64 Kilpennathur, 65 Kalasapakkam
-12-ARANI                        66 Polur, 67 Arani, 68 Cheyyar, 69 Vandavasi (SC), 70 Gingee, 71 Mailam
-13-VILUPPURAM (SC)              72 Tindivanam (SC), 73 Vanur (SC), 74 Viluppuram, 75 Vikravandi, 76 Tirukkoyilur, 77 Ulundurpettai
-14- KALLAKURICHI                78 Rishivandiyam, 79 Sankarapuram, 80 Kallakurichi (SC), 81 Gangavalli (SC), 82 Attur (SC), 83 Yercaud (ST)
-15-SALEM                        84 Omalur, 86 Edappadi, 88 Salem (West), 89 Salem (North), 90 Salem (South), 91 Veerapandi
-16-NAMAKKAL                     87 Sankari, 92 Rasipuram (SC), 93 Senthamangalam (ST), 94 Namakkal, 95 Paramathi-Velur, 96 Tiruchengodu
-17-ERODE                        97 Kumarapalayam, 98 Erode (East), 99 Erode (West), 100 Modakkurichi, 101 Dharapuram (SC), 102 Kangayam
-18-TIRUPPUR                     103     Perundurai, 104 Bhavani, 105   Anthiyur, 106 Gobichettipalayam, 113 Tiruppur (North), 114 Tiruppur (South)
-19- NILGIRIS (SC)               107 Bhavanisagar (SC), 108 Udhagamandalam, 109 Gudalur (SC), 110 Coonoor, 111 Mettuppalayam, 112 Avanashi (SC)
-20-COIMBATORE                   115 Palladam, 116 Sulur, 117 Kavundampalayam, 118 Coimbatore (North), 120 Coimbatore (South), 121 Singanallur
-21-POLLACHI                     119 Thondamuthur, 122        Kinathukadavu, 123 Pollachi, 124    Valparai (SC), 125    Udumalaipettai , 126 Madathukulam
-22-DINDIGUL                     127 Palani, 128 Oddanchatram, 129 Attur, 130 Nilakkottai (SC), 131 Natham, 132 Dindigul
-23-KARUR                        133    Vedasandur, 134  Aravakurichi, 135 Karur, 136 Krishnarayapuram (SC), 138 Manapparai, 179 Viralimalai
-24-TIRUCHIRAPPALLI              139 Srirangam, 140 Tiruchirappalli (West), 141 Tiruchirappalli (East), 142 Thiruverumbur, 178 Gandarvakottai (SC), 180 Pudukkottai
-25-PERAMBALUR                   137 Kulithalai, 143 Lalgudi, 144 Manachanallur, 145 Musiri, 146 Thuraiyur (SC), 147 Perambalur (SC)
-26-CUDDALORE                    151 Tittakudi (SC), 152 Vriddhachalam, 153 Neyveli, 154 Panruti, 155 Cuddalore, 156 Kurinjipadi
-27-CHIDAMBARAM (SC)             148 Kunnam, 149 Ariyalur, 150 Jayankondam, 157 Bhuvanagiri, 158 Chidambaram, 159 Kattumannarkoil (SC)
-28-MAYILADUTHURAI               160 Sirkazhi (SC), 161 Mayiladuthurai, 162 Poompuhar, 170 Thiruvidaimarudur (SC), 171 Kumbakonam, 172 Papanasam
-29-NAGAPATTINAM (SC)            163 Nagapattinam, 164 Kilvelur (SC), 165 Vedaranyam, 166 Thiruthuraipoondi (SC), 168 Thiruvarur, 169 Nannilam
-30- THANJAVUR                   167 Mannargudi, 173 Thiruvaiyaru, 174 Thanjavur, 175 Orathanadu, 176 Pattukkottai, 177 Peravurani
-31-SIVAGANGA                    181    Thirumayam, 182   Alangudi, 184  Karaikudi, 185 Tiruppattur, 186 Sivaganga, 187 Manamadurai (SC)
-32-MADURAI                      188 Melur, 189 Madurai East, 191 Madurai North, 192 Madurai South, 193 Madurai Central, 194 Madurai West
-33-THENI                        190 Sholavandan (SC), 197 Usilampatti, 198 Andipatti, 199 Periyakulam (SC), 200 Bodinayakanur, 201 Cumbum
-34-VIRUDHUNAGAR                 195 Thiruparankundram, 196 Tirumangalam, 204 Sattur, 205 Sivakasi, 206 Virudhunagar, 207 Aruppukkottai
-35-RAMANATHAPURAM               183 Aranthangi , 208 Tiruchuli, 209 Paramakudi (SC), 210 Tiruvadanai, 211 Ramanathapuram, 212 Mudhukulathur
-36-THOOTHUKKUDI                 213 Vilathikulam, 214 Thoothukkudi, 215 Tiruchendur, 216 Srivaikuntam, 217 Ottapidaram (SC), 218 Kovilpatti
-37-TENKASI (SC)                 202 Rajapalayam, 203 Srivilliputhur (SC), 219 Sankarankovil (SC), 220 Vasudevanallur (SC), 221 Kadayanallur, 222 Tenkasi
-38-TIRUNELVELI                  223 Alangulam, 224 Tirunelveli, 225 Ambasamudram, 226 Palayamkottai, 227 Nanguneri, 228 Radhapuram
-39-KANNIYAKUMARI                229 Kanniyakumari, 230 Nagercoil, 231 Colachel, 232 Padmanabhapuram, 233 Vilavancode, 234 Killiyoor
-STATE: TRIPURA
-1. Tripura West                 1-Simna (ST), 2-Mohanpur, 3-Bamutia (SC), 4-Barjala (SC), 5-Khayerpur, 6-Agartala, 7-Ramnagar, 8-Town Bordowali, 9-Banamalipur, 10-Majlishpur, 11-Mandaibazar (ST), 12-Takarjala (ST), 13-Pratapgarh (SC), 14-Badharghat (SC), 15-Kamalasagar, 16- Bishalgarh, 17-Golaghati (ST), 18. Suryamaninagar, 19-Charilam (ST), 20-Boxanagar, 21-Nalchar (SC), 22.- Sonamura, 23-Dhanpur, 30-Bagma (ST), 31- Radhakishorepur, 32-Matarbari, 33-Kakraban-Salgarh (SC), 34.-Rajnagar (SC), 35-Belonia, 36-Santirbazar
-2. Tripura East (ST)            24-Ramchandraghat (ST), 25-Khowai, 26-Asharambari (ST), 27-Kalyanpur-Pramodenagar, 28- Teliamura, 29- Krishnapur (ST), 37-Hrishyamukh, 38-Jolaibari (ST), 39- Manu (ST), 40-Sabroom, 41-Ampinagar (ST), 42-Amarpur, 43-Karbook (ST), 44-Raima Valley (ST), 45-Kamalpur, 46-Surma (SC), 47-Ambassa (ST), 48-Karamchhara (ST), 49-Chhawmanu (ST), 50-Pabiachhara (SC), 51-Fatikroy (SC), 52-Chandipur, 53-Kailasahar, 54-Kadamtala-Kurti, 55-Bagbassa, 56.-Dharmanagar, 57-Jubarajnagar, 58-Panisagar, 59- Penchathal (ST), 60-Kanchanpur (ST)
-STATE: UTTAR PRADESH
-1-Saharanpur                    1-Behat, 3-Saharanpur Nagar, 4-Saharanpur, 5-Deoband, 6- Rampur Maniharan (SC)
-2-Kairana                       2-Nakur, 7-Gangoh, 8-Kairana, 9-Thana Bhawan, 10-Shamli
-3-Muzaffarnagar                 11-Budhana, 12-Charthawal, 14-Muzaffar Nagar, 15-Khatauli, 44-Sardhana
-4-Bijnor                        13-Purqazi (SC), 16-Meerapur, 22-Bijnor, 23-Chandpur, 45- Hastinapur (SC)
-5-Nagina (SC)                   17-Najibabad, 18-Nagina (SC), 20-Dhampur, 21-Nehtaur (SC), 24-Noorpur
-6-Moradabad                     19-Barhapur, 25-Kanth, 26-Thakurdwara, 27-Moradabad Rural, 28-Moradabad Nagar
-7-Rampur                        34-Suar, 35-Chamraua, 36-Bilaspur, 37-Rampur, 38-Milak (SC)
-8-Sambhal                       29-Kundarki, 30-Bilari, 31-Chandausi (SC), 32-Asmoli, 33- Sambhal
-9-Amroha                        39-Dhanaura (SC), 40-Naugawan           Sadat, 41-Amroha, 42- Hasanpur, 60-Garhmukteshwar
-10-Meerut                       46-Kithore, 47-Meerut Cant., 48-Meerut, 49-Meerut South, 59- Hapur (SC)
-11-Baghpat                      43-Siwalkhas, 50-Chhaprauli, 51-Baraut, 52-Baghpat, 57-Modi Nagar
-12-Ghaziabad                    53-Loni, 54-Muradnagar, 55-Sahibabad, 56-Ghaziabad, 58- Dhaulana
-13-Gautam Buddha Nagar          61-Noida, 62-Dadri, 63-Jewar, 64-Sikandrabad, 70-Khurja (SC)
-14-Bulandshahr (SC)             65-Bulandshahr, 66-Syana, 67-Anupshahr, 68-Debai, 69- Shikarpur
-15-Aligarh                      71-Khair (SC), 72-Baroli, 73-Atrauli, 75-Koil, 76-Aligarh
-16-Hathras (SC)                 74-Chharra, 77-Iglas (SC), 78-Hathras (SC), 79-Sadabad, 80- Sikandra Rao
-17-Mathura                      81-Chhata, 82-Mant, 83-Goverdhan, 84-Mathura, 85-Baldev (SC)
-18-Agra (SC)                    86-Etmadpur, 87-Agra Cantt. (SC), 88-Agra South, 89-Agra North, 106-Jalesar (SC)
-19-Fatehpur Sikri               90-Agra Rural (SC), 91-Fatehpur Sikri, 92-Kheragarh, 93- Fatehabad, 94-Bah
-20-Firozabad                    95-Tundla (SC), 96-Jasrana, 97-Firozabad, 98-Shikohabad, 99- Sirsaganj
-21-Mainpuri                     107-Mainpuri, 108-Bhongaon, 109-Kishni (SC), 110-Karhal, 199-Jaswantnagar
-22-Etah                         100-Kasganj, 101-Amanpur, 102-Patiyali, 104-Etah, 105- Marhara
-23-Badaun                       111-Gunnaur, 112-Bisauli (SC), 113-Sahaswan, 114-Bilsi, 115- Badaun
-24-Aonla                        116-Shekhupur, 117-Dataganj, 122-Faridpur (SC), 123-Bithari Chainpur, 126-Aonla
-25-Bareilly                     119-Meerganj, 120-Bhojipura, 121-Nawabganj, 124-Bareilly, 125-Bareilly Cantt
-26-Pilibhit                     118-Baheri, 127-Pilibhit, 128-Barkhera, 129-Puranpur (SC), 130-Bisalpur
-27-Shahjahanpur (SC)            131-Katra, 132-Jalalabad, 133-Tilhar, 134-Powayan (SC), 135- Shahjahanpur, 136-Dadral
-28-Kheri                        137-Palia, 138-Nighasan, 139-Gola Gokrannath, 140-Sri Nagar (SC), 142-Lakhimpur
-29-Dhaurahra                    141-Dhaurahra, 143-Kasta (SC), 144-Mohammdi, 145-Maholi, 147-Hargaon (SC)
-30-Sitapur                      146-Sitapur, 148-Laharpur, 149-Biswan, 150-Sevata, 151- Mahmoodabad
-31-Hardoi (SC)                  154-Sawayazpur, 155-Shahabad, 156-Hardoi, 157-Gopamau (SC), 158-Sandi (SC)
-32-Misrikh (SC)                 153-Misrikh (SC), 159-Bilgram-Mallanwan, 160-Balamau (SC), 161-Sandila, 209-Bilhaur (SC)
-33-Unnao                        162-Bangermau, 163-Safipur (SC), 164-Mohan (SC), 165-Unnao, 166-Bhagwantnagar, 167-Purwa
-34-Mohanlalganj (SC)            152-Sidhauli (SC), 168-Malihabad (SC), 169-Bakshi Kaa Talab, 170-Sarojini Nagar, 176-Mohanlalganj (SC)
-35-Lucknow                      171-Lucknow West, 172-Lucknow North, 173-Lucknow East, 174- Lucknow Central, 175-Lucknow Cantt
-36- Rae Bareli                  177-Bachhrawan (SC), 179-Harchandpur, 180-Rae Bareli, 182- Sareni, 183-Unchahar
-37- Amethi                      178-Tiloi, 181-Salon (SC), 184-Jagdishpur (SC), 185-Gauriganj, 186-Amethi
-38-Sultanpur                    187-Isauli, 188-Sultanpur, 189-Sadar, 190-Lambhua, 191- Kadipur (SC)
-39-Pratapgarh                   244-Rampur Khas, 247-Vishwanath Ganj, 248-Pratapgarh, 249- Patti, 250-Raniganj
-40-Farrukhabad                  103-Aliganj, 192-Kaimganj (SC), 193-Amritpur, 194-Farrukhabad, 195-Bhojpur
-41-Etawah (SC)                  200-Etawah, 201-Bharthana (SC), 203-Dibiyapur, 204-Auraiya (SC), 207-Sikandra
-42-Kannauj                      196-Chhibramau, 197-Tirwa, 198-Kannauj (SC), 202-Bidhuna, 205-Rasulabad (SC)
-43-Kanpur                       212-Govindnagar, 213-Sishamau, 214-Arya Nagar, 215-Kidwai Nagar, 216-Kanpur Cantt
-44-Akbarpur                     206-Akbarpur-Raniya, 210-Bithoor, 211-Kalyanpur, 217- Maharajpur, 218-Ghatampur (SC)
-45-Jalaun (SC)                  208-Bhognipur, 219-Madhaugarh, 220-Kalpi, 221-Orai (SC), 225-Garautha
-46-Jhansi                       222-Babina, 223-Jhansi Nagar, 224-Mauranipur (SC), 226- Lalitpur, 227-Mehroni (SC)
-47-Hamirpur                     228-Hamirpur, 229-Rath (SC), 230-Mahoba, 231-Charkhari, 232-Tindwari
-48-Banda                        233-Baberu, 234-Naraini (SC), 235-Banda, 236-Chitrakoot, 237- Manikpur
-49-Fatehpur                     238-Jahanabad, 239-Bindki, 240-Fatehpur, 241-Ayah Shah, 242- Husainganj, 243-Khaga (SC)
-50-Kaushambi (SC)               245-Babaganj (SC), 246-Kunda, 251-Sirathu, 252-Manjhanpur (SC), 253-Chail
-51-Phulpur                      254-Phaphamau, 255-Soraon (SC), 256-Phulpur, 261-Allahabad West, 262-Allahabad North
-52-Allahabad                    259-Meja, 260-Karachhana, 263-Allahabad South, 264-Bara (SC), 265-Koraon (SC)
-53-Barabanki (SC)               266-Kursi, 267-Ram Nagar, 268-Barabanki, 269-Zaidpur (SC), 272-Haidergarh (SC)
-54-Faizabad                     270-Dariyabad, 271-Rudauli, 273-Milkipur (SC), 274-Bikapur, 275-Ayodhya
-55-Ambedkar Nagar               276-Goshainganj, 277-Katehari, 278-Tanda, 280-Jalalpur, 281- Akbarpur
-56-Bahraich (SC)                282-Balha (SC), 283-Nanpara, 284-Matera, 285-Mahasi, 286- Bahraich
-57-Kaiserganj                   287-Payagpur, 288-Kaiserganj, 297-Katra    Bazar, 298- Colonelganj, 299-Tarabganj
-58-Shrawasti                    289-Bhinga, 290- Shrawasti, 291- Tulsipur, 292-Gainsari, 294- Balrampur (SC)
-59-Gonda                        293-Utraula, 295-Mehnaun, 296-Gonda, 300-Mankapur (SC), 301-Gaura
-60-Domariyaganj                 302-Shohratgarh, 303- Kapilvastu (SC), 304-Bansi, 305-Itwa, 306-Domariyaganj
-61-Basti                        307-Harraiya, 308-Kaptanganj, 309-Rudhauli, 310-Basti Sadar, 311-Mahadewa (SC)
-62-Sant Kabir Nagar             279-Alapur (SC), 312-Menhdawal, 313-Khalilabad, 314- Dhanghata (SC), 325-Khajani (SC)
-63-Maharajganj                  315-Pharenda, 316-Nautanwa, 317-Siswa, 318-Maharajganj (SC), 319-Paniyara
-64-Gorakhpur                    320-Caimpiyarganj, 321-Pipraich, 322-Gorakhpur Urban, 323- Gorakhpur Rural, 324-Sahajanwa
-65- Kushi Nagar                 329-Khadda, 330-Padrauna, 333-Kushinagar, 334-Hata, 335- Ramkola (SC)
-66- Deoria                      331-Tamkuhi Raj, 332-Fazilnagar, 337-Deoria, 338-Pathardeva, 339-Rampur Karkhana
-67-Bansgaon (SC)                326-Chauri-Chaura, 327-Bansgaon (SC), 328-Chillupar, 336- Rudrapur, 342-Barhaj
-68-Lalganj (SC)                 343-Atrauliya, 348-Nizamabad, 349-Phoolpur-Pawai, 350- Didarganj, 351-Lalganj (SC)
-69-Azamgarh                     344-Gopalpur, 345-Sagri, 346-Mubarakpur, 347- Azamgarh, 352-Mehnagar (SC)
-70-Ghosi                        353-Madhuban, 354-Ghosi, 355-Muhammadabad-Gohna (SC), 356-Mau, 358-Rasara
-71-Salempur                     340-Bhatpar Rani, 341-Salempur (SC), 357-Belthara Road (SC), 359-Sikanderpur, 362-Bansdih
-72-Ballia                       360-Phephana, 361-Ballia Nagar, 363-Bairia, 377-Zahoorabad, 378-Mohammadabad
-73-Jaunpur                      364-Badlapur, 365-Shahganj, 366-Jaunpur, 367-Malhani, 368- Mungra Badshahpur
-74-Machhlishahr (SC)            369-Machhlishahr (SC), 370-Mariyahu, 371-Zafrabad, 372- Kerakat (SC), 384-Pindra
-75-Ghazipur                     373-Jakhanian (SC), 374-Saidpur (SC), 375-Ghazipur, 376- Jangipur, 379-Zamania
-76-Chandauli                    380-Mughalsarai, 381-Sakaldiha, 382-Saiyadraja, 385-Ajagara (SC), 386-Shivpur
-77-Varanasi                     387-Rohaniya, 388-Varanasi North, 389-Varanasi South, 390- Varanasi Cantt., 391-Sevapuri
-78-Bhadohi                      257-Pratappur, 258-Handia, 392-Bhadohi, 393-Gyanpur, 394- Aurai (SC)
-79-Mirzapur                     395-Chhanbey (SC), 396-Mirzapur, 397-Majhawan, 398-Chunar, 399-Marihan
-80-Robertsganj (SC)             383-Chakia (SC), 400-Ghorawal, 401-Robertsganj, 402-Obra, 403-Duddhi (SC)
-STATE: UTTARAKHAND
-1-Tehri Garhwal                 1-Purola (SC), 2-Yamunotri, 3-Gangotri, 9-Ghanshali (SC), 12- Pratapnagar, 13-Tehri, 14-Dhanolti, 15-Chakrata (ST), 16-Vikasnagar, 17-Sahaspur, 19-Raipur, 20-Rajpur Road (SC), 21-Dehradun Cantt., 22-Mussoorie
-2-Garhwal                       4-Badrinath, 5-Tharali (SC), 6-Karnprayag, 7-Kedarnath, 8- Rudraprayag, 10-Deoprayag, 11-Narendranagar, 36-Yamkeshwar, 37- Pauri (SC), 38-Srinagar, 39-Chaubattakhal, 40-Lansdowne, 41- Kotdwar, 61-Ramnagar
-3-Almora (SC)                   42-Dharchula, 43-Didihat, 44-Pithoragarh, 45-Gangolihat (SC), 46- Kapkote, 47-Bageshwar (SC), 48-Dwarahat, 49-Salt, 50-Ranikhet, 51- Someshwar (SC), 52-Almora, 53-Jageshwar, 54-Lohagat, 55- Champawat
-4-Nainital-Udhamsingh Nagar     56-Lalkuwa, 57-Bhimtal, 58-Nainital (SC), 59-Haldwani, 60- Kaladhungi, 62-Jaspur, 63-Kashipur, 64-Bajpur (SC), 65-Gadarpur, 66- Rudrapur, 67-Kichha, 68-Sitarganj, 69-Nanak Matta (ST), 70- Khatima
-5-Hardwar                       18-Dharampur, 23-Doiwala, 24-Rishikesh, 25-Hardwar, 26-B.H.E.L Ranipur, 27-Jwalapur (SC), 28-Bhagwanpur (SC), 29-Jhabrera (SC), 30-Pirankaliyar, 31-Roorkee, 32-Khanpur, 33-Manglaur, 34-Laksar, 35-Hardwar Rural
-STATE: WEST BENGAL
-1. COOCHBEHAR (SC)              2. MATHABHANGA (SC), 3. COOCHBEHAR UTTAR (SC), 4. COOCHBEHAR DAKSHIN, 5. SITALKUCHI (SC), 6. SITAI (SC), 7. DINHATA, 8. NATABARI
-2.ALIPURDUARS (ST)              9. TUFANGANJ, 10. KUMARGRAM (ST), 11. KALCHINI (ST), 12. ALIPURDUARS, 13. FALAKATA (SC), 14. MADARIHAT (ST), 21. NAGRAKATA (ST)
-3.JALPAIGURI (SC)               01. MEKLIGANJ (SC), 15. DHUPGURI (SC), 16. MAYNAGURI (SC), 17. JALPAIGURI (SC), 18. RAJGANJ (SC), 19. DABGRAM-FULBARI, 20. MAL (ST)
-4.DARJEELING                    22. KALIMPONG, 23. DARJEELING, 24. KURSEONG, 25.    MATIGARA-NAXALBARI (SC), 26.  SILIGURI, 27. PHANSIDEWA (ST), 28. CHOPRA
-5.RAIGANJ                       29. ISLAMPUR, 30. GOALPOKHAR, 31. CHAKULIA, 32. KARANDIGHI, 33. HEMTABAD (SC), 34. KALIAGANJ (SC), 35. RAIGANJ
-6.BALURGHAT                     36. ITAHAR, 37. KUSHMANDI (SC), 38. KUMARGANJ, 39. BALURGHAT, 40. TAPAN(ST), 41. GANGARAMPUR (SC), 42. HARIRAMPUR
-7.MALDAHA UTTAR                 43. HABIBPUR (ST), 44. GAZOLE (SC), 45. CHANCHAL, 46.HARISCHANDRAPUR, 47. MALATIPUR, 48. RATUA, 50. MALDAHA (SC)
-8.MALDAHA DAKSHIN               49. MANIKCHAK, 51. ENGLISH BAZAR, 52. MOTHABARI, 53. SUJAPUR, 54. BAISNABNAGAR, 55. FARAKKA, 56. SAMSERGANJ
-9.JANGIPUR                      57. SUTI, 58. JANGIPUR, 59. RAGHUNATHGANJ, 60. SAGARDIGHI, 61. LALGOLA, 65. NABAGRAM (SC), 66. KHARGRAM (SC)
-10.BAHARAMPUR                   67. BURWAN (SC), 68. KANDI, 69. BHARATPUR, 70 REJINAGAR, 71 BELDANGA, 72. BAHARAMPUR, 74. NOWDA
-11.MURSHIDABAD                  62. BHAGAWANGOLA, 63. RANINAGAR, 64. MURSHIDABAD, 73. HARIHARPARA, 75. DOMKAL, 76. JALANGI, 77. KARIMPUR
-12.KRISHNANAGAR                 78 TEHATTA, 79 PALASHIPARA, 80. KALIGANJ, 81. NAKASHIPARA, 82. CHAPRA, 83. KRISHNANAGAR UTTAR, 85. KRISHNANAGAR DAKSHIN
-13.RANAGHAT (SC)                84. NABADWIP, 86. SANTIPUR, 87. RANAGHAT UTTAR PASCHIM, 88. KRISHNAGANJ (SC), 89. RANAGHAT UTTAR PURBA (SC), 90. RANAGHAT DAKSHIN (SC), 91. CHAKDAHA
-14.BANGAON (SC)                 92. KALYANI (SC), 93. HARINGHATA (SC), 94 BAGDA (SC), 95. BANGAON UTTAR (SC), 96. BANGAON DAKSHIN (SC), 97. GAIGHATA (SC), 98. SWARUPNAGAR (SC)
-15.BARRACKPUR                   102. AMDANGA, 103. BIJPUR, 104. NAIHATI, 105. BHATPARA, 106. JAGATDAL, 107. NOAPARA, 108. BARRACKPUR
-16.DUM DUM                      109. KHARDAHA, 110. DUM DUM UTTAR, 111. PANIHATI, 112. KAMARHATI, 113. BARANAGAR, 114. DUM DUM, 117. RAJARHAT GOPALPUR
-17.BARASAT                      100. HABRA, 101. ASHOKNAGAR, 115. RAJARHAT NEW TOWN, 116. BIDHANNAGAR, 118. MADHYAMGRAM, 119. BARASAT, 120. DEGANGA
-18.BASIRHAT                     99. BADURIA, 121. HAROA, 122. MINAKHAN (SC), 123. SANDESHKHALI (ST), 124. BASIRHAT DAKSHIN, 125. BASIRHAT UTTAR, 126. HINGALGANJ (SC)
-19.JAYNAGAR (SC)                127. GOSABA (SC), 128. BASANTI (SC), 129. KULTALI (SC), 136. JAYNAGAR (SC), 138. CANNING PASCHIM (SC), 139. CANNING PURBA, 141. MAGRAHAT PURBA (SC)
-20.MATHURAPUR (SC)              130. PATHARPRATIMA, 131. KAKDWIP, 132. SAGAR, 133. KULPI, 134. RAIDIGHI, 135. MANDIRBAZAR (SC), 142. MAGRAHAT PASCHIM
-21.DIAMOND HARBOUR              143. DIAMOND HARBOUR, 144. FALTA, 145. SATGACHHIA, 146. BISHNUPUR (SC), 155. MAHESHTALA, 156. BUDGE BUDGE, 157. METIABURUZ
-22.JADAVPUR                     137. BARUIPUR PURBA (SC), 140. BARUIPUR PASCHIM , 147. SONARPUR DAKSHIN, 148. BHANGAR, 150. JADAVPUR, 151. SONARPUR UTTAR, 152. TOLLYGANJ
-23.KOLKATA DAKSHIN              149. KASBA, 153. BEHALA PURBA, 154. BEHALA PASCHIM, 158.KOLKATA PORT, 159. BHABANIPUR, 160. RASHBEHARI, 161. BALLYGUNGE
-24.KOLKATA UTTAR                162. CHOWRANGEE, 163. ENTALLY, 164. BELEGHATA, 165. JORASANKO, 166. SHYAMPUKUR, 167. MANIKTALA, 168. KASHIPUR-BELGACHHIA
-25.HOWRAH                       169. BALLY, 170. HOWRAH UTTAR, 171. HOWRAH MADHYA, 172. SHIBPUR, 173. HOWRAH DAKSHIN, 174. SANKRAIL (SC), 175. PANCHLA
-26.ULUBERIA                     176. ULUBERIA PURBA, 177. ULUBERIA UTTAR (SC), 178. ULUBERIA DAKSHIN, 179. SHYAMPUR, 180. BAGNAN, 181. AMTA, 182. UDAYNARAYANPUR
-27.SREERAMPUR                   183. JAGATBALLAVPUR, 184. DOMJUR, 185. UTTARPARA, 186. SREERAMPUR, 187. CHAMPDANI, 194. CHANDITALA, 195. JANGIPARA
-28.HOOGHLY                      188. SINGUR, 189. CHANDANNAGAR, 190. CHUNCHURA, 191. BALAGARH (SC), 192. PANDUA, 193. SAPTAGRAM, 197. DHANEKHALI (SC)
-29. ARAMBAG (SC)                196. HARIPAL, 198. TARAKESWAR, 199 PURSURAH, 200 ARAMBAG (SC), 201 GOGHAT (SC), 202 KHANAKUL, 232. CHANDRAKONA (SC)
-30.TAMLUK                       203. TAMLUK, 204. PANSKURA PURBA, 206. MOYNA, 207. NANDAKUMAR, 208. MAHISADAL, 209. HALDIA (SC), 210. NANDIGRAM
-31.KANTHI                       211. CHANDIPUR, 212. PATASHPUR, 213. KANTHI UTTAR, 214. BHAGABANPUR, 215. KHEJURI (SC), 216. KANTHI DAKSHIN, 217. RAMNAGAR
-32.GHATAL                       205. PANSKURA PASCHIM, 226. SABANG, 227. PINGLA, 229. DEBRA, 230. DASPUR, 231. GHATAL (SC), 235. KESHPUR (SC)
-33.JHARGRAM (ST)                220. NAYAGRAM (ST), 221. GOPIBALLAVPUR, 222. JHARGRAM, 233. GARBETA, 234 SALBONI, 237. BINPUR (ST), 238. BANDWAN (ST)
-34.MEDINIPUR                    218. EGRA, 219. DANTAN, 223. KESHIARY (ST), 224. KHARAGPUR    SADAR, 225. NARAYANGARH, 228. KHARAGPUR, 236. MEDINIPUR
-35.PURULIA                      239. BALARAMPUR, 240. BAGHMUNDI , 241. JOYPUR, 242. PURULIA, 243. MANBAZAR (ST), 244. KASHIPUR, 245. PARA (SC)
-36.BANKURA                      246. RAGHUNATHPUR (SC), 247. SALTORA (SC), 248. CHHATNA, 249. RANIBANDH (ST),250. RAIPUR (ST), 251. TALDANGRA, 252 BANKURA
-37.BISHNUPUR (SC)               253. BARJORA, 254. ONDA, 255. BISHNUPUR, 256. KATULPUR (SC), 257. INDUS (SC), 258. SONAMUKHI (SC), 259. KHANDAGHOSH (SC)
-38.BARDHAMAN PURBA (SC)         261. RAINA (SC), 262. JAMALPUR (SC), 264. KALNA (SC), 265. MEMARI , 268. PURBASTHALI DAKSHIN, 269. PURBASTHALI UTTAR, 270. KATWA
-39.BARDHAMAN-DURGAPUR           260. BARDHAMAN DAKSHIN, 263 MONTESWAR, 266. BARDHAMAN UTTAR (SC), 267. BHATAR, 274. GALSI (SC), 276. DURGAPUR PURBA, 277. DURGAPUR PASCHIM
-40.ASANSOL                      275. PANDABESWAR, 278. RANIGANJ, 279. JAMURIA, 280. ASANSOL DAKSHIN, 281. ASANSOL UTTAR, 282. KULTI, 283. BARABANI
-41.BOLPUR (SC)                  271. KETUGRAM, 272. MANGALKOT, 273. AUSGRAM (SC), 286. BOLPUR, 287. NANOOR (SC), 288. LABPUR, 290. MAYURESWAR
-42.BIRBHUM                      284. DUBRAJPUR (SC), 285. SURI, 289. SAINTHIA (SC) , 291. RAMPURHAT, 292. HANSAN, 293. NALHATI, 294. MURARAI
+1-NAGALAND                          1-Dimapur-I, 2-Dimapur-II (ST), 3-Dimapur-III (ST), 4-Ghaspani-I (ST), 5-Ghaspani-II (ST), 6-Tenning (ST), 7-Peren (ST), 8-Western Angami (ST), 9-Kohima Town (ST), 10-Northern Angami-I (ST), 11-Northern Angami-II (ST), 12-Tseminyu (ST), 13-Pughoboto (ST), 14-Southern Angami-I (ST), 15-Southern Angami-II (ST), 16-Pfutsero (ST), 17-Chizami (ST), 18-Chazouba (ST), 19-Phek (ST), 20-Meluri (ST), 21-Tuli (ST), 22-Arkakong (ST), 23-Impur (ST), 24-Angetyongpang (ST), 25-Monguya, 26-Aonglenden, 27-Mokokchung Town, 28-Koridang (ST), 29-Jangpetkong (ST), 30-Alungtaki (ST), 31-Akuluto (ST), 32-Atoizu (ST), 33-Suruhuto (ST), 34-Aghunato (ST), 35-Zunheboto (ST), 36-Satakha (ST), 37-Tyui (ST), 38-wokha (ST), 39-Sanis (ST), 40-Bhandari (ST), 41-Tizit (ST), 42-Wakching (ST), 43-Tapi (ST), 44-Phomching (ST), 45-Tehok (ST), 46-Mon Town (ST), 47-Aboi (ST), 48-Moka (ST), 49 ­Tamlu (ST), 50-Longleng (ST), 51-Noksen (ST), 52-Longkhim Chare (ST), 53-Tuensang Sadar-I (ST), 54-Tuensang Sadar-II (ST), 55-Tobu (ST), 56-Noklak (ST), 57-Thonoknyu (ST), 58-Shamtorr-Chessore (ST), 59-Siyuchong-Sitimi (ST), 60-Pungro-Kiphire (ST)
 STATE: NCT OF DELHI
-1-Chandni Chowk                 4.Adarsh Nagar, 14.Shalimar Bagh, 15.Shakur Basti, 16. Tri Nagar, 17.Wazirpur, 18.Model Town, 19.Sadar Bazar, 20.Chandni Chowk, 21.Matia Mahal, 22.Ballimaran
-2-North East Delhi              2.Burari, 3.Timarpur, 63.Seemapuri (SC), 64.Rohtas Nagar, 65.Seelam Pur, 66.Ghonda, 67.Babarpur, 68.Gokalpur (SC), 69.Mustafabad, 70.Karawal Nagar
-3-East Delhi                    41.Jangpura, 54.Okhla, 55.Trilokpuri (SC), 56.Kondli (SC), 57.Patparganj, 58.Laxmi Nagar, 59.Vishwas Nagar, 60.Krishna Nagar, 61.Gandhi Nagar, 62.Shahdara
-4-New Delhi                     23.Karol Bagh (SC), 24.Patel Nagar (SC), 25.Moti Nagar, 38.Delhi Cantt, 39.Rajinder Nagar, 40.New Delhi, 42.Kasturba Nagar, 43.Malviya Nagar, 44.R.K. Puram, 50.Greater Kailash
-5-North West Delhi (SC)         1.Nerela, 5.Badli, 6.Rithala, 7.Bawana (SC), 8.Mundka, 9.Kirari, 10.Sultan Pur Majra (SC), 11.Nangloi Jat, 12.Mangol Puri (SC), 13.Rohini
-6-West Delhi                    26.Madipur (SC), 27.Rajouri Garden, 28.Hari Nagar, 29.Tilak Nagar, 30.Janakpuri, 31.Vikaspuri, 32.Uttam Nagar, 33.Dwarka, 34.Matiala, 35.Najafgarh
-7-South Delhi                   36.Bijwasan, 37.Palam, 45.Mehrauli, 46.Chhatarpur, 47.Deoli (SC), 48.Ambedkar Nagar (SC), 49.Sangam Vihar, 51.Kalkaji, 52.Tughlakabad, 53.Badarpur
+1-Chandni Chowk                     4.Adarsh Nagar, 14.Shalimar Bagh, 15.Shakur Basti, 16. Tri Nagar, 17.Wazirpur, 18.Model Town, 19.Sadar Bazar, 20.Chandni Chowk, 21.Matia Mahal, 22.Ballimaran
+2-North East Delhi                  2.Burari, 3.Timarpur, 63.Seemapuri (SC), 64.Rohtas Nagar, 65.Seelam Pur, 66.Ghonda, 67.Babarpur, 68.Gokalpur (SC), 69.Mustafabad, 70.Karawal Nagar
+3-East Delhi                        41.Jangpura, 54.Okhla, 55.Trilokpuri (SC), 56.Kondli (SC), 57.Patparganj, 58.Laxmi Nagar, 59.Vishwas Nagar, 60.Krishna Nagar, 61.Gandhi Nagar, 62.Shahdara
+4-New Delhi                         23.Karol Bagh (SC), 24.Patel Nagar (SC), 25.Moti Nagar, 38.Delhi Cantt, 39.Rajinder Nagar, 40.New Delhi, 42.Kasturba Nagar, 43.Malviya Nagar, 44.R.K. Puram, 50.Greater Kailash
+5-North West Delhi (SC)             1.Nerela, 5.Badli, 6.Rithala, 7.Bawana (SC), 8.Mundka, 9.Kirari, 10.Sultan Pur Majra (SC), 11.Nangloi Jat, 12.Mangol Puri (SC), 13.Rohini
+6-West Delhi                        26.Madipur (SC), 27.Rajouri Garden, 28.Hari Nagar, 29.Tilak Nagar, 30.Janakpuri, 31.Vikaspuri, 32.Uttam Nagar, 33.Dwarka, 34.Matiala, 35.Najafgarh
+7-South Delhi                       36.Bijwasan, 37.Palam, 45.Mehrauli, 46.Chhatarpur, 47.Deoli (SC), 48.Ambedkar Nagar (SC), 49.Sangam Vihar, 51.Kalkaji, 52.Tughlakabad, 53.Badarpur
+STATE: ORISSA
+1-BARGARH                           1-Padampur, 2-Bijepur, 3-Bargarh, 4-Attabira (SC), 5-Bhatli, 6-Brajarajnagar, 7-Jharsuguda
+2-SUNDARGARH (ST)                   8-Talsara (ST), 9-Sundargarh (ST), 10-Biramitrapur (ST), 11-Raghunathpali (SC), 12-Rourkela, 13-Rajgangapur (ST), 14-Bonai (ST)
+3-SAMBALPUR                         15-Kuchinda (ST), 16-Rengali (SC), 17-Sambalpur, 18-Rairakhol, 19-Deogarh, 62-Chhendipada (SC), 63-Athamallik
+4-KEONJHAR (ST)                     20-Telkoi (ST), 21-Ghasipura, 22-Anandapur (SC), 23-Patna (ST), 24-Keonjhar (ST), 25-Champua, 30-Karanjia (ST)
+5-MAYURBHANJ (ST)                   26-Jashipur (ST), 27-Saraskana (ST), 28-Rairangpur (ST), 29-Bangriposi (ST), 31-Udala (ST), 33-Baripada (ST), 34-Morada
+6-BALASORE                          32-Badasahi (SC), 35-Jaleswar, 36-Bhograi, 37-Basta, 38-Balasore, 39-Remuna (SC), 40-Nilgiri
+7-BHADRAK (SC)                      41-Soro (SC), 42-Simulia, 43-Bhandaripokhari, 44-Bhadrak, 45-Basudevpur, 46-Dhamnagar (SC), 47-Chandabali
+8-JAJPUR (SC)                       48-Binjharpur (SC), 49-Bari, 50-Barachana, 51-Dharmasala, 52-Jajpur, 53-Korei, 54-Sukinda
+9-DHENKANAL                         55-Dhenkanal, 56-Hindol (SC), 57-Kamakhyanagar, 58 Parjanga, 59-Pallahara, 60-Talcher, 61-Angul
+10-BOLANGIR                         64-Birmaharajpur (SC), 65-Sonepur, 66-Loisingha (SC), 67-Patnagarh, 68-Bolangir, 69-Titlagarh, 70-Kantabanji
+11-KALAHANDI                        71-Nuapada, 72-Khariar, 77-Lanjigarh (ST), 78-Junagarh, 79-Dharmgarh, 80-Bhawanipatna (SC), 81-Narla
+12-NABARANGPUR (ST)                 73-Umarkote (ST), 74-Jharigam (ST), 75-Nabarangpur (ST), 76-Dabugam (ST), 142-kotpad (ST), 146-MALKANGIRI (ST), 147-chitrakonda (ST)
+13-KANDHAMAL                        82-Baliguda (ST), 83-G. Udayagiri (ST), 84-Phulbani (ST), 85-Kantamal, 86-Boudh, 121-Daspalla (SC), 123-Bhanjanagar
+14-CUTTACK                          87-Baramba, 88-Banki, 89-Athagarh, 90-Barabati-Cuttack, 91-Choudwar-Cuttack, 93-Cuttack Sadar (SC), 120-Khandapada
+15-KENDRAPARA                       94-Salipur, 95-Mahanga, 96-Patkura, 97-Kendrapara (SC), 98-Aul, 99-Rajanagar, 100-Mahakalapada
+16-JAGATSINGHPUR (SC)               92-Niali (SC), 101-Paradeep, 102-Tirtol (SC), 103-Balikuda-Erasama, 104-Jagatsinghpur, 105-Kakatpur (SC), 106-Nimapara
+17-PURI                             107-Puri, 108-Brahmagiri, 109-Satyabadi , 110-Pipili, 118-Chilika, 119-Ranpur, 122-Nayagarh
+18-BHUBANESWAR                      111-Jayadev (SC), 112-Bhubaneswar Central (Madhya), 113-Bhubaneswar North (Uttar), 114-Ekamra-Bhubaneswar, 115-Jatani, 116-Begunia, 117-Khurda
+19-ASKA                             124-Polasara, 125-Kabisuryanagar, 126-Khalikote (SC), 128-Aska, 129-Surada, 130-Sanakhemundi, 131-Hinjili
+20-BERHAMPUR                        127-Chhatrapur (SC), 132-Gopalpur, 133-Berhampur, 134-Digapahandi, 135-Chikiti, 136-Mohana (ST), 137-Paralakhemundi
+21-KORAPUT (ST)                     138-Gunupur (ST), 139-Bissam Cuttack (ST), 140-Rayagada (ST), 141-Laxmipur (ST), 143-Jeypore, 144-Koraput (SC), 145-Pottangi (ST)
 STATE: PUDUCHERRY
-1-PUDUCHERRY                    1-Mannadipet, 2-Thirubhuvanai (SC), 3-Oussudu (SC), 4-Mangalam, 5-Villianur, 6-Ozhukarai, 7-Kadirgamam, 8-Indira Nagar, 9-Thattanchavady, 10-Kamraj Nagar, 11-Lawspet, 12-Kalapet, 13-Muthialpet, 14-Raj Bhavan, 15-Oupalam, 16-Orleampeth, 17-Nellithope, 18-Mudaliarpet, 19-Ariankuppam, 20-Manavely, 21-Embalam (SC), 22-Nettapakkam (SC), 23-Bahour, 24-Nedungadu (SC), 25-Thirunallar, 26-Karaikal North, 27-Karaikal South, 28-Neravy-T.R. Pattinam, 29-Mahe, 30-Yanam
+1-PUDUCHERRY                        1-Mannadipet, 2-Thirubhuvanai (SC), 3-Oussudu (SC), 4-Mangalam, 5-Villianur, 6-Ozhukarai, 7-Kadirgamam, 8-Indira Nagar, 9-Thattanchavady, 10-Kamraj Nagar, 11-Lawspet, 12-Kalapet, 13-Muthialpet, 14-Raj Bhavan, 15-Oupalam, 16-Orleampeth, 17-Nellithope, 18-Mudaliarpet, 19-Ariankuppam, 20-Manavely, 21-Embalam (SC), 22-Nettapakkam (SC), 23-Bahour, 24-Nedungadu (SC), 25-Thirunallar, 26-Karaikal North, 27-Karaikal South, 28-Neravy-T.R. Pattinam, 29-Mahe, 30-Yanam
+STATE: PUNJAB
+1. Gurdaspur                        1-Sujanpur, 2-Bhoa (SC), 3-Pathankot, 4- Gurdaspur, 5-Dina Nagar (SC), 6-Qadian, 7-Batala, 9-Fatehgarh Churian, 10- Dera Baba Nanak
+2. Amritsar                         11-Ajnala, 12-Raja Sansi, 13-Majitha, 15-Amritsar North, 16-Amritsar West (SC), 17-Amritsar Central, 18-Amritsar East, 19-Amristar South, 20-Attari (SC)
+3. Khadoor Sahib                    14-Jandiala (SC), 21-Tarn Taran, 22-Khem Karan, 23-Patti, 24-Khadoor Sahib, 25-Baba Bakala (SC), 27-Kapurthala, 28-Sultanpur Lodhi, 75-Zira
+4. Jalandhar (SC)                   30-Phillaur (SC), 31-Nakodar, 32-Shahkot, 33-Kartarpur (SC), 34-Jalandhar West (SC), 35-Jalandhar Central, 36-Jalandhar North, 37-Jalandhar Cantt., 38-Adampur (SC)
+5. Hoshiarpur (SC)                  8-Sri Hargobindpur (SC), 26-Bholath, 29-Phagwara (SC), 39-Mukerian, 40-Dasuya, 41-Urmar, 42-Sham Chaurasi (SC), 43-Hoshiarpur, 44-Chabbewal (SC)
+6. Anandpur Sahib                   45-Garhshankar, 46-Banga (SC), 47-Nawan Shahr, 48- Balachaur, 49-Anandpur Sahib, 50-Rupnagar, 51-Chamkaur Sahib (SC), 52-Kharar, 53-S.A.S. Nagar
+7. Ludhiana                         60-Ludhiana East, 61-Ludhiana South, 62-Atam Nagar, 63-Ludhiana Central, 64-Ludhiana West, 65-Ludhiana North, 66-Gill (SC), 68-Dakha, 70-Jagraon (SC)
+8. Fatehgarh Sahib (SC)             54-Bassi Pathana (SC), 55-Fatehgarh Sahib, 56-Amloh, 57-Khanna, 58-Samrala, 59-Sahnewal, 67-Payal (SC), 69- Raikot (SC), 106-Amargarh
+9. Faridkot (SC)                    71-Nihal Singhwala (SC), 72-Bhagha Purana, 73-Moga, 74-Dharamkot, 84-Giddarbaha, 87-Faridkot, 88-Kotkapura, 89-Jaitu (SC), 90-Rampura Phul
+10. Firozpur                        76-Firozpur City, 77-Firozpur Rural (SC), 78-Guru Har Sahai, 79-Jalalabad, 80-Fazilka, 81-Abohar, 82-Balluana (SC), 85-Malout (SC), 86-Muktsar
+11. Bathinda                        83-Lambi, 91-Bhucho Mandi (SC), 92-Bathinda Urban, 93-Bathinda Rural (SC), 94-Talwandi Sabo, 95-Maur, 96- Mansa, 97-Sardulgarh, 98-Budhlada (SC)
+12. Sangrur                         99-Lehra, 100-Dirba (SC), 101-Sunam, 102-Bhadaur (SC), 103-Barnala, 104-Mehal Kalan (SC), 105-Malerkotla, 107- Dhuri, 108-Sangrur
+13. Patiala                         109-Nabha (SC), 110-Patiala Rural, 111-Rajpura, 112-Dera Bassi, 113-Ghanaur, 114-Sanour, 115-Patiala, 116-Samana, 117-Shutrana (SC)
+STATE: RAJASTHAN
+1-Ganganagar (SC)                   1-Sadulshahar, 2-Ganganagar, 3-Karanpur, 4-Suratgarh, 5-Raisinghnagar (SC), 7-Sangaria, 8-Hanumangarh, 9-Pilibanga (SC)
+2-Bikaner (SC)                      6-Anupgarh (SC), 12-Khajuwala (SC), 13-Bikaner West, 14-Bikaner East, 15-Kolayat, 16-Lunkaransar, 17-Dungargarh, 18-Nokha
+3-Churu                             10-Nohar, 11-Bhadra, 19-Sadulpur, 20-Taranagar, 21-Sardarshahar, 22-Churu, 23-Ratangarh, 24-Sujangarh (SC)
+4-Jhunjhunu                         25-Pilani (SC), 26-Surajgarh, 27-Jhunjhunu, 28-Mandawa, 29-Nawalgarh, 30-Udaipurwati, 31-Khetri, 32-Fatehpur
+5-Sikar                             33-Lachhmangarh, 34-Dhod (SC), 35-Sikar, 36-Danta Ramgarh, 37-Khandela, 38-Neem Ka Thana, 39-Srimadhopur, 43-Chomu
+6-Jaipur Rural                      40-Kotputli, 41-Viratnagar, 42-Shahpura, 44-Phulera, 46-Jhotwara, 47-Amber, 48-Jamwa Ramgarh (ST), 63-Bansur
+7-Jaipur                            49-Hawa Mahal, 50-Vidhyadhar Nagar, 51-Civil Lines, 52-Kishan Pole, 53-Adarsh Nagar, 54-Malviya Nagar, 55-Sanganer, 56-Bagru (SC)
+8-Alwar                             59-Tijara, 60-Kishangarh Bas, 61-Mundawar, 62-Behror, 65-Alwar Rural (SC), 66-Alwar Urban, 67-Ramgarh, 68-Rajgarh-Laxmangarh (ST)
+9-Bharatpur (SC)                    69-Kathumar (SC), 70-Kaman, 71-Nagar, 72- Deeg-Kumher, 73-Bharatpur, 74-Nadbai, 75-Weir (SC), 76-Bayana (SC)
+10-Karauli-Dholpur (SC)             77-Baseri (SC), 78-Bari, 79-Dholpur, 80-Rajakhera, 81-Todabhim (ST), 82-Hindaun (SC), 83-Karauli, 84-Sapotra (ST)
+11-Dausa (ST)                       57-Bassi (ST), 58-Chaksu (SC), 64-Thanagazi, 85-Bandikui, 86-Mahuwa, 87-Sikrai (SC), 88-Dausa, 89-Lalsot (ST)
+12-Tonk-Sawai Madhopur              90-Gangapur, 91-Bamanwas (ST), 92-Sawai Madhopur, 93-Khandar (SC), 94-Malpura, 95-Niwai (SC), 96-Tonk, 97-Deoli-Uniara
+13-Ajmer                            45-Dudu (SC), 98-Kishangarh, 99-Pushkar, 100-Ajmer North, 101-Ajmer South (SC), 102-Nasirabad, 104-Masuda, 105-Kekri
+14-Nagaur                           106-Ladnun, 107-Deedwana, 108-Jayal (SC), 109-Nagaur, 110-Khinvsar, 113-Makrana, 114-Parbatsar, 115-Nawan
+15-Pali                             117-Sojat (SC), 118-Pali, 119-Marwar Junction, 120-Bali, 121- Sumerpur, 125-Osian, 126-Bhopalgarh (SC), 131-Bilara (SC)
+16-Jodhpur                          122-Phalodi, 123-Lohawat, 124-Shergarh, 127-Sardarpura, 128-Jodhpur, 129-Soorsagar, 130-Luni, 133-Pokaran
+17-Barmer                           132-Jaisalmer, 134-Sheo, 135-Barmer, 136-Baytoo, 137-Pachpadra, 138-Siwana, 139-Gudha Malani, 140-Chohtan (SC)
+18-Jalore                           141-Ahore, 142-Jalore (SC), 143-Bhinmal, 144-Sanchore, 145-Raniwara, 146-Sirohi, 147-Pindwara-Abu (ST), 148-Reodar (SC)
+19-Udaipur (ST)                     149-Gogunda (ST), 150-Jhadol (ST), 151-Kherwara (ST), 152- Udaipur Rural (ST), 153-Udaipur, 156-Salumber (ST), 157- Dhariawad (ST), 159-Aspur (ST)
+20-Banswara (ST)                    158-Dungarpur (ST), 160-Sagwara (ST), 161-Chorasi (ST), 162- Ghatol (ST), 163-Garhi (ST), 164-Banswara (ST), 165-Bagidora (ST), 166-Kushalgarh (ST)
+21-Chittorgarh                      154-Mavli, 155-Vallabhnagar, 167-Kapasan (SC), 168-Begun, 169-Chittorgarh, 170-Nimbahera, 171-Bari Sadri, 172-Pratapgarh (ST)
+22- Rajsamand                       103-Beawar, 111-Merta (SC), 112-Degana, 116-Jaitaran, 173-Bhim, 174-Kumbhalgarh, 175-Rajsamand, 176-Nathdwara
+23- Bhilwara                        177-Asind, 178-Mandal, 179-Sahara, 180-Bhilwara, 181-Shahpura (SC), 182-Jahazpur, 183-Mandalgarh, 184-Hindoli
+24-Kota                             185-Keshoraipatan (SC), 186-Bundi, 187-Pipalda, 188-Sangod, 189- Kota North, 190-Kota South, 191-Ladpura, 192-Ramganj Mandi (SC)
+25-Jhalawar-Baran                   193-Anta, 194-Kishanganj (ST), 195-Baran-Atru (SC), 196-Chhabra, 197-Dag (SC), 198-Jhalrapatan, 199-Khanpur, 200-Manohar Thana
+STATE: SIKKIM
+1-Sikkim                            1-Yoksam-Tashiding (BL), 2-Yangthang, 3-Maneybung-Dentam, 4-Gyalshing-Barnyak, 5-Rinchenpong (BL), 6-Daramdin (BL), 7-Soreng-Chakung, 8-Salghari-Zoom (SC), 9-Barfung (BL), 10-Poklok-Kamrang, 11-Namchi-Singhithang, 12-Melli, 13-Namthang-Rateypani, 14-Temi-Namphing, 15-Rangang-Yangang, 16-Tumen-Lingi (BL), 17-Khamdong-Singtam, 18-West Pendam(SC), 19-Rhenock, 20-Chujachen, 21-Gnathang-Machong (BL), 22-Namcheybung, 23-Shyari (BL), 24-Martam-Rumtek (BL), 25-Upper Tadong, 26-Arithang, 27-Gangtok (BL), 28-Upper Burtuk, 29-Kabi Lungchuk (BL), 30-Djongu (BL), 31-Lachen Mangan (BL), 32-Sangha (SANGHA)
+STATE: TAMIL NADU
+1-TIRUVALLUR (SC)                   1-Gummidipoondi, 2 Ponneri (SC), 4 Tiruvallur, 5 Poonamallee (SC), 6 Avadi, 9 Madavaram
+2-CHENNAI NORTH                     10 Tiruvottiyur, 11 Dr.Radhakrishnan Nagar, 12 Perambur, 13 Kolathur, 15 Thiru-Vi-Ka-Nagar (SC), 17 Royapuram
+3-CHENNAI SOUTH                     22Virugambakkam, 23Saidapet, 24 Thiyagarayanagar, 25 Mylapore, 26 Velachery, 27 Sholinganallur
+4-CHENNAI CENTRAL                   14 Villivakkam, 16 Egmore (SC), 18-Harbour, 19 Chepauk-Thiruvallikeni, 20 Thousand Lights, 21 Anna Nagar
+5-SRIPERUMBUDUR                     7 Maduravoyal, 8 Ambattur, 28 Alandur, 29 Sriperumbudur (SC), 30 Pallavaram, 31 Tambaram
+6-KANCHEEPURAM (SC)                 32 Chengalpattu, 33 Thiruporur, 34     Cheyyur (SC), 35 Madurantakam (SC), 36                   Uthiramerur, 37 Kancheepuram
+7-ARAKKONAM                         3 Tiruttani, 38 Arakkonam (SC), 39 Sholingur, 40 Katpadi, 41 Ranipet, 42 Arcot
+8-VELLORE                           43 Vellore, 44 Anaikattu, 45 Kilvaithinankuppam (SC), 46 Gudiyattam (SC), 47 Vaniyambadi, 48 Ambur
+9-KRISHNAGIRI                       51 Uthangarai (SC), 52 Bargur, 53   Krishnagiri, 54 Veppanahalli, 55 Hosur, 56 Thalli
+10-DHARMAPURI                       57   Palacodu, 58   Pennagaram, 59    Dharmapuri, 60 Pappireddippatti, 61 Harur (SC), 85 Mettur
+11-TIRUVANNAMALAI                   49 Jolarpet, 50 Tiruppattur, 62 Chengam (SC), 63 Tiruvannamalai, 64 Kilpennathur, 65 Kalasapakkam
+12-ARANI                            66 Polur, 67 Arani, 68 Cheyyar, 69 Vandavasi (SC), 70 Gingee, 71 Mailam
+13-VILUPPURAM (SC)                  72 Tindivanam (SC), 73 Vanur (SC), 74 Viluppuram, 75 Vikravandi, 76 Tirukkoyilur, 77 Ulundurpettai
+14- KALLAKURICHI                    78 Rishivandiyam, 79 Sankarapuram, 80 Kallakurichi (SC), 81 Gangavalli (SC), 82 Attur (SC), 83 Yercaud (ST)
+15-SALEM                            84 Omalur, 86 Edappadi, 88 Salem (West), 89 Salem (North), 90 Salem (South), 91 Veerapandi
+16-NAMAKKAL                         87 Sankari, 92 Rasipuram (SC), 93 Senthamangalam (ST), 94 Namakkal, 95 Paramathi-Velur, 96 Tiruchengodu
+17-ERODE                            97 Kumarapalayam, 98 Erode (East), 99 Erode (West), 100 Modakkurichi, 101 Dharapuram (SC), 102 Kangayam
+18-TIRUPPUR                         103 Perundurai, 104 Bhavani, 105   Anthiyur, 106 Gobichettipalayam, 113 Tiruppur (North), 114 Tiruppur (South)
+19- NILGIRIS (SC)                   107 Bhavanisagar (SC), 108 Udhagamandalam, 109 Gudalur (SC), 110 Coonoor, 111 Mettuppalayam, 112 Avanashi (SC)
+20-COIMBATORE                       115 Palladam, 116 Sulur, 117 Kavundampalayam, 118 Coimbatore (North), 120 Coimbatore (South), 121 Singanallur
+21-POLLACHI                         119 Thondamuthur, 122        Kinathukadavu, 123 Pollachi, 124    Valparai (SC), 125    Udumalaipettai , 126 Madathukulam
+22-DINDIGUL                         127 Palani, 128 Oddanchatram, 129 Attur, 130 Nilakkottai (SC), 131 Natham, 132 Dindigul
+23-KARUR                            133 Vedasandur, 134  Aravakurichi, 135 Karur, 136 Krishnarayapuram (SC), 138 Manapparai, 179 Viralimalai
+24-TIRUCHIRAPPALLI                  139 Srirangam, 140 Tiruchirappalli (West), 141 Tiruchirappalli (East), 142 Thiruverumbur, 178 Gandarvakottai (SC), 180 Pudukkottai
+25-PERAMBALUR                       137 Kulithalai, 143 Lalgudi, 144 Manachanallur, 145 Musiri, 146 Thuraiyur (SC), 147 Perambalur (SC)
+26-CUDDALORE                        151 Tittakudi (SC), 152 Vriddhachalam, 153 Neyveli, 154 Panruti, 155 Cuddalore, 156 Kurinjipadi
+27-CHIDAMBARAM (SC)                 148 Kunnam, 149 Ariyalur, 150 Jayankondam, 157 Bhuvanagiri, 158 Chidambaram, 159 Kattumannarkoil (SC)
+28-MAYILADUTHURAI                   160 Sirkazhi (SC), 161 Mayiladuthurai, 162 Poompuhar, 170 Thiruvidaimarudur (SC), 171 Kumbakonam, 172 Papanasam
+29-NAGAPATTINAM (SC)                163 Nagapattinam, 164 Kilvelur (SC), 165 Vedaranyam, 166 Thiruthuraipoondi (SC), 168 Thiruvarur, 169 Nannilam
+30- THANJAVUR                       167 Mannargudi, 173 Thiruvaiyaru, 174 Thanjavur, 175 Orathanadu, 176 Pattukkottai, 177 Peravurani
+31-SIVAGANGA                        181 Thirumayam, 182   Alangudi, 184  Karaikudi, 185 Tiruppattur, 186 Sivaganga, 187 Manamadurai (SC)
+32-MADURAI                          188 Melur, 189 Madurai East, 191 Madurai North, 192 Madurai South, 193 Madurai Central, 194 Madurai West
+33-THENI                            190 Sholavandan (SC), 197 Usilampatti, 198 Andipatti, 199 Periyakulam (SC), 200 Bodinayakanur, 201 Cumbum
+34-VIRUDHUNAGAR                     195 Thiruparankundram, 196 Tirumangalam, 204 Sattur, 205 Sivakasi, 206 Virudhunagar, 207 Aruppukkottai
+35-RAMANATHAPURAM                   183 Aranthangi , 208 Tiruchuli, 209 Paramakudi (SC), 210 Tiruvadanai, 211 Ramanathapuram, 212 Mudhukulathur
+36-THOOTHUKKUDI                     213 Vilathikulam, 214 Thoothukkudi, 215 Tiruchendur, 216 Srivaikuntam, 217 Ottapidaram (SC), 218 Kovilpatti
+37-TENKASI (SC)                     202 Rajapalayam, 203 Srivilliputhur (SC), 219 Sankarankovil (SC), 220 Vasudevanallur (SC), 221 Kadayanallur, 222 Tenkasi
+38-TIRUNELVELI                      223 Alangulam, 224 Tirunelveli, 225 Ambasamudram, 226 Palayamkottai, 227 Nanguneri, 228 Radhapuram
+39-KANNIYAKUMARI                    229 Kanniyakumari, 230 Nagercoil, 231 Colachel, 232 Padmanabhapuram, 233 Vilavancode, 234 Killiyoor
+STATE: TRIPURA
+1. Tripura West                     1-Simna (ST), 2-Mohanpur, 3-Bamutia (SC), 4-Barjala (SC), 5-Khayerpur, 6-Agartala, 7-Ramnagar, 8-Town Bordowali, 9-Banamalipur, 10-Majlishpur, 11-Mandaibazar (ST), 12-Takarjala (ST), 13-Pratapgarh (SC), 14-Badharghat (SC), 15-Kamalasagar, 16- Bishalgarh, 17-Golaghati (ST), 18. Suryamaninagar, 19-Charilam (ST), 20-Boxanagar, 21-Nalchar (SC), 22.- Sonamura, 23-Dhanpur, 30-Bagma (ST), 31- Radhakishorepur, 32-Matarbari, 33-Kakraban-Salgarh (SC), 34.-Rajnagar (SC), 35-Belonia, 36-Santirbazar
+2. Tripura East (ST)                24-Ramchandraghat (ST), 25-Khowai, 26-Asharambari (ST), 27-Kalyanpur-Pramodenagar, 28- Teliamura, 29- Krishnapur (ST), 37-Hrishyamukh, 38-Jolaibari (ST), 39- Manu (ST), 40-Sabroom, 41-Ampinagar (ST), 42-Amarpur, 43-Karbook (ST), 44-Raima Valley (ST), 45-Kamalpur, 46-Surma (SC), 47-Ambassa (ST), 48-Karamchhara (ST), 49-Chhawmanu (ST), 50-Pabiachhara (SC), 51-Fatikroy (SC), 52-Chandipur, 53-Kailasahar, 54-Kadamtala-Kurti, 55-Bagbassa, 56.-Dharmanagar, 57-Jubarajnagar, 58-Panisagar, 59- Penchathal (ST), 60-Kanchanpur (ST)
+STATE: UTTAR PRADESH
+1-Saharanpur                        1-Behat, 3-Saharanpur Nagar, 4-Saharanpur, 5-Deoband, 6- Rampur Maniharan (SC)
+2-Kairana                           2-Nakur, 7-Gangoh, 8-Kairana, 9-Thana Bhawan, 10-Shamli
+3-Muzaffarnagar                     11-Budhana, 12-Charthawal, 14-Muzaffar Nagar, 15-Khatauli, 44-Sardhana
+4-Bijnor                            13-Purqazi (SC), 16-Meerapur, 22-Bijnor, 23-Chandpur, 45- Hastinapur (SC)
+5-Nagina (SC)                       17-Najibabad, 18-Nagina (SC), 20-Dhampur, 21-Nehtaur (SC), 24-Noorpur
+6-Moradabad                         19-Barhapur, 25-Kanth, 26-Thakurdwara, 27-Moradabad Rural, 28-Moradabad Nagar
+7-Rampur                            34-Suar, 35-Chamraua, 36-Bilaspur, 37-Rampur, 38-Milak (SC)
+8-Sambhal                           29-Kundarki, 30-Bilari, 31-Chandausi (SC), 32-Asmoli, 33- Sambhal
+9-Amroha                            39-Dhanaura (SC), 40-Naugawan           Sadat, 41-Amroha, 42- Hasanpur, 60-Garhmukteshwar
+10-Meerut                           46-Kithore, 47-Meerut Cant., 48-Meerut, 49-Meerut South, 59- Hapur (SC)
+11-Baghpat                          43-Siwalkhas, 50-Chhaprauli, 51-Baraut, 52-Baghpat, 57-Modi Nagar
+12-Ghaziabad                        53-Loni, 54-Muradnagar, 55-Sahibabad, 56-Ghaziabad, 58- Dhaulana
+13-Gautam Buddha Nagar              61-Noida, 62-Dadri, 63-Jewar, 64-Sikandrabad, 70-Khurja (SC)
+14-Bulandshahr (SC)                 65-Bulandshahr, 66-Syana, 67-Anupshahr, 68-Debai, 69- Shikarpur
+15-Aligarh                          71-Khair (SC), 72-Baroli, 73-Atrauli, 75-Koil, 76-Aligarh
+16-Hathras (SC)                     74-Chharra, 77-Iglas (SC), 78-Hathras (SC), 79-Sadabad, 80- Sikandra Rao
+17-Mathura                          81-Chhata, 82-Mant, 83-Goverdhan, 84-Mathura, 85-Baldev (SC)
+18-Agra (SC)                        86-Etmadpur, 87-Agra Cantt. (SC), 88-Agra South, 89-Agra North, 106-Jalesar (SC)
+19-Fatehpur Sikri                   90-Agra Rural (SC), 91-Fatehpur Sikri, 92-Kheragarh, 93- Fatehabad, 94-Bah
+20-Firozabad                        95-Tundla (SC), 96-Jasrana, 97-Firozabad, 98-Shikohabad, 99- Sirsaganj
+21-Mainpuri                         107-Mainpuri, 108-Bhongaon, 109-Kishni (SC), 110-Karhal, 199-Jaswantnagar
+22-Etah                             100-Kasganj, 101-Amanpur, 102-Patiyali, 104-Etah, 105- Marhara
+23-Badaun                           111-Gunnaur, 112-Bisauli (SC), 113-Sahaswan, 114-Bilsi, 115- Badaun
+24-Aonla                            116-Shekhupur, 117-Dataganj, 122-Faridpur (SC), 123-Bithari Chainpur, 126-Aonla
+25-Bareilly                         119-Meerganj, 120-Bhojipura, 121-Nawabganj, 124-Bareilly, 125-Bareilly Cantt
+26-Pilibhit                         118-Baheri, 127-Pilibhit, 128-Barkhera, 129-Puranpur (SC), 130-Bisalpur
+27-Shahjahanpur (SC)                131-Katra, 132-Jalalabad, 133-Tilhar, 134-Powayan (SC), 135- Shahjahanpur, 136-Dadral
+28-Kheri                            137-Palia, 138-Nighasan, 139-Gola Gokrannath, 140-Sri Nagar (SC), 142-Lakhimpur
+29-Dhaurahra                        141-Dhaurahra, 143-Kasta (SC), 144-Mohammdi, 145-Maholi, 147-Hargaon (SC)
+30-Sitapur                          146-Sitapur, 148-Laharpur, 149-Biswan, 150-Sevata, 151- Mahmoodabad
+31-Hardoi (SC)                      154-Sawayazpur, 155-Shahabad, 156-Hardoi, 157-Gopamau (SC), 158-Sandi (SC)
+32-Misrikh (SC)                     153-Misrikh (SC), 159-Bilgram-Mallanwan, 160-Balamau (SC), 161-Sandila, 209-Bilhaur (SC)
+33-Unnao                            162-Bangermau, 163-Safipur (SC), 164-Mohan (SC), 165-Unnao, 166-Bhagwantnagar, 167-Purwa
+34-Mohanlalganj (SC)                152-Sidhauli (SC), 168-Malihabad (SC), 169-Bakshi Kaa Talab, 170-Sarojini Nagar, 176-Mohanlalganj (SC)
+35-Lucknow                          171-Lucknow West, 172-Lucknow North, 173-Lucknow East, 174- Lucknow Central, 175-Lucknow Cantt
+36- Rae Bareli                      177-Bachhrawan (SC), 179-Harchandpur, 180-Rae Bareli, 182- Sareni, 183-Unchahar
+37- Amethi                          178-Tiloi, 181-Salon (SC), 184-Jagdishpur (SC), 185-Gauriganj, 186-Amethi
+38-Sultanpur                        187-Isauli, 188-Sultanpur, 189-Sadar, 190-Lambhua, 191- Kadipur (SC)
+39-Pratapgarh                       244-Rampur Khas, 247-Vishwanath Ganj, 248-Pratapgarh, 249- Patti, 250-Raniganj
+40-Farrukhabad                      103-Aliganj, 192-Kaimganj (SC), 193-Amritpur, 194-Farrukhabad, 195-Bhojpur
+41-Etawah (SC)                      200-Etawah, 201-Bharthana (SC), 203-Dibiyapur, 204-Auraiya (SC), 207-Sikandra
+42-Kannauj                          196-Chhibramau, 197-Tirwa, 198-Kannauj (SC), 202-Bidhuna, 205-Rasulabad (SC)
+43-Kanpur                           212-Govindnagar, 213-Sishamau, 214-Arya Nagar, 215-Kidwai Nagar, 216-Kanpur Cantt
+44-Akbarpur                         206-Akbarpur-Raniya, 210-Bithoor, 211-Kalyanpur, 217- Maharajpur, 218-Ghatampur (SC)
+45-Jalaun (SC)                      208-Bhognipur, 219-Madhaugarh, 220-Kalpi, 221-Orai (SC), 225-Garautha
+46-Jhansi                           222-Babina, 223-Jhansi Nagar, 224-Mauranipur (SC), 226- Lalitpur, 227-Mehroni (SC)
+47-Hamirpur                         228-Hamirpur, 229-Rath (SC), 230-Mahoba, 231-Charkhari, 232-Tindwari
+48-Banda                            233-Baberu, 234-Naraini (SC), 235-Banda, 236-Chitrakoot, 237- Manikpur
+49-Fatehpur                         238-Jahanabad, 239-Bindki, 240-Fatehpur, 241-Ayah Shah, 242- Husainganj, 243-Khaga (SC)
+50-Kaushambi (SC)                   245-Babaganj (SC), 246-Kunda, 251-Sirathu, 252-Manjhanpur (SC), 253-Chail
+51-Phulpur                          254-Phaphamau, 255-Soraon (SC), 256-Phulpur, 261-Allahabad West, 262-Allahabad North
+52-Allahabad                        259-Meja, 260-Karachhana, 263-Allahabad South, 264-Bara (SC), 265-Koraon (SC)
+53-Barabanki (SC)                   266-Kursi, 267-Ram Nagar, 268-Barabanki, 269-Zaidpur (SC), 272-Haidergarh (SC)
+54-Faizabad                         270-Dariyabad, 271-Rudauli, 273-Milkipur (SC), 274-Bikapur, 275-Ayodhya
+55-Ambedkar Nagar                   276-Goshainganj, 277-Katehari, 278-Tanda, 280-Jalalpur, 281- Akbarpur
+56-Bahraich (SC)                    282-Balha (SC), 283-Nanpara, 284-Matera, 285-Mahasi, 286- Bahraich
+57-Kaiserganj                       287-Payagpur, 288-Kaiserganj, 297-Katra    Bazar, 298- Colonelganj, 299-Tarabganj
+58-Shrawasti                        289-Bhinga, 290- Shrawasti, 291- Tulsipur, 292-Gainsari, 294- Balrampur (SC)
+59-Gonda                            293-Utraula, 295-Mehnaun, 296-Gonda, 300-Mankapur (SC), 301-Gaura
+60-Domariyaganj                     302-Shohratgarh, 303- Kapilvastu (SC), 304-Bansi, 305-Itwa, 306-Domariyaganj
+61-Basti                            307-Harraiya, 308-Kaptanganj, 309-Rudhauli, 310-Basti Sadar, 311-Mahadewa (SC)
+62-Sant Kabir Nagar                 279-Alapur (SC), 312-Menhdawal, 313-Khalilabad, 314- Dhanghata (SC), 325-Khajani (SC)
+63-Maharajganj                      315-Pharenda, 316-Nautanwa, 317-Siswa, 318-Maharajganj (SC), 319-Paniyara
+64-Gorakhpur                        320-Caimpiyarganj, 321-Pipraich, 322-Gorakhpur Urban, 323- Gorakhpur Rural, 324-Sahajanwa
+65- Kushi Nagar                     329-Khadda, 330-Padrauna, 333-Kushinagar, 334-Hata, 335- Ramkola (SC)
+66- Deoria                          331-Tamkuhi Raj, 332-Fazilnagar, 337-Deoria, 338-Pathardeva, 339-Rampur Karkhana
+67-Bansgaon (SC)                    326-Chauri-Chaura, 327-Bansgaon (SC), 328-Chillupar, 336- Rudrapur, 342-Barhaj
+68-Lalganj (SC)                     343-Atrauliya, 348-Nizamabad, 349-Phoolpur-Pawai, 350- Didarganj, 351-Lalganj (SC)
+69-Azamgarh                         344-Gopalpur, 345-Sagri, 346-Mubarakpur, 347- Azamgarh, 352-Mehnagar (SC)
+70-Ghosi                            353-Madhuban, 354-Ghosi, 355-Muhammadabad-Gohna (SC), 356-Mau, 358-Rasara
+71-Salempur                         340-Bhatpar Rani, 341-Salempur (SC), 357-Belthara Road (SC), 359-Sikanderpur, 362-Bansdih
+72-Ballia                           360-Phephana, 361-Ballia Nagar, 363-Bairia, 377-Zahoorabad, 378-Mohammadabad
+73-Jaunpur                          364-Badlapur, 365-Shahganj, 366-Jaunpur, 367-Malhani, 368- Mungra Badshahpur
+74-Machhlishahr (SC)                369-Machhlishahr (SC), 370-Mariyahu, 371-Zafrabad, 372- Kerakat (SC), 384-Pindra
+75-Ghazipur                         373-Jakhanian (SC), 374-Saidpur (SC), 375-Ghazipur, 376- Jangipur, 379-Zamania
+76-Chandauli                        380-Mughalsarai, 381-Sakaldiha, 382-Saiyadraja, 385-Ajagara (SC), 386-Shivpur
+77-Varanasi                         387-Rohaniya, 388-Varanasi North, 389-Varanasi South, 390- Varanasi Cantt., 391-Sevapuri
+78-Bhadohi                          257-Pratappur, 258-Handia, 392-Bhadohi, 393-Gyanpur, 394- Aurai (SC)
+79-Mirzapur                         395-Chhanbey (SC), 396-Mirzapur, 397-Majhawan, 398-Chunar, 399-Marihan
+80-Robertsganj (SC)                 383-Chakia (SC), 400-Ghorawal, 401-Robertsganj, 402-Obra, 403-Duddhi (SC)
+STATE: UTTARAKHAND
+1-Tehri Garhwal                     1-Purola (SC), 2-Yamunotri, 3-Gangotri, 9-Ghanshali (SC), 12- Pratapnagar, 13-Tehri, 14-Dhanolti, 15-Chakrata (ST), 16-Vikasnagar, 17-Sahaspur, 19-Raipur, 20-Rajpur Road (SC), 21-Dehradun Cantt., 22-Mussoorie
+2-Garhwal                           4-Badrinath, 5-Tharali (SC), 6-Karnprayag, 7-Kedarnath, 8- Rudraprayag, 10-Deoprayag, 11-Narendranagar, 36-Yamkeshwar, 37- Pauri (SC), 38-Srinagar, 39-Chaubattakhal, 40-Lansdowne, 41- Kotdwar, 61-Ramnagar
+3-Almora (SC)                       42-Dharchula, 43-Didihat, 44-Pithoragarh, 45-Gangolihat (SC), 46- Kapkote, 47-Bageshwar (SC), 48-Dwarahat, 49-Salt, 50-Ranikhet, 51- Someshwar (SC), 52-Almora, 53-Jageshwar, 54-Lohagat, 55- Champawat
+4-Nainital-Udhamsingh Nagar         56-Lalkuwa, 57-Bhimtal, 58-Nainital (SC), 59-Haldwani, 60- Kaladhungi, 62-Jaspur, 63-Kashipur, 64-Bajpur (SC), 65-Gadarpur, 66- Rudrapur, 67-Kichha, 68-Sitarganj, 69-Nanak Matta (ST), 70- Khatima
+5-Hardwar                           18-Dharampur, 23-Doiwala, 24-Rishikesh, 25-Hardwar, 26-B.H.E.L Ranipur, 27-Jwalapur (SC), 28-Bhagwanpur (SC), 29-Jhabrera (SC), 30-Pirankaliyar, 31-Roorkee, 32-Khanpur, 33-Manglaur, 34-Laksar, 35-Hardwar Rural
+STATE: WEST BENGAL
+1. COOCHBEHAR (SC)                  2. MATHABHANGA (SC), 3. COOCHBEHAR UTTAR (SC), 4. COOCHBEHAR DAKSHIN, 5. SITALKUCHI (SC), 6. SITAI (SC), 7. DINHATA, 8. NATABARI
+2.ALIPURDUARS (ST)                  9. TUFANGANJ, 10. KUMARGRAM (ST), 11. KALCHINI (ST), 12. ALIPURDUARS, 13. FALAKATA (SC), 14. MADARIHAT (ST), 21. NAGRAKATA (ST)
+3.JALPAIGURI (SC)                   01. MEKLIGANJ (SC), 15. DHUPGURI (SC), 16. MAYNAGURI (SC), 17. JALPAIGURI (SC), 18. RAJGANJ (SC), 19. DABGRAM-FULBARI, 20. MAL (ST)
+4.DARJEELING                        22. KALIMPONG, 23. DARJEELING, 24. KURSEONG, 25.    MATIGARA-NAXALBARI (SC), 26.  SILIGURI, 27. PHANSIDEWA (ST), 28. CHOPRA
+5.RAIGANJ                           29. ISLAMPUR, 30. GOALPOKHAR, 31. CHAKULIA, 32. KARANDIGHI, 33. HEMTABAD (SC), 34. KALIAGANJ (SC), 35. RAIGANJ
+6.BALURGHAT                         36. ITAHAR, 37. KUSHMANDI (SC), 38. KUMARGANJ, 39. BALURGHAT, 40. TAPAN(ST), 41. GANGARAMPUR (SC), 42. HARIRAMPUR
+7.MALDAHA UTTAR                     43. HABIBPUR (ST), 44. GAZOLE (SC), 45. CHANCHAL, 46.HARISCHANDRAPUR, 47. MALATIPUR, 48. RATUA, 50. MALDAHA (SC)
+8.MALDAHA DAKSHIN                   49. MANIKCHAK, 51. ENGLISH BAZAR, 52. MOTHABARI, 53. SUJAPUR, 54. BAISNABNAGAR, 55. FARAKKA, 56. SAMSERGANJ
+9.JANGIPUR                          57. SUTI, 58. JANGIPUR, 59. RAGHUNATHGANJ, 60. SAGARDIGHI, 61. LALGOLA, 65. NABAGRAM (SC), 66. KHARGRAM (SC)
+10.BAHARAMPUR                       67. BURWAN (SC), 68. KANDI, 69. BHARATPUR, 70 REJINAGAR, 71 BELDANGA, 72. BAHARAMPUR, 74. NOWDA
+11.MURSHIDABAD                      62. BHAGAWANGOLA, 63. RANINAGAR, 64. MURSHIDABAD, 73. HARIHARPARA, 75. DOMKAL, 76. JALANGI, 77. KARIMPUR
+12.KRISHNANAGAR                     78 TEHATTA, 79 PALASHIPARA, 80. KALIGANJ, 81. NAKASHIPARA, 82. CHAPRA, 83. KRISHNANAGAR UTTAR, 85. KRISHNANAGAR DAKSHIN
+13.RANAGHAT (SC)                    84. NABADWIP, 86. SANTIPUR, 87. RANAGHAT UTTAR PASCHIM, 88. KRISHNAGANJ (SC), 89. RANAGHAT UTTAR PURBA (SC), 90. RANAGHAT DAKSHIN (SC), 91. CHAKDAHA
+14.BANGAON (SC)                     92. KALYANI (SC), 93. HARINGHATA (SC), 94 BAGDA (SC), 95. BANGAON UTTAR (SC), 96. BANGAON DAKSHIN (SC), 97. GAIGHATA (SC), 98. SWARUPNAGAR (SC)
+15.BARRACKPUR                       102. AMDANGA, 103. BIJPUR, 104. NAIHATI, 105. BHATPARA, 106. JAGATDAL, 107. NOAPARA, 108. BARRACKPUR
+16.DUM DUM                          109. KHARDAHA, 110. DUM DUM UTTAR, 111. PANIHATI, 112. KAMARHATI, 113. BARANAGAR, 114. DUM DUM, 117. RAJARHAT GOPALPUR
+17.BARASAT                          100. HABRA, 101. ASHOKNAGAR, 115. RAJARHAT NEW TOWN, 116. BIDHANNAGAR, 118. MADHYAMGRAM, 119. BARASAT, 120. DEGANGA
+18.BASIRHAT                         99. BADURIA, 121. HAROA, 122. MINAKHAN (SC), 123. SANDESHKHALI (ST), 124. BASIRHAT DAKSHIN, 125. BASIRHAT UTTAR, 126. HINGALGANJ (SC)
+19.JAYNAGAR (SC)                    127. GOSABA (SC), 128. BASANTI (SC), 129. KULTALI (SC), 136. JAYNAGAR (SC), 138. CANNING PASCHIM (SC), 139. CANNING PURBA, 141. MAGRAHAT PURBA (SC)
+20.MATHURAPUR (SC)                  130. PATHARPRATIMA, 131. KAKDWIP, 132. SAGAR, 133. KULPI, 134. RAIDIGHI, 135. MANDIRBAZAR (SC), 142. MAGRAHAT PASCHIM
+21.DIAMOND HARBOUR                  143. DIAMOND HARBOUR, 144. FALTA, 145. SATGACHHIA, 146. BISHNUPUR (SC), 155. MAHESHTALA, 156. BUDGE BUDGE, 157. METIABURUZ
+22.JADAVPUR                         137. BARUIPUR PURBA (SC), 140. BARUIPUR PASCHIM , 147. SONARPUR DAKSHIN, 148. BHANGAR, 150. JADAVPUR, 151. SONARPUR UTTAR, 152. TOLLYGANJ
+23.KOLKATA DAKSHIN                  149. KASBA, 153. BEHALA PURBA, 154. BEHALA PASCHIM, 158.KOLKATA PORT, 159. BHABANIPUR, 160. RASHBEHARI, 161. BALLYGUNGE
+24.KOLKATA UTTAR                    162. CHOWRANGEE, 163. ENTALLY, 164. BELEGHATA, 165. JORASANKO, 166. SHYAMPUKUR, 167. MANIKTALA, 168. KASHIPUR-BELGACHHIA
+25.HOWRAH                           169. BALLY, 170. HOWRAH UTTAR, 171. HOWRAH MADHYA, 172. SHIBPUR, 173. HOWRAH DAKSHIN, 174. SANKRAIL (SC), 175. PANCHLA
+26.ULUBERIA                         176. ULUBERIA PURBA, 177. ULUBERIA UTTAR (SC), 178. ULUBERIA DAKSHIN, 179. SHYAMPUR, 180. BAGNAN, 181. AMTA, 182. UDAYNARAYANPUR
+27.SREERAMPUR                       183. JAGATBALLAVPUR, 184. DOMJUR, 185. UTTARPARA, 186. SREERAMPUR, 187. CHAMPDANI, 194. CHANDITALA, 195. JANGIPARA
+28.HOOGHLY                          188. SINGUR, 189. CHANDANNAGAR, 190. CHUNCHURA, 191. BALAGARH (SC), 192. PANDUA, 193. SAPTAGRAM, 197. DHANEKHALI (SC)
+29. ARAMBAG (SC)                    196. HARIPAL, 198. TARAKESWAR, 199 PURSURAH, 200 ARAMBAG (SC), 201 GOGHAT (SC), 202 KHANAKUL, 232. CHANDRAKONA (SC)
+30.TAMLUK                           203. TAMLUK, 204. PANSKURA PURBA, 206. MOYNA, 207. NANDAKUMAR, 208. MAHISADAL, 209. HALDIA (SC), 210. NANDIGRAM
+31.KANTHI                           211. CHANDIPUR, 212. PATASHPUR, 213. KANTHI UTTAR, 214. BHAGABANPUR, 215. KHEJURI (SC), 216. KANTHI DAKSHIN, 217. RAMNAGAR
+32.GHATAL                           205. PANSKURA PASCHIM, 226. SABANG, 227. PINGLA, 229. DEBRA, 230. DASPUR, 231. GHATAL (SC), 235. KESHPUR (SC)
+33.JHARGRAM (ST)                    220. NAYAGRAM (ST), 221. GOPIBALLAVPUR, 222. JHARGRAM, 233. GARBETA, 234 SALBONI, 237. BINPUR (ST), 238. BANDWAN (ST)
+34.MEDINIPUR                        218. EGRA, 219. DANTAN, 223. KESHIARY (ST), 224. KHARAGPUR    SADAR, 225. NARAYANGARH, 228. KHARAGPUR, 236. MEDINIPUR
+35.PURULIA                          239. BALARAMPUR, 240. BAGHMUNDI , 241. JOYPUR, 242. PURULIA, 243. MANBAZAR (ST), 244. KASHIPUR, 245. PARA (SC)
+36.BANKURA                          246. RAGHUNATHPUR (SC), 247. SALTORA (SC), 248. CHHATNA, 249. RANIBANDH (ST),250. RAIPUR (ST), 251. TALDANGRA, 252 BANKURA
+37.BISHNUPUR (SC)                   253. BARJORA, 254. ONDA, 255. BISHNUPUR, 256. KATULPUR (SC), 257. INDUS (SC), 258. SONAMUKHI (SC), 259. KHANDAGHOSH (SC)
+38.BARDHAMAN PURBA (SC)             261. RAINA (SC), 262. JAMALPUR (SC), 264. KALNA (SC), 265. MEMARI , 268. PURBASTHALI DAKSHIN, 269. PURBASTHALI UTTAR, 270. KATWA
+39.BARDHAMAN-DURGAPUR               260. BARDHAMAN DAKSHIN, 263 MONTESWAR, 266. BARDHAMAN UTTAR (SC), 267. BHATAR, 274. GALSI (SC), 276. DURGAPUR PURBA, 277. DURGAPUR PASCHIM
+40.ASANSOL                          275. PANDABESWAR, 278. RANIGANJ, 279. JAMURIA, 280. ASANSOL DAKSHIN, 281. ASANSOL UTTAR, 282. KULTI, 283. BARABANI
+41.BOLPUR (SC)                      271. KETUGRAM, 272. MANGALKOT, 273. AUSGRAM (SC), 286. BOLPUR, 287. NANOOR (SC), 288. LABPUR, 290. MAYURESWAR
+42.BIRBHUM                          284. DUBRAJPUR (SC), 285. SURI, 289. SAINTHIA (SC) , 291. RAMPURHAT, 292. HANSAN, 293. NALHATI, 294. MURARAI
