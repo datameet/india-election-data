@@ -11,21 +11,20 @@ S02,2,S02-Arunachal Pradesh,2-ARUNACHAL EAST,1,NINONG ERING,Indian National Cong
 S02,2,S02-Arunachal Pradesh,2-ARUNACHAL EAST,2,TAPIR GAO,Bharatiya Janata Party
 S02,2,S02-Arunachal Pradesh,2-ARUNACHAL EAST,3,WANGMAN LOWANGCHA,People's Party of Arunachal
 S03,1,S03-Assam,1-Karimganj,1,KRISHNA DAS,Bharatiya Janata Party
-S03,1,S03-Assam,1-Karimganj,2,PROBASH CHANDRA SARKAR,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S03,1,S03-Assam,1-Karimganj,2,RABINDRA NATH CHOUDHURY,Asom Gana Parishad
 S03,1,S03-Assam,1-Karimganj,3,RADHESHYAM BISWAS,All India United Democratic Front
-S03,1,S03-Assam,1-Karimganj,4,RINKU MALAKAR,Samajwadi Party
-S03,1,S03-Assam,1-Karimganj,5,SABUJ DAS,Independent
-S03,1,S03-Assam,1-Karimganj,6,SAJALENDU MALAKAR,Independent
-S03,1,S03-Assam,1-Karimganj,7,PINTU MALAKAR,Independent
-S03,1,S03-Assam,1-Karimganj,8,PROMESH ROY,Independent
-S03,1,S03-Assam,1-Karimganj,9,LALIT MOHON SUKLABAIDYA,Indian National Congress
-S03,1,S03-Assam,1-Karimganj,10,SUJIT MALLICK,Independent
-S03,1,S03-Assam,1-Karimganj,11,TARUN KUMAR DAS,Aam Aadmi Party
-S03,1,S03-Assam,1-Karimganj,12,SANJIT KUMAR DAS,Independent
-S03,1,S03-Assam,1-Karimganj,13,GOUTAM MALAKAR,Independent
-S03,1,S03-Assam,1-Karimganj,14,MOHANANDA DAS,Independent
-S03,1,S03-Assam,1-Karimganj,15,RABINDRA NATH CHOUDHURY,Asom Gana Parishad
-S03,1,S03-Assam,1-Karimganj,16,PRADIP SUKLABAIDYA,Independent
+S03,1,S03-Assam,1-Karimganj,4,LALIT MOHON SUKLABAIDYA,Indian National Congress
+S03,1,S03-Assam,1-Karimganj,5,TARUN KUMAR DAS,Aam Aadmi Party
+S03,1,S03-Assam,1-Karimganj,6,PROBASH CHANDRA SARKAR,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S03,1,S03-Assam,1-Karimganj,7,RINKU MALAKAR,Samajwadi Party
+S03,1,S03-Assam,1-Karimganj,8,GOUTAM MALAKAR,Independent
+S03,1,S03-Assam,1-Karimganj,9,PINTU MALAKAR,Independent
+S03,1,S03-Assam,1-Karimganj,10,PRADIP SUKLABAIDYA,Independent
+S03,1,S03-Assam,1-Karimganj,11,MAHANANDA DAS,Independent
+S03,1,S03-Assam,1-Karimganj,12,SAJALENDU MALAKAR,Independent
+S03,1,S03-Assam,1-Karimganj,13,SANJIT KUMAR DAS,Independent
+S03,1,S03-Assam,1-Karimganj,14,SABUJ DAS,Independent
+S03,1,S03-Assam,1-Karimganj,15,SUJIT MALLICK,Independent
 S03,2,S03-Assam,2-Silchar,1,ARUNANGSHU BHATTACHARJEE,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
 S03,2,S03-Assam,2-Silchar,2,SUSHMITA DEV,Indian National Congress
 S03,2,S03-Assam,2-Silchar,3,REJAMOND ALI BARBHUIYA,Communist Party of India  (Marxist)
@@ -48,49 +47,25 @@ S03,3,S03-Assam,3-Autonomous District,2,BIREN SINGH ENGTI,Indian National Congre
 S03,3,S03-Assam,3-Autonomous District,3,ASHWENG J. RENGMA,Jharkhand Mukti Morcha
 S03,3,S03-Assam,3-Autonomous District,4,PRATIMA ENGHEEPI,Communist Party of India  (Marxist-Leninist)  (Liberation)
 S03,3,S03-Assam,3-Autonomous District,5,CHOMANG KRO,Independent
-S03,3,S03-Assam,3-Autonomous District,6,BABU BEY,Independent
-S05,1,S05-Goa,1-North Goa,1,SUHAS NAIK,Communist Party of India  (Marxist)
-S05,1,S05-Goa,1-North Goa,2,ANIL RAGHUVIR HOBLE,Bharatiya Janata Party
-S05,1,S05-Goa,1-North Goa,3,SHRIPAD YESSO NAIK,Bharatiya Janata Party
-S05,1,S05-Goa,1-North Goa,4,SHRIPAD YESSO NAIK,Bharatiya Janata Party
-S05,1,S05-Goa,1-North Goa,5,RAVI NAIK,Indian National Congress
-S05,1,S05-Goa,1-North Goa,6,RAVI NAIK,Indian National Congress
-S05,1,S05-Goa,1-North Goa,7,RAVI NAIK,Indian National Congress
-S05,1,S05-Goa,1-North Goa,8,RAVI NAIK,Indian National Congress
-S05,1,S05-Goa,1-North Goa,9,AMARNATH PANJIKAR,Indian National Congress
-S05,1,S05-Goa,1-North Goa,10,DAYANAND G. NARVEKAR,Independent
-S05,1,S05-Goa,1-North Goa,11,DAYANAND G. NARVEKAR,Independent
-S05,1,S05-Goa,1-North Goa,12,MITTU MUJAVAR,Independent
-S05,1,S05-Goa,1-North Goa,13,RANJIT JAYASINGRAO RANE,Independent
-S05,1,S05-Goa,1-North Goa,14,DATTARAM DESAI,Aam Aadmi Party
-S05,1,S05-Goa,1-North Goa,15,DATTARAM DESAI,Aam Aadmi Party
-S05,1,S05-Goa,1-North Goa,16,DATTARAM DESAI,Aam Aadmi Party
-S05,1,S05-Goa,1-North Goa,17,RAJU DSOUZA,Samajwadi Janata Party (Rashtriya)
-S05,1,S05-Goa,1-North Goa,18,SHRIPAD YESSO NAIK,Bharatiya Janata Party
-S05,1,S05-Goa,1-North Goa,19,SHRIPAD YESSO NAIK,Bharatiya Janata Party
-S05,2,S05-Goa,2-South Goa,1,RAJENDRA DATTA NAIK ALIAS ADV. RAJU MANGESHKAR,Communist Party of India
-S05,2,S05-Goa,2-South Goa,2,VENUS HABIB,Independent
-S05,2,S05-Goa,2-South Goa,3,VENUS HABIB,Independent
-S05,2,S05-Goa,2-South Goa,4,ALEIXO REGINALDO LOURENCO,Indian National Congress
-S05,2,S05-Goa,2-South Goa,5,ALEIXO REGINALDO LOURENCO,Indian National Congress
-S05,2,S05-Goa,2-South Goa,6,ADV. NARENDRA KESHAV SAWAIKAR,Bharatiya Janata Party
-S05,2,S05-Goa,2-South Goa,7,ADV. NARENDRA KESHAV SAWAIKAR,Bharatiya Janata Party
-S05,2,S05-Goa,2-South Goa,8,GOVIND GAUDE,Independent
-S05,2,S05-Goa,2-South Goa,11,CHURCHILL ALEMAO,All India Trinamool Congress
-S05,2,S05-Goa,2-South Goa,12,CHURCHIL UBALDO ANTONIO DALTON ARQUIMEDES ALEMAO,All India Trinamool Congress
-S05,2,S05-Goa,2-South Goa,13,CHURCHILL ALEMAO ALAIS CHURCHILUBALDO ANTONIO DALTON ARQUIMEDES ALEMAO,All India Trinamool Congress
-S05,2,S05-Goa,2-South Goa,14,SWATI KERKAR,Aam Aadmi Party
-S05,2,S05-Goa,2-South Goa,15,SWATI KERKAR,Aam Aadmi Party
-S05,2,S05-Goa,2-South Goa,16,SWATI KERKAR,Aam Aadmi Party
-S05,2,S05-Goa,2-South Goa,17,NARENDRA KESHAV SAWAIKAR,Bharatiya Janata Party
-S05,2,S05-Goa,2-South Goa,19,ADV. JAWAHAR LEONARDO DIAS,Goemcarancho Otrec Astro
-S05,2,S05-Goa,2-South Goa,20,SAVIO OLIVER RODRIGUES,Goa Su-Raj Party
-S05,2,S05-Goa,2-South Goa,21,SHALOM MATHEW FRANCISCO SARDINHA,Independent
-S05,2,S05-Goa,2-South Goa,22,SHALOM MATHEW FRANCISCO SARDINHA,Independent
-S05,2,S05-Goa,2-South Goa,23,ALEIXO REGINALDO LOURENCO,Indian National Congress
-S05,2,S05-Goa,2-South Goa,24,ALEIXO REGINALDO LOURENCO,Indian National Congress
-S05,2,S05-Goa,2-South Goa,25,BALKRISHNA SALGAONKAR,Independent
-S05,2,S05-Goa,2-South Goa,26,CLIFFTON D'SOUZA,Bahujan Mukti Party
+S05,1,S05-Goa,1-North Goa,1,RAVI NAIK,Indian National Congress
+S05,1,S05-Goa,1-North Goa,2,SHRIPAD YESSO NAIK,Bharatiya Janata Party
+S05,1,S05-Goa,1-North Goa,3,ADV. SUHAS NAIK,Communist Party of India
+S05,1,S05-Goa,1-North Goa,4,DR.DATTARAM DESAI,Aam Aadmi Party
+S05,1,S05-Goa,1-North Goa,5,RAJU DSOUZA,Samajwadi Janata Party (Rashtriya)
+S05,1,S05-Goa,1-North Goa,6,DAYANAND G. NARVEKAR,Independent
+S05,1,S05-Goa,1-North Goa,7,MITTU MUJAVAR,Independent
+S05,2,S05-Goa,2-South Goa,1,ALEIXO REGINALDO LOURENCO,Indian National Congress
+S05,2,S05-Goa,2-South Goa,2,ADV. NARENDRA KESHAV SAWAIKAR,Bharatiya Janata Party
+S05,2,S05-Goa,2-South Goa,3,ADV. RAJU MANGESHKAR,Communist Party of India
+S05,2,S05-Goa,2-South Goa,4,CLIFFTON DE SOUZA,Bahujan Mukti Party
+S05,2,S05-Goa,2-South Goa,5,CHURCHILL ALEMAO,All India Trinamool Congress
+S05,2,S05-Goa,2-South Goa,6,ADV.JAWAHAR LEONARDO DIAS,Goemcarancho Otrec Astro
+S05,2,S05-Goa,2-South Goa,7,SAVIO OLIVER RODRIGUES,Goa Su-Raj Party
+S05,2,S05-Goa,2-South Goa,8,SWATI S. KERKAR,Aam Aadmi Party
+S05,2,S05-Goa,2-South Goa,9,GOVIND SHEPU GAUDE,Independent
+S05,2,S05-Goa,2-South Goa,10,BALKRISHNA SALGAONKAR,Independent
+S05,2,S05-Goa,2-South Goa,11,VENUS HABIB,Independent
+S05,2,S05-Goa,2-South Goa,12,SHALOM MATHEW FRANCISCO SARDINHA,Independent
 S07,1,S07-Haryana,1-Ambala,1,ARUN KUMAR,Communist Party of India
 S07,1,S07-Haryana,1-Ambala,2,DR. KAPOOR SINGH,Bahujan Samaj Party
 S07,1,S07-Haryana,1-Ambala,3,DR. KUSUM SHERWAL,Indian National Lok Dal
@@ -321,64 +296,47 @@ S07,10,S07-Haryana,10-Faridabad,24,LALIT MITTAL,Independent
 S07,10,S07-Haryana,10-Faridabad,25,VIJAY RAJ,Independent
 S07,10,S07-Haryana,10-Faridabad,26,SHUSHILA,Independent
 S07,10,S07-Haryana,10-Faridabad,27,SANJAY MAURYA,Independent
-S10,1,S10-Karnataka,1-Chikkodi,1,SHRINIK ANNASAHEB JANGATE,Independent
-S10,1,S10-Karnataka,1-Chikkodi,2,PRATAPARAO ALAGOUDA PATIL,Nationalist Congress Party
-S10,1,S10-Karnataka,1-Chikkodi,3,RAMESH VISHWANATH KATTI,Bharatiya Janata Party
-S10,1,S10-Karnataka,1-Chikkodi,4,UMESH VISHWANATH KATTI,Bharatiya Janata Party
-S10,1,S10-Karnataka,1-Chikkodi,5,MACHINDRA KADAPURE,Bahujan Samaj Party
-S10,1,S10-Karnataka,1-Chikkodi,6,MOHAN MOTANNAVAR,Independent
-S10,1,S10-Karnataka,1-Chikkodi,7,SHRIMANT BALASAHEB PATIL,Janata Dal  (Secular)
-S10,1,S10-Karnataka,1-Chikkodi,8,ASHFAQ AHMED MADAKI,Aam Aadmi Party
-S10,1,S10-Karnataka,1-Chikkodi,9,PRAKASH HUKKERI,Indian National Congress
+S10,1,S10-Karnataka,1-Chikkodi,1,RAMESH VISHWANATH KATTI,Bharatiya Janata Party
+S10,1,S10-Karnataka,1-Chikkodi,2,MACHINDRA KADAPURE,Bahujan Samaj Party
+S10,1,S10-Karnataka,1-Chikkodi,3,PRAKASH HUKKERI,Indian National Congress
+S10,1,S10-Karnataka,1-Chikkodi,4,PRATAPARAO ALAGOUDA PATIL,Nationalist Congress Party
+S10,1,S10-Karnataka,1-Chikkodi,5,SHRIMANT BALASAHEB PATIL,Janata Dal  (Secular)
+S10,1,S10-Karnataka,1-Chikkodi,6,APPASAHEB KURANE,Sarva Janata Party
+S10,1,S10-Karnataka,1-Chikkodi,7,ASHFAQ AHMED MADAKI,Aam Aadmi Party
+S10,1,S10-Karnataka,1-Chikkodi,8,JITENDRA SUBHASH NERLE,Independent
+S10,1,S10-Karnataka,1-Chikkodi,9,BASAPPA KALLAPPA HANCHANAL,Independent
 S10,1,S10-Karnataka,1-Chikkodi,10,MAGADUM ISMAIL MAGADUM,Independent
-S10,1,S10-Karnataka,1-Chikkodi,11,JITENDRA SUBHASH NERLE,Independent
-S10,1,S10-Karnataka,1-Chikkodi,12,SHAILA SURESH KOLI,Independent
-S10,1,S10-Karnataka,1-Chikkodi,13,APPASAHEB KURANE,Sarva Janata Party
-S10,1,S10-Karnataka,1-Chikkodi,14,PRAKASH BABASAHEB KATARE,Independent
-S10,1,S10-Karnataka,1-Chikkodi,15,BASAPPA KALLAPPA HANCHANAL,Independent
-S10,2,S10-Karnataka,2-Belgaum,1,SHIVAGOUDAPPA BALAPPA KHANAGOUDAR,Independent
-S10,2,S10-Karnataka,2-Belgaum,2,RAMAKANT JAYAWANT KONDUSKAR,Independent
-S10,2,S10-Karnataka,2-Belgaum,3,GURUPUTRA  KEMPANNA KULLUR,Independent
-S10,2,S10-Karnataka,2-Belgaum,4,SURESH ANGADI,Bharatiya Janata Party
-S10,2,S10-Karnataka,2-Belgaum,5,LAKSHMI HEBBALKAR,Indian National Congress
-S10,2,S10-Karnataka,2-Belgaum,6,SHANKAR RATHOD,Independent
-S10,2,S10-Karnataka,2-Belgaum,7,ASHOK HANAJI,Independent
-S10,2,S10-Karnataka,2-Belgaum,8,RAMESH ALIAS SURESH GURULING KADALASKAR,Bahujan Samaj Party
-S10,2,S10-Karnataka,2-Belgaum,9,PARAPPA SHANKAREPPA ANTAKKANAVAR,Independent
-S10,2,S10-Karnataka,2-Belgaum,10,MOHAN YALLAPPA MORE,Independent
-S10,2,S10-Karnataka,2-Belgaum,11,RAMAPPA MAREPPA CHALAWADI,Independent
-S10,2,S10-Karnataka,2-Belgaum,12,DAYANAND GURUPUTRAYYA CHIKKAMATH,Samajwadi Party
-S10,2,S10-Karnataka,2-Belgaum,13,SANTOSH MANOHAR BAVADEKAR,Independent
-S10,2,S10-Karnataka,2-Belgaum,14,RAJMAHENDRA SAKHARAM GAONKAR,Independent
-S10,2,S10-Karnataka,2-Belgaum,15,MUTTAPPA CHANNASANGAPPA ANGADI,Aam Aadmi Party
-S10,2,S10-Karnataka,2-Belgaum,16,NASIR PAPULSAB BAGWAN,Janata Dal  (Secular)
-S10,2,S10-Karnataka,2-Belgaum,17,LOLITA SHRIKANTGOUDA PATIL,Janata Dal  (Secular)
-S10,2,S10-Karnataka,2-Belgaum,18,HANMANT KRISHNA MAJUKAR,Shivsena
-S10,2,S10-Karnataka,2-Belgaum,19,MADIVALAPPA SOMAPPA HURALI,Independent
-S10,2,S10-Karnataka,2-Belgaum,20,SANTOSH MANJUNATH SHET(RAIKAR),Independent
-S10,2,S10-Karnataka,2-Belgaum,21,ANNAPURNA ANIL NIRWANI,Janata Dal  (Secular)
+S10,1,S10-Karnataka,1-Chikkodi,11,MOHAN MOTANNAVAR,Independent
+S10,1,S10-Karnataka,1-Chikkodi,12,SHRINIK ANNASAHEB JANGATE,Independent
+S10,2,S10-Karnataka,2-Belgaum,1,ANGADI SURESH CHANNABASAPPA,Bharatiya Janata Party
+S10,2,S10-Karnataka,2-Belgaum,2,BAGWAN NASIR PAPULSAB,Janata Dal  (Secular)
+S10,2,S10-Karnataka,2-Belgaum,3,RAMESH G KADALASKAR,Bahujan Samaj Party
+S10,2,S10-Karnataka,2-Belgaum,4,LAKSHMI R HEBBALKAR,Indian National Congress
+S10,2,S10-Karnataka,2-Belgaum,5,ANGADI MUTTAPPA CHANNASANGAPPA,Aam Aadmi Party
+S10,2,S10-Karnataka,2-Belgaum,6,DAYANAND GURUPUTRAYYA CHIKKAMATH,Samajwadi Party
+S10,2,S10-Karnataka,2-Belgaum,7,ANTAKKANAVAR PARAPPA SHANKAREPPA,Independent
+S10,2,S10-Karnataka,2-Belgaum,8,S B KHANAGOUDAR,Independent
+S10,2,S10-Karnataka,2-Belgaum,9,DR GAONKAR RAJMAHENDRA SAKHARAM,Independent
+S10,2,S10-Karnataka,2-Belgaum,10,MAJUKAR HANMANT KRISHNA,Independent
+S10,2,S10-Karnataka,2-Belgaum,11,MOHAN YALLAPPA MORE,Independent
+S10,2,S10-Karnataka,2-Belgaum,12,S P RATHOD,Independent
+S10,2,S10-Karnataka,2-Belgaum,13,RAMAPPA (RAMCHANDRA) MAREPPA CHALAWADI,Independent
+S10,2,S10-Karnataka,2-Belgaum,14,SANTOSH MANOHAR BAVADEKAR,Independent
+S10,2,S10-Karnataka,2-Belgaum,15,SANTOSH M SHET @ RAIKAR,Independent
 S10,3,S10-Karnataka,3-Bagalkot,1,DR SHANKAR MAHADEV BIDARI,Independent
-S10,3,S10-Karnataka,3-Bagalkot,2,MARUTI HANAMAPPA JAMINDAR,Janata Dal  (United)
-S10,3,S10-Karnataka,3-Bagalkot,3,RAJASAB BURANSAB MASALI,Independent
 S10,3,S10-Karnataka,3-Bagalkot,4,PARASHURAM MANASING RATHOD,Independent
 S10,3,S10-Karnataka,3-Bagalkot,5,YAMANUR CHANDRAHAS KAMBLE,Bahujan Samaj Party
 S10,3,S10-Karnataka,3-Bagalkot,6,PARVTAGOUDA GADDIGOUDAR,Bharatiya Janata Party
 S10,3,S10-Karnataka,3-Bagalkot,7,NAGAPPA SHIRAGUPPI,Independent
 S10,3,S10-Karnataka,3-Bagalkot,8,AJAYKUMAR SARNAIK,Indian National Congress
-S10,3,S10-Karnataka,3-Bagalkot,9,KARIYAPPA ANADINNI,Independent
 S10,3,S10-Karnataka,3-Bagalkot,10,HUNASHYAL RAVI,Janata Dal  (Secular)
 S10,3,S10-Karnataka,3-Bagalkot,11,BHEEMAPPA DHOOLAPPA AJJODI,Independent
 S10,3,S10-Karnataka,3-Bagalkot,12,KUTUBUDDIN KAZI,Aam Aadmi Party
 S10,3,S10-Karnataka,3-Bagalkot,13,SADASHIV KANABUR,Janata Dal  (United)
-S10,3,S10-Karnataka,3-Bagalkot,14,CHIDANAND DHARMATTI,Janata Dal  (Secular)
-S10,3,S10-Karnataka,3-Bagalkot,15,SANGMESH BAVIKATTI,Independent
-S10,3,S10-Karnataka,3-Bagalkot,16,KHAJI MUNIRAHAMAD,Independent
 S10,3,S10-Karnataka,3-Bagalkot,17,MAHESH BASAPPA NANDIHAL,Karunaadu Party
 S10,3,S10-Karnataka,3-Bagalkot,18,MUTTAPPA HIREKUMBI,Independent
-S10,3,S10-Karnataka,3-Bagalkot,19,SHOUKATALI SOUDAGAR,Independent
 S10,3,S10-Karnataka,3-Bagalkot,20,VASANAGOUDA BHANDI,Independent
 S10,4,S10-Karnataka,4-Bijapur,1,MARAGANNA HUNNUR,Independent
-S10,4,S10-Karnataka,4-Bijapur,2,MARAGANNA HUNNUR,Aam Aadmi Party
 S10,4,S10-Karnataka,4-Bijapur,3,SIDDAPPA GANJI,Independent
 S10,4,S10-Karnataka,4-Bijapur,4,PRAKASH RATHOD,Indian National Congress
 S10,4,S10-Karnataka,4-Bijapur,5,RAMESH JIGAJINAGI,Bharatiya Janata Party
@@ -388,237 +346,185 @@ S10,4,S10-Karnataka,4-Bijapur,8,SHRIDHAR NARAYANKAR,Aam Aadmi Party
 S10,4,S10-Karnataka,4-Bijapur,9,SATISH ASANGIHAL,Independent
 S10,4,S10-Karnataka,4-Bijapur,10,BHAGWAN KAMBALE,Republican Party of India (A)
 S10,4,S10-Karnataka,4-Bijapur,11,SUDHAKAR KANAMADI,Bahujan Samaj Party
-S10,4,S10-Karnataka,4-Bijapur,12,SIDDARAM KATTIMANI,Independent
 S10,4,S10-Karnataka,4-Bijapur,13,RAJU PADAGANUR,Independent
 S10,4,S10-Karnataka,4-Bijapur,14,K SHIVRAM,Janata Dal  (Secular)
-S10,4,S10-Karnataka,4-Bijapur,15,ANANDRAO ALIAS ANADU RATHOD ALIAS LAMANI,Independent
 S10,4,S10-Karnataka,4-Bijapur,16,HANMANTH HOLER,Independent
 S10,4,S10-Karnataka,4-Bijapur,17,RUDRAPPA CHALWADI,Independent
-S10,4,S10-Karnataka,4-Bijapur,18,CHIKKA VENKATAPPA,Janata Dal  (Secular)
-S10,5,S10-Karnataka,5-Gulbarga,1,SHANKAR JADHAV,Bharatiya Peoples Party
+S10,5,S10-Karnataka,5-Gulbarga,1,DHULAPPA GUNDAPPA,Janata Dal  (Secular)
 S10,5,S10-Karnataka,5-Gulbarga,2,MALLIKARJUN KHARGE,Indian National Congress
-S10,5,S10-Karnataka,5-Gulbarga,3,SHARANABASAPPA MALAKAJAPPA,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S10,5,S10-Karnataka,5-Gulbarga,4,BABURAO RAMLA NAYAK,Independent
+S10,5,S10-Karnataka,5-Gulbarga,3,MAHADEV BHIMSHA,Bahujan Samaj Party
+S10,5,S10-Karnataka,5-Gulbarga,4,REVASING LOKU,Bharatiya Janata Party
 S10,5,S10-Karnataka,5-Gulbarga,5,B.T.LALITHA NAIK,Aam Aadmi Party
-S10,5,S10-Karnataka,5-Gulbarga,6,DHULAPPA GUNDAPPA,Janata Dal  (Secular)
-S10,5,S10-Karnataka,5-Gulbarga,7,TIPPANNA BHEEMASHA,Janata Dal  (United)
-S10,5,S10-Karnataka,5-Gulbarga,8,REVASING LOKU,Bharatiya Janata Party
-S10,5,S10-Karnataka,5-Gulbarga,9,NARESH KUMAR KOLI,Independent
-S10,5,S10-Karnataka,5-Gulbarga,10,MAHADEV BHIMSHA,Bahujan Samaj Party
-S10,5,S10-Karnataka,5-Gulbarga,11,RAMU CHATRU,Independent
-S10,5,S10-Karnataka,5-Gulbarga,12,RAMESH DHANSINGH RATHOD,Independent
-S10,5,S10-Karnataka,5-Gulbarga,13,GOPI TIPPANNA CHOWHAN,Independent
-S10,5,S10-Karnataka,5-Gulbarga,14,GURUSHANTA PATTEDAR,Independent
-S10,5,S10-Karnataka,5-Gulbarga,15,SEETHARAM HEMLA RATHOD,Independent
-S10,5,S10-Karnataka,5-Gulbarga,16,KUPAVAT VENKATESHWARRAO,Independent
-S10,5,S10-Karnataka,5-Gulbarga,17,SYED SOPHI MAHMMEDSAB,Independent
+S10,5,S10-Karnataka,5-Gulbarga,6,SHARANABASAPPA MALAKAJAPPA,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S10,5,S10-Karnataka,5-Gulbarga,7,SHANKAR JADHAV,Bharatiya Peoples Party
+S10,5,S10-Karnataka,5-Gulbarga,8,RAMU CHATRU,Independent
 S10,6,S10-Karnataka,6-Raichur,1,K SOMASHEKAR,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
 S10,6,S10-Karnataka,6-Raichur,2,CHINNAYYANAYAK,Independent
 S10,6,S10-Karnataka,6-Raichur,3,BHIMARAYA,Aam Aadmi Party
 S10,6,S10-Karnataka,6-Raichur,4,NAGARAJ,Communist Party of India (Marxist-Leninist) Red Star
 S10,6,S10-Karnataka,6-Raichur,5,BHAGAVANTHRAY,Indian National Congress
 S10,6,S10-Karnataka,6-Raichur,6,RAJA THIMMAPPA NAYAK,Bahujan Samaj Party
-S10,6,S10-Karnataka,6-Raichur,7,NAGARAJ,Communist Party of India (Marxist-Leninist) Red Star
-S10,6,S10-Karnataka,6-Raichur,8,BHAGAVANTHRAY,Indian National Congress
-S10,6,S10-Karnataka,6-Raichur,9,DEVENDRAPPA NAYAK,Janata Dal  (Secular)
-S10,6,S10-Karnataka,6-Raichur,10,MARUTI,National Development Party
-S10,6,S10-Karnataka,6-Raichur,11,BHIMARAYA,Aam Aadmi Party
-S10,6,S10-Karnataka,6-Raichur,12,BHAGAVANTHRAY,Indian National Congress
-S10,6,S10-Karnataka,6-Raichur,13,BHAGAVANTHRAY,Indian National Congress
-S10,6,S10-Karnataka,6-Raichur,14,SHIVANAGAUDA,Bharatiya Janata Party
-S10,6,S10-Karnataka,6-Raichur,15,SHIVANAGAUDA,Bharatiya Janata Party
-S10,6,S10-Karnataka,6-Raichur,16,RANGANAYAK,Pyramid Party of India
-S10,6,S10-Karnataka,6-Raichur,17,DEVINDRAPPA NAYAK,Janata Dal  (Secular)
-S10,6,S10-Karnataka,6-Raichur,18,BHAGVANTAPPA,Lok Satta Party
-S10,6,S10-Karnataka,6-Raichur,19,K BASVANTHAPPA,Independent
-S10,6,S10-Karnataka,6-Raichur,20,K SOMASHEKHAR YADGIRI,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S10,6,S10-Karnataka,6-Raichur,21,K SOMASHEKHAR YADGIRI,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S10,6,S10-Karnataka,6-Raichur,22,YALLAYYA G PATIL,Independent
-S10,7,S10-Karnataka,7-Bidar,1,BABUPASHA S/O MAINODDIN,Independent
-S10,7,S10-Karnataka,7-Bidar,2,N. DHARAM SINGH S/O LATE. SRI NARAYAN SINGH,Indian National Congress
-S10,7,S10-Karnataka,7-Bidar,3,ABDUL HAMEED S/O MOHAMMED YUSUF,Welfare Party Of India
-S10,7,S10-Karnataka,7-Bidar,4,ZAMEERUDDIN S/O AMERUDDIN,National Development Party
-S10,7,S10-Karnataka,7-Bidar,5,SHAMANNA BAVGI S/O CHANDRAPPA BAVGI,Independent
-S10,7,S10-Karnataka,7-Bidar,6,PRABHU S/O RAMCHANDRAPPA,Independent
-S10,7,S10-Karnataka,7-Bidar,7,MIRZA SHAFEE BAIG S/O MIRZA AHMED BAIG,Independent
-S10,7,S10-Karnataka,7-Bidar,8,SUBHASH S/O BHIMASHA,Independent
-S10,7,S10-Karnataka,7-Bidar,9,KALLALINGA S/O ESHWARAPPA,Independent
-S10,7,S10-Karnataka,7-Bidar,10,SHAMALA W/O MALAPPA,Independent
-S10,7,S10-Karnataka,7-Bidar,11,MACHENDAR S/O SANGRAMAPPA,Independent
-S10,7,S10-Karnataka,7-Bidar,12,BANDEPPA S/O MANIKAPPA,Janata Dal  (Secular)
-S10,7,S10-Karnataka,7-Bidar,13,RAMESH S/O HANMANTHARAO,Ambedkar National Congress
-S10,7,S10-Karnataka,7-Bidar,14,SHANKER BHAYYA S/O HASANAPPA,Bahujan Samaj Party
-S10,7,S10-Karnataka,7-Bidar,15,ZUBAIR AHMED S/O MD MUKHTAR UDDIN,Akhil Bharatiya Muslim League (Secular)
-S10,7,S10-Karnataka,7-Bidar,16,CHANDRAKANT S/O AMBADAS RAO,Aam Aadmi Party
-S10,7,S10-Karnataka,7-Bidar,17,SYED WAHEED S/O SYED SHABBIR ALI,Bahujan Mukti Party
-S10,7,S10-Karnataka,7-Bidar,18,BHAGWANTH S/O GURUBASAPPA KHOBA,Bharatiya Janata Party
-S10,7,S10-Karnataka,7-Bidar,19,HASIM S/O RAJ AHMED SAB,Samajwadi Party
-S10,7,S10-Karnataka,7-Bidar,20,MUFTI SHAIK ABDUL GAFFAR S/O SHAIK ABDUL GANI,Independent
-S10,7,S10-Karnataka,7-Bidar,21,ISMAIL ZABI ULLAH S/O JANI MIYAN,Independent
-S10,7,S10-Karnataka,7-Bidar,22,BALBHEEM S/O PEERAPPA UNNE,Independent
-S10,7,S10-Karnataka,7-Bidar,23,M GOUSUDDIN S/O M TAMIJODDIN,Independent
-S10,7,S10-Karnataka,7-Bidar,25,SHIVRAJ S/O ADIVEPPA,Independent
-S10,7,S10-Karnataka,7-Bidar,26,BASHEER AHMED ALAM S/O MULTANI SAB,Independent
-S10,7,S10-Karnataka,7-Bidar,27,NAGANATH PATIL S/O SHYAM RAO PATIL,Independent
-S10,7,S10-Karnataka,7-Bidar,28,AMRUTAPPA S/O BASAPPA,Samajwadi Party
-S10,7,S10-Karnataka,7-Bidar,29,SHRAVAN S/O SANGONDA,Rashtriya Samaj Paksha
-S10,7,S10-Karnataka,7-Bidar,30,SIDDARAMAPPA S/O NAGAPPA,Independent
-S10,7,S10-Karnataka,7-Bidar,32,GOVIND S/O VISHWANATH BHAT,Samajwadi Party
-S10,7,S10-Karnataka,7-Bidar,33,M.RAFIK S/O ABDUL BASEED,Independent
-S10,7,S10-Karnataka,7-Bidar,34,ABRAHAM T.J S/O JOSEPH,Independent
-S10,7,S10-Karnataka,7-Bidar,35,JAVEED S/O SYED ABDUL  RASHEED,Independent
-S10,7,S10-Karnataka,7-Bidar,36,YESHWANTHRAO S/O SHIVARAYA HATTARAKI,Bharatiya Peoples Party
-S10,7,S10-Karnataka,7-Bidar,38,ABDUL KAREEM S/O MD. YASIN,Independent
-S10,7,S10-Karnataka,7-Bidar,40,RAMANNA S/O BHAGAPPA,Hindustan Janta Party
+S10,6,S10-Karnataka,6-Raichur,7,DEVINDRAPPA NAYAK,Janata Dal  (Secular)
+S10,6,S10-Karnataka,6-Raichur,8,MARUTI,National Development Party
+S10,6,S10-Karnataka,6-Raichur,9,SHIVANAGAUDA,Bharatiya Janata Party
+S10,6,S10-Karnataka,6-Raichur,10,RANGANAYAK,Pyramid Party of India
+S10,6,S10-Karnataka,6-Raichur,11,BHAGVANTAPPA,Lok Satta Party
+S10,7,S10-Karnataka,7-Bidar,1,N. DHARAM SINGH,Indian National Congress
+S10,7,S10-Karnataka,7-Bidar,2,BANDEPPA KHASHEMPUR,Janata Dal  (Secular)
+S10,7,S10-Karnataka,7-Bidar,3,BHAGWANTH,Bharatiya Janata Party
+S10,7,S10-Karnataka,7-Bidar,4,SHANKAR BHAYYA,Bahujan Samaj Party
+S10,7,S10-Karnataka,7-Bidar,5,ABDUL HAMEED FARAAN,Welfare Party Of India
+S10,7,S10-Karnataka,7-Bidar,6,GOVIND,Samajwadi Party
+S10,7,S10-Karnataka,7-Bidar,7,CHANDRAKANT,Aam Aadmi Party
+S10,7,S10-Karnataka,7-Bidar,8,RAMESH GAYKAWAD,Ambedkar National Congress
+S10,7,S10-Karnataka,7-Bidar,9,RAMANNA,Hindustan Janta Party
+S10,7,S10-Karnataka,7-Bidar,10,SHRAVANA S.BHANDE MUNGANAL,Rashtriya Samaj Paksha
+S10,7,S10-Karnataka,7-Bidar,11,SYED WAHEED,Bahujan Mukti Party
+S10,7,S10-Karnataka,7-Bidar,12,HATTARKI YASHWANTHRAO SHIVARAYA,Bharatiya Peoples Party
+S10,7,S10-Karnataka,7-Bidar,13,ISMAIL ZABI ULLAH,Independent
+S10,7,S10-Karnataka,7-Bidar,14,KALLALINGA HUGAR NELOGI,Independent
+S10,7,S10-Karnataka,7-Bidar,15,NAGANATH PATIL,Independent
+S10,7,S10-Karnataka,7-Bidar,16,PRABHU,Independent
+S10,7,S10-Karnataka,7-Bidar,17,BALBHEEM,Independent
+S10,7,S10-Karnataka,7-Bidar,18,BABU PASHA,Independent
+S10,7,S10-Karnataka,7-Bidar,19,MACHENDAR,Independent
+S10,7,S10-Karnataka,7-Bidar,20,MIRZA SHAFEE BAIG,Independent
+S10,7,S10-Karnataka,7-Bidar,21,MOHAMED RAFIQ,Independent
+S10,7,S10-Karnataka,7-Bidar,22,SHAMALA.M.UDANOOR,Independent
+S10,7,S10-Karnataka,7-Bidar,23,SIDDARAMAPPA NAGAPPA KARABASTI CHINCHANSOOR,Independent
+S10,7,S10-Karnataka,7-Bidar,24,SUBHASH BHIMSHA SINDANKERA,Independent
 S10,8,S10-Karnataka,8-Koppal,1,V GOVIND,Independent
 S10,8,S10-Karnataka,8-Koppal,2,SURESH,Independent
 S10,8,S10-Karnataka,8-Koppal,3,SURESH,Bharatiya Janata Party
-S10,9,S10-Karnataka,9-Bellary,1,A. DEVADAS,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S10,9,S10-Karnataka,9-Bellary,2,N B KRISHNAPPA NAYAKA,Independent
-S10,9,S10-Karnataka,9-Bellary,3,N R MALLAIAH SWAMY,Independent
-S10,9,S10-Karnataka,9-Bellary,4,G NATARAJA,Independent
-S10,9,S10-Karnataka,9-Bellary,5,K RAGHAVENDRA,Pyramid Party of India
+S10,8,S10-Karnataka,8-Koppal,4,D H PUJAR,Communist Party of India (Marxist-Leninist) Red Star
+S10,8,S10-Karnataka,8-Koppal,5,K BASAVARAJ,Indian National Congress
+S10,8,S10-Karnataka,8-Koppal,6,K BASAVARAJ,Indian National Congress
+S10,8,S10-Karnataka,8-Koppal,7,SANGANNA,Bharatiya Janata Party
+S10,8,S10-Karnataka,8-Koppal,8,V GOVIND,Independent
+S10,8,S10-Karnataka,8-Koppal,9,BHARADWAJ,Communist Party of India  (Marxist-Leninist)  (Liberation)
+S10,8,S10-Karnataka,8-Koppal,10,SANGANNA,Bharatiya Janata Party
+S10,8,S10-Karnataka,8-Koppal,11,SHIVAKUMAR,Aam Aadmi Party
+S10,8,S10-Karnataka,8-Koppal,12,K BASAVARAJ,Indian National Congress
+S10,8,S10-Karnataka,8-Koppal,13,K BASAVARAJ,Indian National Congress
+S10,8,S10-Karnataka,8-Koppal,14,SRI NAGARAJ  H,Independent
+S10,8,S10-Karnataka,8-Koppal,15,SRI NAGARAJ  H,Independent
+S10,8,S10-Karnataka,8-Koppal,16,RAMESH KOTI,Republican Party of India
+S10,8,S10-Karnataka,8-Koppal,17,K M RANGANATH REDDY,Samajwadi Party
+S10,8,S10-Karnataka,8-Koppal,18,BHARADWAJ,Communist Party of India  (Marxist-Leninist)  (Liberation)
+S10,8,S10-Karnataka,8-Koppal,19,ISAKA,Independent
+S10,8,S10-Karnataka,8-Koppal,20,H R CHENNAKESHAVA,Bharatiya Janata Party
+S10,8,S10-Karnataka,8-Koppal,21,D DURGA PRASAD,Independent
+S10,8,S10-Karnataka,8-Koppal,22,G ANNOJI,Independent
+S10,8,S10-Karnataka,8-Koppal,23,NAZIR HUSSAIN,Rashtriya Krantikari Samajwadi Party
+S10,8,S10-Karnataka,8-Koppal,24,MANOHAR,Independent
+S10,8,S10-Karnataka,8-Koppal,25,SANGANNA,Bharatiya Janata Party
+S10,8,S10-Karnataka,8-Koppal,26,SANGANNA,Bharatiya Janata Party
+S10,8,S10-Karnataka,8-Koppal,27,P GOVINDAREDDY,Independent
+S10,9,S10-Karnataka,9-Bellary,1,A. DEVDAS,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S10,9,S10-Karnataka,9-Bellary,2,N.B. KRISHNAPPA NAYAKA,Independent
+S10,9,S10-Karnataka,9-Bellary,3,N.R. MALLAYYA SWAMY,Independent
+S10,9,S10-Karnataka,9-Bellary,5,K. RAGHAVENDRA,Pyramid Party of India
 S10,9,S10-Karnataka,9-Bellary,6,DODDAMANI PRASAD,Communist Party of India  (Marxist-Leninist)  (Liberation)
-S10,9,S10-Karnataka,9-Bellary,7,RAMUDU,Bahujan Samaj Party
+S10,9,S10-Karnataka,9-Bellary,7,B. RAMUDU (ADDIGERI RAMANNA),Bahujan Samaj Party
 S10,9,S10-Karnataka,9-Bellary,8,MALAGI SHIVAKUMAR GIRIYAPPA,Aam Aadmi Party
-S10,9,S10-Karnataka,9-Bellary,9,N Y HANUMANTAPPA,Indian National Congress
-S10,9,S10-Karnataka,9-Bellary,10,B SREERAMULU,Bharatiya Janata Party
-S10,9,S10-Karnataka,9-Bellary,11,N Y GOPALAKRISHNA,Indian National Congress
-S10,9,S10-Karnataka,9-Bellary,12,R RAVINDRA KUMAR,Janata Dal  (Secular)
-S10,9,S10-Karnataka,9-Bellary,13,S BHEEMAPPA,Communist Party of India (Marxist-Leninist) Red Star
-S10,9,S10-Karnataka,9-Bellary,14,B SRINIVASULU,Bharatiya Janata Party
-S10,10,S10-Karnataka,10-Haveri,1,SHIVAKUMAR CHANNABASAPPA UDASI,Bharatiya Janata Party
-S10,10,S10-Karnataka,10-Haveri,2,RAVI BASAVANNEPPA MENASINAKAI,Janata Dal  (Secular)
-S10,10,S10-Karnataka,10-Haveri,3,SALEEM AZEEZ AHMED,Indian National Congress
-S10,10,S10-Karnataka,10-Haveri,4,HALAPPA DODDANEELAPPA TIMMENAHALLI,Bahujan Samaj Party
-S10,10,S10-Karnataka,10-Haveri,5,D PRASAD SANGAPPA,Republican Party of India (A)
+S10,9,S10-Karnataka,9-Bellary,9,N.Y. HANUMANTAPPA,Indian National Congress
+S10,9,S10-Karnataka,9-Bellary,10,B. SREERAMULU,Bharatiya Janata Party
+S10,9,S10-Karnataka,9-Bellary,12,R. RAVINAYAKA,Janata Dal  (Secular)
+S10,9,S10-Karnataka,9-Bellary,13,COMRADE S. BHEEMAPPA,Communist Party of India (Marxist-Leninist) Red Star
+S10,9,S10-Karnataka,9-Bellary,15,G. NATARAJA,Karunaadu Party
+S10,10,S10-Karnataka,10-Haveri,1,UDASI SHIVAKUMAR CHANNABASAPPA,Bharatiya Janata Party
+S10,10,S10-Karnataka,10-Haveri,2,RAVI  MENASINAKAI,Janata Dal  (Secular)
+S10,10,S10-Karnataka,10-Haveri,3,SALEEM  AHMED,Indian National Congress
+S10,10,S10-Karnataka,10-Haveri,4,HALAPPA  TIMMENAHALLI,Bahujan Samaj Party
+S10,10,S10-Karnataka,10-Haveri,5,D PRASAD,Republican Party of India (A)
 S10,10,S10-Karnataka,10-Haveri,6,BASAVANTEPPA HONNAPPA HULLATTI,Sarva Janata Party
-S10,10,S10-Karnataka,10-Haveri,7,MADAN GANGAPPA HITTANAGI,Karunaadu Party
-S10,10,S10-Karnataka,10-Haveri,8,HASAN ALI SIRQUAZI,Aam Aadmi Party
-S10,10,S10-Karnataka,10-Haveri,9,SURESH MAHARUDRAPPA MUNDARGI,Rani Chennamma Party
-S10,10,S10-Karnataka,10-Haveri,10,ABDULRAHAMAN BILLORI,Independent
-S10,10,S10-Karnataka,10-Haveri,11,ASHOKAPPA MALLAPPA JAVALI,Independent
-S10,10,S10-Karnataka,10-Haveri,12,VERABHADRAPPA VEERAPPA KABBINAD,Independent
-S10,10,S10-Karnataka,10-Haveri,13,KUBER VASUDEV SUBBAJI,Independent
-S10,10,S10-Karnataka,10-Haveri,14,GIRISHGOUDA CHANNABASANAGOUDA BISTANAGOUDAR,Independent
-S10,10,S10-Karnataka,10-Haveri,15,KULKARNI CHANDRASHEKHARAYYA GURULINGAYYA,Independent
-S10,10,S10-Karnataka,10-Haveri,16,JAGADISH MALLESHAPPA YALIGAR,Independent
-S10,10,S10-Karnataka,10-Haveri,17,B.M.JAYADEV MATHAD,Independent
-S10,10,S10-Karnataka,10-Haveri,18,SHAKILABANU JAHANGIRBABA DARAGAD,Independent
-S10,10,S10-Karnataka,10-Haveri,19,VIRUPAKSHAPPA BHARAMAPPA BIDARAGADDI,Independent
-S10,10,S10-Karnataka,10-Haveri,20,MEHABOOBKHAN HAKANKHAN PATHAN,Independent
-S10,10,S10-Karnataka,10-Haveri,21,MOHAN DUNDEPPA NANNURI,Independent
-S10,10,S10-Karnataka,10-Haveri,22,RUDRESH RAMANNA HADAGALI,Independent
-S10,10,S10-Karnataka,10-Haveri,23,SHIDDAPPA KALLAPPA PUJAR,Independent
-S10,10,S10-Karnataka,10-Haveri,24,SHIVAKUMAR M CHAKARI URF TALAWAR,Independent
-S10,10,S10-Karnataka,10-Haveri,25,HANUMANTAPPA KABBAR,Independent
-S10,11,S10-Karnataka,11-Dharwad,1,GANGADHAR S. BADIGER,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S10,11,S10-Karnataka,11-Dharwad,2,SANJAY KOTHARI,Aam Aadmi Party
-S10,11,S10-Karnataka,11-Dharwad,3,SHAILENDRA KUMAR PATIL,Independent
-S10,11,S10-Karnataka,11-Dharwad,4,P.Y.HEMANTKUMAR,Aam Aadmi Party
-S10,11,S10-Karnataka,11-Dharwad,5,SHREEKANT KABADI,Independent
-S10,11,S10-Karnataka,11-Dharwad,6,ANANDARAJ DOKKA,Independent
-S10,11,S10-Karnataka,11-Dharwad,7,PRALHAD JOSHI,Bharatiya Janata Party
-S10,11,S10-Karnataka,11-Dharwad,8,RAJASHEKARAYYA KANTIMATH,Independent
-S10,11,S10-Karnataka,11-Dharwad,9,IRAPPA HARIJAN,Independent
-S10,11,S10-Karnataka,11-Dharwad,10,VINAY KULKARNI,Indian National Congress
-S10,11,S10-Karnataka,11-Dharwad,11,IMAMSAB. TORAGAL.,Independent
-S10,11,S10-Karnataka,11-Dharwad,12,TAKAPPA YALLAPPA KALAL. (KATIK),Independent
-S10,11,S10-Karnataka,11-Dharwad,13,HANAMANTAPPA METI,Independent
-S10,11,S10-Karnataka,11-Dharwad,14,IRASHADBEGUM. ADHONI.,Independent
-S10,11,S10-Karnataka,11-Dharwad,15,GURUSHANTAPPA CHALWADI,Republican Party of India
-S10,11,S10-Karnataka,11-Dharwad,16,MARUTI RAMAPPA HANASI,Independent
-S10,11,S10-Karnataka,11-Dharwad,17,SHAKIL DODAWAD,Independent
-S10,11,S10-Karnataka,11-Dharwad,18,HANUMANTAPPA MALLAPPA BANKAPUR,Janata Dal  (Secular)
-S10,11,S10-Karnataka,11-Dharwad,19,VIKAS BASAVANTAPPA SOPPIN,Independent
-S10,11,S10-Karnataka,11-Dharwad,20,PRAMOD MUTALIK.,Independent
-S10,11,S10-Karnataka,11-Dharwad,21,RAJU KAMBLE,Independent
+S10,10,S10-Karnataka,10-Haveri,7,HASAN ALI SIRQUAZI,Aam Aadmi Party
+S10,10,S10-Karnataka,10-Haveri,8,SURESH MAHARUDRAPPA MUNDARGI,Rani Chennamma Party
+S10,10,S10-Karnataka,10-Haveri,9,VERABHADRAPPA VEERAPPA KABBINAD,Independent
+S10,10,S10-Karnataka,10-Haveri,10,KUBER VASUDEV SUBBAJI,Independent
+S10,10,S10-Karnataka,10-Haveri,11,GIRISHGOUDA CHANNABASANAGOUDA BISTANAGOUDAR,Independent
+S10,10,S10-Karnataka,10-Haveri,12,KULKARNI CHANDRASHEKHARAYYA GURULINGAYYA,Independent
+S10,10,S10-Karnataka,10-Haveri,13,B.M.JAYADEV MATHAD,Independent
+S10,10,S10-Karnataka,10-Haveri,14,VIRUPAKSHAPPA BHARAMAPPA BIDARAGADDI,Independent
+S10,10,S10-Karnataka,10-Haveri,15,MEHABOOBKHAN HAKANKHAN PATHAN,Independent
+S10,10,S10-Karnataka,10-Haveri,16,RUDRESH RAMANNA HADAGALI,Independent
+S10,10,S10-Karnataka,10-Haveri,17,SHIDDAPPA KALLAPPA PUJAR,Independent
+S10,10,S10-Karnataka,10-Haveri,18,SHIVAKUMAR M CHAKARI URF TALAWAR,Independent
+S10,10,S10-Karnataka,10-Haveri,19,HANUMANTAPPA KABBAR,Independent
+S10,11,S10-Karnataka,11-Dharwad,1,IRAPPA BHARAMAPPA MADAR,Bahujan Samaj Party
+S10,11,S10-Karnataka,11-Dharwad,2,PRALHAD JOSHI,Bharatiya Janata Party
+S10,11,S10-Karnataka,11-Dharwad,3,BANKAPUR. HANUMANTHAPPA MALLAPPA,Janata Dal  (Secular)
+S10,11,S10-Karnataka,11-Dharwad,4,VINAY KULKARNI,Indian National Congress
+S10,11,S10-Karnataka,11-Dharwad,5,GANGADHAR S. BADIGER,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S10,11,S10-Karnataka,11-Dharwad,6,GURUSHANTAPPA H. CHALAVADI.,Republican Party of India (A)
+S10,11,S10-Karnataka,11-Dharwad,7,HEMANT KUMAR,Aam Aadmi Party
+S10,11,S10-Karnataka,11-Dharwad,8,IMAMSAB MEHBOOBSAB TORGAL.,Independent
+S10,11,S10-Karnataka,11-Dharwad,9,IRSHAD BEGAM ADHONI.,Independent
+S10,11,S10-Karnataka,11-Dharwad,10,DOKKA ANANDARAJ,Independent
+S10,11,S10-Karnataka,11-Dharwad,11,PRAMOD HANUMANTHARAO MUTHALIK,Independent
+S10,11,S10-Karnataka,11-Dharwad,12,MARUTI RAMAPPA HANASI,Independent
+S10,11,S10-Karnataka,11-Dharwad,13,VIKAS B. SOPPIN,Independent
+S10,11,S10-Karnataka,11-Dharwad,14,SHAKEEL ABDULSATTAR DODWAD,Independent
+S10,11,S10-Karnataka,11-Dharwad,15,SHREEKANT KABADI,Independent
+S10,11,S10-Karnataka,11-Dharwad,16,SHAILENDRA PATIL,Independent
+S10,11,S10-Karnataka,11-Dharwad,17,SANJAY KOTHARI,Independent
 S10,12,S10-Karnataka,12-Uttara Kannada,1,ANANTKUMAR HEGDE,Bharatiya Janata Party
-S10,12,S10-Karnataka,12-Uttara Kannada,2,HADAPAD BASAVARAJ,Rani Chennamma Party
-S10,12,S10-Karnataka,12-Uttara Kannada,3,NAIK SHIVANAND NARAYAN,Janata Dal  (Secular)
-S10,12,S10-Karnataka,12-Uttara Kannada,4,NAIK SANTOSH OMU,Bahujan Samaj Party
-S10,12,S10-Karnataka,12-Uttara Kannada,5,ELIYA KATI,Sarva Janata Party
-S10,12,S10-Karnataka,12-Uttara Kannada,6,RAGHAVENDRA KRISHNARAO THANE,Aam Aadmi Party
-S10,12,S10-Karnataka,12-Uttara Kannada,7,SADANAND DESHBHANDARI,Independent
+S10,12,S10-Karnataka,12-Uttara Kannada,2,NAIK SANTOSH OMU,Bahujan Samaj Party
+S10,12,S10-Karnataka,12-Uttara Kannada,3,DESHPANDE PRASHANTH,Indian National Congress
+S10,12,S10-Karnataka,12-Uttara Kannada,4,ELIYA KATI,Sarva Janata Party
+S10,12,S10-Karnataka,12-Uttara Kannada,5,OLWIN MARIYAN LOPIS,Bahujan Mukti Party
+S10,12,S10-Karnataka,12-Uttara Kannada,6,HADAPAD BASAVARAJ,Rani Chennamma Party
+S10,12,S10-Karnataka,12-Uttara Kannada,7,RAGHAVENDRA KRISHNARAO THANE,Aam Aadmi Party
 S10,12,S10-Karnataka,12-Uttara Kannada,8,CHALAWADI ASHOK SAHADEVAPPA,Independent
-S10,12,S10-Karnataka,12-Uttara Kannada,9,OLWIN MARIYAN LOPIS,Bahujan Mukti Party
-S10,12,S10-Karnataka,12-Uttara Kannada,10,DESHPANDE PRASHANTH,Indian National Congress
-S10,13,S10-Karnataka,13-Davanagere,1,G M SIDDESHWARA,Bharatiya Janata Party
-S10,13,S10-Karnataka,13-Davanagere,3,SUBHAN KHAN,Aam Aadmi Party
+S10,12,S10-Karnataka,12-Uttara Kannada,9,SADANAND DESHBHANDARI,Independent
+S10,13,S10-Karnataka,13-Davanagere,1,G M SIDDESWARA,Bharatiya Janata Party
 S10,13,S10-Karnataka,13-Davanagere,4,G.C.PATEL,Sarva Janata Party
 S10,13,S10-Karnataka,13-Davanagere,7,S.S. MALLIKARJUN,Indian National Congress
 S10,13,S10-Karnataka,13-Davanagere,11,DR.SRIDHAR UDUPA,Independent
-S10,13,S10-Karnataka,13-Davanagere,12,ALUR M.G. SWAMY,Independent
 S10,13,S10-Karnataka,13-Davanagere,13,B. GNANAPRAKASH,Independent
 S10,13,S10-Karnataka,13-Davanagere,15,NAGARAJAPPA,Independent
 S10,13,S10-Karnataka,13-Davanagere,17,DADA KHALANDAR B,Independent
 S10,13,S10-Karnataka,13-Davanagere,18,BASAVARAJ K.J.,Aam Aadmi Party
 S10,13,S10-Karnataka,13-Davanagere,19,H.K. RAMACHANDRAPPA,Communist Party of India
 S10,13,S10-Karnataka,13-Davanagere,20,MAHIMA J PATEL,Janata Dal  (Secular)
-S10,13,S10-Karnataka,13-Davanagere,22,RAMESH HULI,Karunaadu Party
-S10,13,S10-Karnataka,13-Davanagere,23,RAMESH HULI,Independent
 S10,13,S10-Karnataka,13-Davanagere,24,PARUSHURAMAPPA,Communist Party of India
 S10,13,S10-Karnataka,13-Davanagere,25,G.M.SIDDESH,Independent
-S10,13,S10-Karnataka,13-Davanagere,26,G.M. SIDDESWARA,Bharatiya Janata Party
-S10,13,S10-Karnataka,13-Davanagere,27,G.S. GAYITHRI,Bharatiya Janata Party
-S10,13,S10-Karnataka,13-Davanagere,28,H.NAGARA PALEGARA,Independent
 S10,13,S10-Karnataka,13-Davanagere,29,SIDDESH,Independent
 S10,13,S10-Karnataka,13-Davanagere,30,H.K. RAMACHANDRAPPA,Communist Party of India
 S10,13,S10-Karnataka,13-Davanagere,31,A.K.PARASHURAM,Bahujan Samaj Party
-S10,13,S10-Karnataka,13-Davanagere,32,YOGESH RAO SHINDHE,Independent
 S10,13,S10-Karnataka,13-Davanagere,33,K SYED ZABIULLA,Independent
-S10,13,S10-Karnataka,13-Davanagere,37,C RUDRAPPA,Bharatiya Janata Party
-S10,13,S10-Karnataka,13-Davanagere,40,H. ESHWARAPPA,Independent
 S10,13,S10-Karnataka,13-Davanagere,41,SUBHAN KHAN,Independent
-S10,13,S10-Karnataka,13-Davanagere,42,K SHIVALINGAPPA,Independent
-S10,13,S10-Karnataka,13-Davanagere,43,B GANGADHARANAIK,Independent
-S10,13,S10-Karnataka,13-Davanagere,44,M RANGANATHSWAMY,Independent
-S10,13,S10-Karnataka,13-Davanagere,46,M.S. MALLIKARJUNA,Independent
 S10,13,S10-Karnataka,13-Davanagere,47,H.K. KENCHVEERAPPA,Vichara Jagruthi Congress Paksha
-S10,13,S10-Karnataka,13-Davanagere,48,C RUDRAPPA,Independent
-S10,14,S10-Karnataka,14-Shimoga,1,V. MANJUNATHA BHANDARY,Indian National Congress
-S10,14,S10-Karnataka,14-Shimoga,2,B. S. YEDDYURAPPA,Bharatiya Janata Party
-S10,14,S10-Karnataka,14-Shimoga,3,ANIL.M.R,Independent
-S10,14,S10-Karnataka,14-Shimoga,4,K.G. SREEDHAR,Aam Aadmi Party
-S10,14,S10-Karnataka,14-Shimoga,5,GEETHA  SHIVARAJKUMAR,Janata Dal  (Secular)
-S10,14,S10-Karnataka,14-Shimoga,6,J.S. CHIDANANDA GOWDA,Independent
-S10,14,S10-Karnataka,14-Shimoga,7,B. DHARMAPPA,Janata Dal  (United)
-S10,14,S10-Karnataka,14-Shimoga,8,DR.H.T. CHIDANANDA,Independent
-S10,14,S10-Karnataka,14-Shimoga,9,H.S. SHEKARAPPA,Independent
-S10,14,S10-Karnataka,14-Shimoga,10,SHRILATHA SHETTY,Independent
-S10,14,S10-Karnataka,14-Shimoga,11,B.K. SHASHI KUMAR,Karunaadu Party
+S10,14,S10-Karnataka,14-Shimoga,1,KUNAJE  MANJUNATHA  GOWDA,Bahujan Samaj Party
+S10,14,S10-Karnataka,14-Shimoga,2,GEETHA  SHIVARAJKUMAR,Janata Dal  (Secular)
+S10,14,S10-Karnataka,14-Shimoga,3,V. MANJUNATHA BHANDARY,Indian National Congress
+S10,14,S10-Karnataka,14-Shimoga,4,B. S. YEDDYURAPPA,Bharatiya Janata Party
+S10,14,S10-Karnataka,14-Shimoga,5,B. DHARMAPPA,Janata Dal  (United)
+S10,14,S10-Karnataka,14-Shimoga,6,FAYAZ AHAMED   ALIAS   MOHAMMAD FAYAZ AHAMAD,Sarva Janata Party
+S10,14,S10-Karnataka,14-Shimoga,7,B.K. SHASHI KUMAR,Karunaadu Party
+S10,14,S10-Karnataka,14-Shimoga,8,K.G. SREEDHAR,Aam Aadmi Party
+S10,14,S10-Karnataka,14-Shimoga,9,ANIL.M.R,Independent
+S10,14,S10-Karnataka,14-Shimoga,10,M.S. MAINUDDIN,Independent
+S10,14,S10-Karnataka,14-Shimoga,11,SHRILATHA SHETTY,Independent
 S10,14,S10-Karnataka,14-Shimoga,12,S. SATISH SALIAN,Independent
-S10,14,S10-Karnataka,14-Shimoga,13,KUNAJE  MANJUNATHA  GOWDA,Bahujan Samaj Party
-S10,14,S10-Karnataka,14-Shimoga,14,FAYAZ AHAMED   ALIAS   MOHAMMAD FAYAZ AHAMAD,Sarva Janata Party
-S10,14,S10-Karnataka,14-Shimoga,15,SHIVARUDRAIAH  SWAMY,Janata Dal  (United)
-S10,14,S10-Karnataka,14-Shimoga,16,H.  SURESH POOJARI,Independent
-S10,14,S10-Karnataka,14-Shimoga,17,D.S. ESHWARAPPA,Independent
-S10,14,S10-Karnataka,14-Shimoga,18,M.S. MAINUDDIN,Independent
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,1,SHOBHA KARANDLAJE,Bharatiya Janata Party
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,2,V. DHANANJAYA KUMAR,Janata Dal  (Secular)
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,4,VIJAYA KUMAR,Communist Party of India
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,6,SUNDAR KUMAR,Independent
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,7,ZAKIR HUSSAIN,Bahujan Samaj Party
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,8,SHRIKANTH B ACHARYA,Independent
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,9,GURUDEVA S  H,Aam Aadmi Party
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,10,C J JAGANNATH,Communist Party of India (Marxist-Leninist) Red Star
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,11,V DHANANJAYA,Independent
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,12,JAYAPRAKASH HEGDE,Indian National Congress
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,16,M D MAINUDDIN KHAN ALIAS ASFIYA,Independent
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,20,MANJUNATHA G,Independent
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,22,SRINIVASA,Independent
-S10,15,S10-Karnataka,15-Udupi Chikmagalur,23,SUDHEER KANCHAN,Independent
+S10,14,S10-Karnataka,14-Shimoga,13,H.  SURESH POOJARI,Independent
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,1,K JAYAPRAKASH HEGDE,Indian National Congress
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,2,ZAKIR HUSSAIN,Bahujan Samaj Party
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,3,V. DHANANJAYA KUMAR,Janata Dal  (Secular)
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,4,S VIJAYA KUMAR,Communist Party of India
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,5,SHOBHA KARANDLAJE,Bharatiya Janata Party
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,6,GURUDEVA S  H,Aam Aadmi Party
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,7,COMRADE C J JAGANNATH,Communist Party of India (Marxist-Leninist) Red Star
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,8,M D MAINUDDIN KHAN ALIAS ASFIYA,Independent
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,9,MANJUNATHA G,Independent
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,10,SRINIVASA POOJARY,Independent
+S10,15,S10-Karnataka,15-Udupi Chikmagalur,11,SUDHEER KANCHAN,Independent
 S10,16,S10-Karnataka,16-Hassan,1,DR. BANUPRAKASH. K,Independent
-S10,16,S10-Karnataka,16-Hassan,2,ABRAHAM . T. J,Independent
-S10,16,S10-Karnataka,16-Hassan,3,B.T. GIRISH,Hindustan Janta Party
 S10,16,S10-Karnataka,16-Hassan,4,C.H. VIJAYASHANKAR,Bharatiya Janata Party
 S10,16,S10-Karnataka,16-Hassan,5,M.MAHESH ALIAS HARSHA,Independent
 S10,16,S10-Karnataka,16-Hassan,6,SANTHOSHMOHANA,Aam Aadmi Party
-S10,16,S10-Karnataka,16-Hassan,7,PUTTAIAH,Independent
 S10,16,S10-Karnataka,16-Hassan,8,H.D. DEVEGOWDA,Janata Dal  (Secular)
-S10,16,S10-Karnataka,16-Hassan,9,MANJUNATHA,Independent
-S10,16,S10-Karnataka,16-Hassan,10,K.R. GANGADHARAPPA,Lok Satta Party
-S10,16,S10-Karnataka,16-Hassan,11,USHA.H.J.,Independent
+S10,16,S10-Karnataka,16-Hassan,9,MANJUNATHA,Bharatiya Dr. B.R.Ambedkar Janta Party
 S10,16,S10-Karnataka,16-Hassan,12,H.D. REVANNA,Karunaadu Party
 S10,16,S10-Karnataka,16-Hassan,13,T.D. JAGADEESH,Independent
 S10,16,S10-Karnataka,16-Hassan,14,A.P. AHAMAD,Bahujan Samaj Party
@@ -626,72 +532,51 @@ S10,16,S10-Karnataka,16-Hassan,15,JAVARAIAH,Independent
 S10,16,S10-Karnataka,16-Hassan,16,S.N. MALLAPPA,Independent
 S10,16,S10-Karnataka,16-Hassan,17,RAJEGOWDA S.B ALIAS ANNAPPASWAMY,Independent
 S10,16,S10-Karnataka,16-Hassan,18,MANJU. A.,Indian National Congress
-S10,16,S10-Karnataka,16-Hassan,19,HO.TI. HUCCHAPPA,Independent
-S10,16,S10-Karnataka,16-Hassan,20,KEMPAIAH,Independent
-S10,16,S10-Karnataka,16-Hassan,21,M. RAMAIAH,Independent
 S10,16,S10-Karnataka,16-Hassan,22,RUDREGOWDA,Jai Vijaya Bharathi Party
-S10,16,S10-Karnataka,16-Hassan,23,SHIVANANDA,Independent
-S10,17,S10-Karnataka,17-Dakshina Kannada,1,NALINKUMAR KATEEL,Bharatiya Janata Party
-S10,17,S10-Karnataka,17-Dakshina Kannada,2,SUPREETH KUMAR POOJARI,Nationalist Congress Party
-S10,17,S10-Karnataka,17-Dakshina Kannada,3,IRUVAIL CHANDRAHAS SHETTY,Independent
-S10,17,S10-Karnataka,17-Dakshina Kannada,4,MARPALLI RAMIAH VASUDEVA,Aam Aadmi Party
-S10,17,S10-Karnataka,17-Dakshina Kannada,5,SUDATTA,Independent
-S10,17,S10-Karnataka,17-Dakshina Kannada,6,K YADAVA SHETTY,Communist Party of India  (Marxist)
-S10,17,S10-Karnataka,17-Dakshina Kannada,7,MOHAMMED HANEEF KHAN,SOCIAL DEMOCRATIC PARTY OF INDIA
-S10,17,S10-Karnataka,17-Dakshina Kannada,8,MOOSE KUNHI,Bahujan Samaj Party
-S10,17,S10-Karnataka,17-Dakshina Kannada,9,MOHAMMED AKRAM,SOCIAL DEMOCRATIC PARTY OF INDIA
-S10,17,S10-Karnataka,17-Dakshina Kannada,10,MAXIM PINTO,Independent
-S10,17,S10-Karnataka,17-Dakshina Kannada,11,ABDUL HAMEED,Independent
-S10,17,S10-Karnataka,17-Dakshina Kannada,12,K. KUSHALA BELLARE,Independent
-S10,17,S10-Karnataka,17-Dakshina Kannada,13,JANARDHANA POOJARY,Indian National Congress
-S10,17,S10-Karnataka,17-Dakshina Kannada,14,ANANDA GATTY,Independent
-S10,17,S10-Karnataka,17-Dakshina Kannada,15,DEEPAK RAJESH COELHO,Independent
-S10,17,S10-Karnataka,17-Dakshina Kannada,16,SUBRAMANYA,Independent
-S10,17,S10-Karnataka,17-Dakshina Kannada,17,K.N. SOMASHEKAR,Independent
-S10,17,S10-Karnataka,17-Dakshina Kannada,18,SUPREETH KUMAR POOJARY,Hindustan Janta Party
-S10,18,S10-Karnataka,18-Chitradurga,1,T.SOMESH,Independent
-S10,18,S10-Karnataka,18-Chitradurga,2,GULLIHATTY.D.SHEKHAR,Janata Dal  (Secular)
-S10,18,S10-Karnataka,18-Chitradurga,3,JANARDHANA SWAMY,Bharatiya Janata Party
-S10,18,S10-Karnataka,18-Chitradurga,4,B.N.CHANDRAPPA,Indian National Congress
-S10,18,S10-Karnataka,18-Chitradurga,5,DR.PARAMESH G.S,Independent
-S10,18,S10-Karnataka,18-Chitradurga,6,RAJAGIRI T.D,Bahujan Samaj Party
-S10,18,S10-Karnataka,18-Chitradurga,7,T. DAYANANDA,Independent
-S10,18,S10-Karnataka,18-Chitradurga,8,MANJUNATH K.S,Independent
-S10,18,S10-Karnataka,18-Chitradurga,9,T.BHAVANA,Independent
-S10,18,S10-Karnataka,18-Chitradurga,10,MOHANA DASARI,Aam Aadmi Party
-S10,18,S10-Karnataka,18-Chitradurga,11,N.S. MANJUNATHA NERENAHAL,Independent
-S10,18,S10-Karnataka,18-Chitradurga,12,B. THIPPESWAMY J.J.HATTI,Independent
-S10,18,S10-Karnataka,18-Chitradurga,13,GANESHA,Independent
-S10,18,S10-Karnataka,18-Chitradurga,14,S. MEETYANAIK,Samajwadi Party
-S10,18,S10-Karnataka,18-Chitradurga,15,M. KUMBHAIAH,Janata Dal  (United)
-S10,18,S10-Karnataka,18-Chitradurga,16,H. SIDDAGANGAPPA,Ambedkar National Congress
-S10,18,S10-Karnataka,18-Chitradurga,17,SRI BASAVANAGIDEVA SHARANARU,Independent
-S10,18,S10-Karnataka,18-Chitradurga,18,K.G. PURUSHOTTAMA NAIK,Karnataka Jantha Paksha
-S10,18,S10-Karnataka,18-Chitradurga,19,G.T. SURESH KUMAR,Republican Party of India (A)
+S10,17,S10-Karnataka,17-Dakshina Kannada,1,JANARDHANA POOJARY,Indian National Congress
+S10,17,S10-Karnataka,17-Dakshina Kannada,2,NALIN KUMAR KATEEL,Bharatiya Janata Party
+S10,17,S10-Karnataka,17-Dakshina Kannada,3,MOOSE KUNHI ALIAS ABDUL KAREEM,Bahujan Samaj Party
+S10,17,S10-Karnataka,17-Dakshina Kannada,4,K YADAVA SHETTY,Communist Party of India  (Marxist)
+S10,17,S10-Karnataka,17-Dakshina Kannada,5,M. R. VASUDEVA,Aam Aadmi Party
+S10,17,S10-Karnataka,17-Dakshina Kannada,6,SUPREETH KUMAR POOJARY,Hindustan Janta Party
+S10,17,S10-Karnataka,17-Dakshina Kannada,7,HANEEF KHAN KODAJE,SOCIAL DEMOCRATIC PARTY OF INDIA
+S10,17,S10-Karnataka,17-Dakshina Kannada,8,ADVOCATE ANANDA GATTY,Independent
+S10,17,S10-Karnataka,17-Dakshina Kannada,9,K. KUSHALA BELLARE,Independent
+S10,17,S10-Karnataka,17-Dakshina Kannada,10,DEEPAK RAJESH COELHO,Independent
+S10,17,S10-Karnataka,17-Dakshina Kannada,11,MAXIM PINTO,Independent
+S10,17,S10-Karnataka,17-Dakshina Kannada,12,SUDATTA JAIN SHIRTHADY,Independent
+S10,17,S10-Karnataka,17-Dakshina Kannada,13,SUBRAMANYA GOWDA K.,Independent
+S10,17,S10-Karnataka,17-Dakshina Kannada,14,K.N. SOMASHEKAR,Independent
+S10,18,S10-Karnataka,18-Chitradurga,1,B.N.CHANDRAPPA,Indian National Congress
+S10,18,S10-Karnataka,18-Chitradurga,2,JANARDHANA SWAMY,Bharatiya Janata Party
+S10,18,S10-Karnataka,18-Chitradurga,3,T.D.RAJAGIRI,Bahujan Samaj Party
+S10,18,S10-Karnataka,18-Chitradurga,4,GULLIHATTY.D.SHEKHAR,Janata Dal  (Secular)
+S10,18,S10-Karnataka,18-Chitradurga,5,M.KUMBAIAH,Janata Dal  (United)
+S10,18,S10-Karnataka,18-Chitradurga,6,S. MEETYA NAIK,Samajwadi Party
+S10,18,S10-Karnataka,18-Chitradurga,7,MOHANA DASARI,Aam Aadmi Party
+S10,18,S10-Karnataka,18-Chitradurga,8,H.SIDDAGANGAPPA,Ambedkar National Congress
+S10,18,S10-Karnataka,18-Chitradurga,9,GANESHA,Independent
+S10,18,S10-Karnataka,18-Chitradurga,10,T.DAYANANDA,Independent
+S10,18,S10-Karnataka,18-Chitradurga,11,BASAVANAGIDEVA SHARANARU,Independent
+S10,18,S10-Karnataka,18-Chitradurga,12,T.BHAVANA,Independent
+S10,18,S10-Karnataka,18-Chitradurga,13,N.S.MANJUNATHA NERENAHAL,Independent
+S10,18,S10-Karnataka,18-Chitradurga,14,T.SOMESH SHILPI,Independent
 S10,19,S10-Karnataka,19-Tumkur,1,A.KRISHNAPPA,Janata Dal  (Secular)
-S10,19,S10-Karnataka,19-Tumkur,2,S.P.MUDDAHANUMEGOWDA,Indian National Congress
-S10,19,S10-Karnataka,19-Tumkur,3,B.VENKATESHA,Karunaadu Party
+S10,19,S10-Karnataka,19-Tumkur,2,CHINNAPPA.V,Communist Party of India
+S10,19,S10-Karnataka,19-Tumkur,3,NILUFAR JAMANI,Bahujan Samaj Party
 S10,19,S10-Karnataka,19-Tumkur,4,G.S.BASAVARAJ,Bharatiya Janata Party
-S10,19,S10-Karnataka,19-Tumkur,5,G.NAGENDRA,Independent
-S10,19,S10-Karnataka,19-Tumkur,6,BRAHMANANDA REDDY,Independent
-S10,19,S10-Karnataka,19-Tumkur,7,CHINNAPPA.V,Communist Party of India
-S10,19,S10-Karnataka,19-Tumkur,8,A.S.D'SILVA,Aam Aadmi Party
-S10,19,S10-Karnataka,19-Tumkur,9,NELUFER ZAMANI,Bahujan Samaj Party
-S10,19,S10-Karnataka,19-Tumkur,10,K.V.SRINIVAS KALKERE,Independent
-S10,19,S10-Karnataka,19-Tumkur,11,H.N.SHIVALINGAIAH,Independent
-S10,19,S10-Karnataka,19-Tumkur,12,H.L.MOHAN KUMAR,Hindustan Janta Party
-S10,19,S10-Karnataka,19-Tumkur,13,PRAKASH.R.A.JAIN,Independent
-S10,19,S10-Karnataka,19-Tumkur,14,IMTHIYAZ AHAMED,Janata Dal  (United)
-S10,19,S10-Karnataka,19-Tumkur,15,ANWAR,Independent
-S10,19,S10-Karnataka,19-Tumkur,16,L.P.YADUNANDANA,Independent
-S10,19,S10-Karnataka,19-Tumkur,17,SIDDARAMEGOWDA.T.B,Independent
-S10,19,S10-Karnataka,19-Tumkur,18,M.K.VARADARAJU,Independent
-S10,19,S10-Karnataka,19-Tumkur,19,GOVINDARJU.G,Independent
-S10,19,S10-Karnataka,19-Tumkur,20,G.S.BASAVARAJU,Independent
-S10,19,S10-Karnataka,19-Tumkur,21,SHIVAKUMAR,Independent
-S10,19,S10-Karnataka,19-Tumkur,22,RAMESH B,Independent
-S10,19,S10-Karnataka,19-Tumkur,23,S.B.HANUMANTHARAYAPPA,Independent
-S10,19,S10-Karnataka,19-Tumkur,24,JAYARAM,Independent
+S10,19,S10-Karnataka,19-Tumkur,5,S.P.MUDDAHANUMEGOWDA,Indian National Congress
+S10,19,S10-Karnataka,19-Tumkur,6,A.S.D'SILVA,Aam Aadmi Party
+S10,19,S10-Karnataka,19-Tumkur,7,H.L.MOHAN KUMAR,Hindustan Janta Party
+S10,19,S10-Karnataka,19-Tumkur,8,B.VENKATESHA,Karunaadu Party
+S10,19,S10-Karnataka,19-Tumkur,9,ANWAR,Independent
+S10,19,S10-Karnataka,19-Tumkur,10,GOVINDARJU.G,Independent
+S10,19,S10-Karnataka,19-Tumkur,11,G.NAGENDRA,Independent
+S10,19,S10-Karnataka,19-Tumkur,12,BRAHMANANDA REDDY,Independent
+S10,19,S10-Karnataka,19-Tumkur,13,L.P.YADUNANDANA,Independent
+S10,19,S10-Karnataka,19-Tumkur,14,SHIVAKUMAR,Independent
+S10,19,S10-Karnataka,19-Tumkur,15,K.V.SRINIVAS KALKERE,Independent
+S10,19,S10-Karnataka,19-Tumkur,16,S.B.HANUMANTHARAYAPPA,Independent
 S10,20,S10-Karnataka,20-Mandya,1,KRISHNAMURTHY,Republican Party of India (A)
 S10,20,S10-Karnataka,20-Mandya,2,ARUNAKUMARA,Independent
 S10,20,S10-Karnataka,20-Mandya,3,G.B.SHIVANNA,Independent
@@ -720,30 +605,21 @@ S10,20,S10-Karnataka,20-Mandya,25,K.SHIVANANDA,Hindustan Janta Party
 S10,20,S10-Karnataka,20-Mandya,26,K.MAHADEVAPPA,Bharatiya Dr. B.R.Ambedkar Janta Party
 S10,20,S10-Karnataka,20-Mandya,27,MAHESHA.H.M,Independent
 S10,20,S10-Karnataka,20-Mandya,28,ARAVIND PREMANAND,Independent
-S10,21,S10-Karnataka,21-Mysore,1,S P MAHADEVAPPA,Janata Dal  (United)
-S10,21,S10-Karnataka,21-Mysore,2,S P MAHADEVAPPA,Independent
+S10,21,S10-Karnataka,21-Mysore,1,ADAGOORU H VISHWANATH,Indian National Congress
+S10,21,S10-Karnataka,21-Mysore,2,CHANDRASHEKARAIAH,Janata Dal  (Secular)
 S10,21,S10-Karnataka,21-Mysore,3,PRATHAP SIMHA,Bharatiya Janata Party
-S10,21,S10-Karnataka,21-Mysore,4,B S KUMARSWAMY,Independent
-S10,21,S10-Karnataka,21-Mysore,5,PRAVEEN M S,Independent
-S10,21,S10-Karnataka,21-Mysore,6,ADAGOORU H VISHWANATH,Indian National Congress
-S10,21,S10-Karnataka,21-Mysore,7,RATHI POOVAIAH,Karunaadu Party
-S10,21,S10-Karnataka,21-Mysore,8,M KHALEEL,Independent
-S10,21,S10-Karnataka,21-Mysore,9,P S YADURAPPA,Independent
-S10,21,S10-Karnataka,21-Mysore,10,SAMPATHU N,Independent
-S10,21,S10-Karnataka,21-Mysore,11,BOJANNA N SOMAIAH,Independent
-S10,21,S10-Karnataka,21-Mysore,12,THIMME GOWDA,Sarva Janata Party
-S10,21,S10-Karnataka,21-Mysore,13,SRINIVASA,Independent
-S10,21,S10-Karnataka,21-Mysore,14,HUNSUR K CHANDRASHEKAR,Democratic Prajakranthi Party Secularist
-S10,21,S10-Karnataka,21-Mysore,15,G LINGAIAH,Independent
-S10,21,S10-Karnataka,21-Mysore,16,C MOHAN KUMAR,Bahujan Samaj Party
-S10,21,S10-Karnataka,21-Mysore,17,GURUMALLESHA,Independent
-S10,21,S10-Karnataka,21-Mysore,18,AKEEL AHMEAD,Independent
-S10,21,S10-Karnataka,21-Mysore,19,PADMAMMA M V,Aam Aadmi Party
-S10,21,S10-Karnataka,21-Mysore,20,D ESWARA,Republican Party of India (A)
-S10,21,S10-Karnataka,21-Mysore,21,D S NIRVANAPPA,Communist Party of India (Marxist-Leninist) Red Star
-S10,21,S10-Karnataka,21-Mysore,22,CHANDRASHEKARAIAH,Janata Dal  (Secular)
-S10,21,S10-Karnataka,21-Mysore,23,R VISHWANATH,Independent
-S10,22,S10-Karnataka,22-Chamarajanagar,1,D. ESHWARA,Republican Party of India (A)
+S10,21,S10-Karnataka,21-Mysore,4,C MOHAN KUMAR,Bahujan Samaj Party
+S10,21,S10-Karnataka,21-Mysore,5,THIMME GOWDA,Sarva Janata Party
+S10,21,S10-Karnataka,21-Mysore,6,D S NIRVANAPPA,Communist Party of India (Marxist-Leninist) Red Star
+S10,21,S10-Karnataka,21-Mysore,7,PADMAMMA M V,Aam Aadmi Party
+S10,21,S10-Karnataka,21-Mysore,8,S P MAHADEVAPPA,Janata Dal  (United)
+S10,21,S10-Karnataka,21-Mysore,9,RATHI POOVAIAH,Karunaadu Party
+S10,21,S10-Karnataka,21-Mysore,10,HUNSUR K CHANDRASHEKAR,Democratic Prajakranthi Party Secularist
+S10,21,S10-Karnataka,21-Mysore,11,D ESWARA,Independent
+S10,21,S10-Karnataka,21-Mysore,12,PRAVEEN M S,Independent
+S10,21,S10-Karnataka,21-Mysore,13,B S KUMARSWAMY,Independent
+S10,21,S10-Karnataka,21-Mysore,14,BOJANNA N SOMAIAH,Independent
+S10,21,S10-Karnataka,21-Mysore,15,SAMPATHU N,Independent
 S10,22,S10-Karnataka,22-Chamarajanagar,2,R. DHRUVANARAYANA,Indian National Congress
 S10,22,S10-Karnataka,22-Chamarajanagar,3,M SHIVANNA,Janata Dal  (Secular)
 S10,22,S10-Karnataka,22-Chamarajanagar,4,PRADEEP KUMAR M,Karunaadu Party
@@ -751,58 +627,48 @@ S10,22,S10-Karnataka,22-Chamarajanagar,5,KATHAVARAYA,Dr. Ambedkar Samajvadi Demo
 S10,22,S10-Karnataka,22-Chamarajanagar,6,SAMPATH KUMAR,Aam Aadmi Party
 S10,22,S10-Karnataka,22-Chamarajanagar,7,GURUSWAMY B,Samajwadi Party
 S10,22,S10-Karnataka,22-Chamarajanagar,8,SHIVAMALLU,Bahujan Samaj Party
-S10,22,S10-Karnataka,22-Chamarajanagar,9,TALAKADU G KEMPARAJU,Independent
 S10,22,S10-Karnataka,22-Chamarajanagar,10,CHOWDAHALLI JAVARAIAH,Communist Party of India  (Marxist-Leninist)  (Liberation)
 S10,22,S10-Karnataka,22-Chamarajanagar,11,S. GOVINDA NAYAKA,Independent
 S10,22,S10-Karnataka,22-Chamarajanagar,12,NIRMALA KUMARI,Independent
-S10,22,S10-Karnataka,22-Chamarajanagar,13,RAMESH N,Bahujan Mukti Party
 S10,22,S10-Karnataka,22-Chamarajanagar,14,SURENDRA B. P.,Sarva Janata Party
 S10,22,S10-Karnataka,22-Chamarajanagar,16,A. R. KRISHNA MURTHY,Bharatiya Janata Party
 S10,22,S10-Karnataka,22-Chamarajanagar,17,ANANDA G,Independent
 S10,22,S10-Karnataka,22-Chamarajanagar,18,K. S. SRINIVASMURTHY,Communist Party of India (Marxist-Leninist) Red Star
-S10,23,S10-Karnataka,23-Bangalore Rural,1,P MUNIRAJU,Bharatiya Janata Party
-S10,23,S10-Karnataka,23-Bangalore Rural,2,K A MOHAN,Kamarajar Deseeya Congress
-S10,23,S10-Karnataka,23-Bangalore Rural,3,J NATARAJU,Independent
+S10,23,S10-Karnataka,23-Bangalore Rural,1,THOPAIAH C,Bahujan Samaj Party
+S10,23,S10-Karnataka,23-Bangalore Rural,2,R. PRABHAKARA REDDY,Janata Dal  (Secular)
+S10,23,S10-Karnataka,23-Bangalore Rural,3,P MUNIRAJU,Bharatiya Janata Party
 S10,23,S10-Karnataka,23-Bangalore Rural,4,D K SURESH,Indian National Congress
-S10,23,S10-Karnataka,23-Bangalore Rural,5,MALLESHA,Independent
-S10,23,S10-Karnataka,23-Bangalore Rural,6,RAVI KRISHNA REDDY,Aam Aadmi Party
-S10,23,S10-Karnataka,23-Bangalore Rural,7,R. PRABHAKARA REDDY,Janata Dal  (Secular)
-S10,23,S10-Karnataka,23-Bangalore Rural,8,J.T.PRAKASH,Independent
-S10,23,S10-Karnataka,23-Bangalore Rural,9,T M MANCHEGOWDA,Independent
-S10,23,S10-Karnataka,23-Bangalore Rural,10,KENCHAIAH,Independent
-S10,23,S10-Karnataka,23-Bangalore Rural,11,SHANKARAPPA,Jai Vijaya Bharathi Party
-S10,23,S10-Karnataka,23-Bangalore Rural,12,S.SIDDARAMAIAH HEGGADE,Independent
-S10,23,S10-Karnataka,23-Bangalore Rural,13,BASAVEGOWDA,Republican Party of India (A)
-S10,23,S10-Karnataka,23-Bangalore Rural,14,THOPAIAH C,Bahujan Samaj Party
+S10,23,S10-Karnataka,23-Bangalore Rural,5,BASAVEGOWDA,Republican Party of India (A)
+S10,23,S10-Karnataka,23-Bangalore Rural,6,K A MOHAN,Kamarajar Deseeya Congress
+S10,23,S10-Karnataka,23-Bangalore Rural,7,RAVI KRISHNA REDDY,Aam Aadmi Party
+S10,23,S10-Karnataka,23-Bangalore Rural,8,SHANKARAPPA,Jai Vijaya Bharathi Party
+S10,23,S10-Karnataka,23-Bangalore Rural,9,KENCHAIAH,Independent
+S10,23,S10-Karnataka,23-Bangalore Rural,10,J NATARAJU,Independent
+S10,23,S10-Karnataka,23-Bangalore Rural,11,J.T.PRAKASH,Independent
+S10,23,S10-Karnataka,23-Bangalore Rural,12,MALLESHA,Independent
+S10,23,S10-Karnataka,23-Bangalore Rural,13,M.P.MUNAWER SHARIFF,Independent
+S10,23,S10-Karnataka,23-Bangalore Rural,14,S.SIDDARAMAIAH HEGGADE,Independent
 S10,23,S10-Karnataka,23-Bangalore Rural,15,SURESH,Independent
-S10,23,S10-Karnataka,23-Bangalore Rural,16,M.P.MUNAWER SHARIFF,Hindustan Janta Party
-S10,24,S10-Karnataka,24-Bangalore North,1,K.SATHYANARAYANA,Independent
-S10,24,S10-Karnataka,24-Bangalore North,2,MU.VENKATESH SIMHA BHOVI,Independent
-S10,24,S10-Karnataka,24-Bangalore North,3,D.V SADANANDA GOWDA,Bharatiya Janata Party
-S10,24,S10-Karnataka,24-Bangalore North,4,SHAMBHULINGEGOWDA,Independent
-S10,24,S10-Karnataka,24-Bangalore North,5,DR.MEERLAYAQ HUSSAIN,Independent
-S10,24,S10-Karnataka,24-Bangalore North,6,MANOHAR.H.AYYANNAVAR,Independent
+S10,24,S10-Karnataka,24-Bangalore North,1,ABDUL AZEEM,Janata Dal  (Secular)
+S10,24,S10-Karnataka,24-Bangalore North,2,C.NARAYANA SWAMY,Indian National Congress
+S10,24,S10-Karnataka,24-Bangalore North,3,VELU V,Bahujan Samaj Party
+S10,24,S10-Karnataka,24-Bangalore North,4,D.V SADANANDA GOWDA,Bharatiya Janata Party
+S10,24,S10-Karnataka,24-Bangalore North,5,D.JAYARAM,Gareeb Aadmi Party
+S10,24,S10-Karnataka,24-Bangalore North,6,BABU  MATHEW,Aam Aadmi Party
 S10,24,S10-Karnataka,24-Bangalore North,7,MUTHURAJU,Republican Party of India (A)
-S10,24,S10-Karnataka,24-Bangalore North,8,SUNIL.V.J,Independent
-S10,24,S10-Karnataka,24-Bangalore North,9,BABU  MATHEW,Aam Aadmi Party
-S10,24,S10-Karnataka,24-Bangalore North,10,ABDUL AZEEM,Janata Dal  (Secular)
-S10,24,S10-Karnataka,24-Bangalore North,11,D.JAYARAM,Independent
-S10,24,S10-Karnataka,24-Bangalore North,12,CHANDRASHEKHAR,Independent
-S10,24,S10-Karnataka,24-Bangalore North,13,C.NARAYANA SWAMY,Indian National Congress
-S10,24,S10-Karnataka,24-Bangalore North,14,RAMU S,Independent
-S10,24,S10-Karnataka,24-Bangalore North,15,MOHAMMED QUTBUDDIN,Independent
-S10,24,S10-Karnataka,24-Bangalore North,16,C.INDRANI,Independent
-S10,24,S10-Karnataka,24-Bangalore North,17,VENKATESA SETTY,Independent
-S10,24,S10-Karnataka,24-Bangalore North,18,D.JAYARAM,Gareeb Aadmi Party
-S10,24,S10-Karnataka,24-Bangalore North,19,VELU V,Bahujan Samaj Party
-S10,24,S10-Karnataka,24-Bangalore North,20,T.S.CHAITANYA,Independent
+S10,24,S10-Karnataka,24-Bangalore North,8,T.S.CHAITANYA,Independent
+S10,24,S10-Karnataka,24-Bangalore North,9,MANOHAR.H.AYYANNAVAR,Independent
+S10,24,S10-Karnataka,24-Bangalore North,10,DR.MEERLAYAQ HUSSAIN,Independent
+S10,24,S10-Karnataka,24-Bangalore North,11,MOHAMMED QUTBUDDIN,Independent
+S10,24,S10-Karnataka,24-Bangalore North,12,RAMU S,Independent
+S10,24,S10-Karnataka,24-Bangalore North,13,MU.VENKATESH SIMHA BHOVI,Independent
+S10,24,S10-Karnataka,24-Bangalore North,14,SUNIL.V.J,Independent
 S10,25,S10-Karnataka,25-Bangalore central,1,P.C. MOHAN,Bharatiya Janata Party
 S10,25,S10-Karnataka,25-Bangalore central,2,ZAHEEDA  SHEREEN,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
 S10,25,S10-Karnataka,25-Bangalore central,3,BUDAYYA PUJERI,Karunaadu Party
 S10,25,S10-Karnataka,25-Bangalore central,4,RIZWAN ARSHAD,Indian National Congress
 S10,25,S10-Karnataka,25-Bangalore central,5,SEETHARAMAN.E,Independent
 S10,25,S10-Karnataka,25-Bangalore central,6,SYED ASIF BUKHAARI,Independent
-S10,25,S10-Karnataka,25-Bangalore central,7,MOHAMED GHOUSE,Independent
 S10,25,S10-Karnataka,25-Bangalore central,8,R. MOHAN RAJU,Bahujan Samaj Party
 S10,25,S10-Karnataka,25-Bangalore central,9,V. BALA  KRISHNAN,Aam Aadmi Party
 S10,25,S10-Karnataka,25-Bangalore central,10,DR. MEERLAYAQ HUSSAIN,Independent
@@ -822,7 +688,6 @@ S10,25,S10-Karnataka,25-Bangalore central,23,MODI SAIFULLA,Independent
 S10,25,S10-Karnataka,25-Bangalore central,24,SURAIYA ZAITHOON,Independent
 S10,25,S10-Karnataka,25-Bangalore central,25,ISMAIL KHAN SAIF ALI,All India Trinamool Congress
 S10,25,S10-Karnataka,25-Bangalore central,26,RAMANUJ SINGH,Independent
-S10,25,S10-Karnataka,25-Bangalore central,27,J.JOSEPH SOLOMON,Independent
 S10,25,S10-Karnataka,25-Bangalore central,28,AMBROSE D'MELLO,Independent
 S10,26,S10-Karnataka,26-Bangalore South,1,ANANTH KUMAR,Bharatiya Janata Party
 S10,26,S10-Karnataka,26-Bangalore South,2,UMADEVI. M,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
@@ -836,62 +701,47 @@ S10,26,S10-Karnataka,26-Bangalore South,9,SHAMBULINGEGOWDA,Independent
 S10,26,S10-Karnataka,26-Bangalore South,10,M ZUBAIR AHAMED,Independent
 S10,26,S10-Karnataka,26-Bangalore South,11,B. R. GOVINDAIAH,Independent
 S10,26,S10-Karnataka,26-Bangalore South,12,NINA P NAYAK,Aam Aadmi Party
-S10,27,S10-Karnataka,27-Chikkballapur,1,B ANJANA MURTHY,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,2,M VEERAPPA MOILY,Indian National Congress
-S10,27,S10-Karnataka,27-Chikkballapur,3,REDDY G K C,Janata Dal  (United)
-S10,27,S10-Karnataka,27-Chikkballapur,4,G V SREERAMA REDDY,Communist Party of India  (Marxist)
-S10,27,S10-Karnataka,27-Chikkballapur,5,K ARKESH,Aam Aadmi Party
-S10,27,S10-Karnataka,27-Chikkballapur,6,D GANGAPPA,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,7,ROBIN MATHEWS NAREKATTU,Samajwadi Party
-S10,27,S10-Karnataka,27-Chikkballapur,8,G N RAVI,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,9,B N GOPALAGOWDA,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,10,NANJAPPA,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,11,CHITRA PRASAD,Bahujan Samaj Party
-S10,27,S10-Karnataka,27-Chikkballapur,12,T V MANJUNATHA GOWDA,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,13,B N BACHE GOWDA,Bharatiya Janata Party
-S10,27,S10-Karnataka,27-Chikkballapur,14,H N RAMAKRISHNA REDDY,Pyramid Party of India
-S10,27,S10-Karnataka,27-Chikkballapur,15,H D KUMARA SWAMY,Janata Dal  (Secular)
-S10,27,S10-Karnataka,27-Chikkballapur,16,K S SWAMY,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,17,D V OBALAPPA,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,18,D N NARASIMHAMURTHY,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,19,YAKUB SHARIFF,Bahujan Mukti Party
-S10,27,S10-Karnataka,27-Chikkballapur,20,VENKATESH D T,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,21,N SREERAMA REDDY,Independent
-S10,27,S10-Karnataka,27-Chikkballapur,22,G C VENKATARAMANAPPA,Republican Party of India (A)
-S10,27,S10-Karnataka,27-Chikkballapur,23,JAYAPRAKASHA YADAV,Independent
-S10,28,S10-Karnataka,28-Kolar,1,K.H.MUNIYAPPA,Indian National Congress
-S10,28,S10-Karnataka,28-Kolar,2,EM.NARAYANASWAMY,Bharatiya Janata Party
-S10,28,S10-Karnataka,28-Kolar,3,M.S.NARAYANASWAMY,Independent
-S10,28,S10-Karnataka,28-Kolar,4,V.MUNISWAMY,Samajwadi Party
-S10,28,S10-Karnataka,28-Kolar,5,KESAVA.K,Janata Dal  (Secular)
-S10,28,S10-Karnataka,28-Kolar,6,T.M.NARAYANASWAMY,Karunaadu Party
-S10,28,S10-Karnataka,28-Kolar,7,K.NARENDRA BABU,Independent
-S10,28,S10-Karnataka,28-Kolar,8,DR.C.MOHAN,Independent
-S10,28,S10-Karnataka,28-Kolar,9,N.SRINIVAS,Independent
-S10,28,S10-Karnataka,28-Kolar,10,A.PRASAD,Independent
-S10,28,S10-Karnataka,28-Kolar,11,KOTIGANAHALLI RAMAIAH,Aam Aadmi Party
-S10,28,S10-Karnataka,28-Kolar,12,K.KESHAVA,Independent
-S10,28,S10-Karnataka,28-Kolar,13,H.V.VINAYAKA PRASAD,Independent
-S10,28,S10-Karnataka,28-Kolar,14,H.N.NARAYANASWAMY,Independent
-S10,28,S10-Karnataka,28-Kolar,15,S.MUNIYAPPA,Independent
-S10,28,S10-Karnataka,28-Kolar,16,N.VENKATESH,Independent
-S10,28,S10-Karnataka,28-Kolar,17,S.P.LAKSHMI NARAYANA,Independent
-S10,28,S10-Karnataka,28-Kolar,18,S.B.MUNIVENKATAPPA,Janata Dal  (Secular)
-S10,28,S10-Karnataka,28-Kolar,19,NARAYANASWAMY,Independent
-S10,28,S10-Karnataka,28-Kolar,20,H.V.ANJAPPA,Independent
-S10,28,S10-Karnataka,28-Kolar,21,N.VENKATESHAPPA,Independent
-S10,28,S10-Karnataka,28-Kolar,22,PRATHAP.R,Independent
-S10,28,S10-Karnataka,28-Kolar,23,R.RAVINDRA KUMAR,Bharatiya Dr. B.R.Ambedkar Janta Party
-S10,28,S10-Karnataka,28-Kolar,24,K.C.VIJAY KUMAR,Janata Dal  (United)
-S10,28,S10-Karnataka,28-Kolar,25,V.SRINIVASA,Independent
-S10,28,S10-Karnataka,28-Kolar,26,B.V.VENKATAGIRIYAPPA,Independent
-S10,28,S10-Karnataka,28-Kolar,27,T.GANESH,Janata Dal  (Secular)
-S10,28,S10-Karnataka,28-Kolar,28,HANUMAPPA,Independent
-S10,28,S10-Karnataka,28-Kolar,29,MUNEPPA,Independent
-S10,28,S10-Karnataka,28-Kolar,30,D.M.AMBAREESHA,Bahujan Samaj Party
-S10,28,S10-Karnataka,28-Kolar,31,D.MUNESH,Independent
-S10,28,S10-Karnataka,28-Kolar,32,H.M.RAMAKRISHNA,Independent
-S10,28,S10-Karnataka,28-Kolar,33,K.H.MADHUSOODAN,Independent
+S10,27,S10-Karnataka,27-Chikkballapur,1,H D KUMARA SWAMY,Janata Dal  (Secular)
+S10,27,S10-Karnataka,27-Chikkballapur,2,CHITRA PRASAD,Bahujan Samaj Party
+S10,27,S10-Karnataka,27-Chikkballapur,3,B N BACHE GOWDA,Bharatiya Janata Party
+S10,27,S10-Karnataka,27-Chikkballapur,4,M VEERAPPA MOILY,Indian National Congress
+S10,27,S10-Karnataka,27-Chikkballapur,5,G V SREERAMA REDDY,Communist Party of India  (Marxist)
+S10,27,S10-Karnataka,27-Chikkballapur,6,K ARKESH,Aam Aadmi Party
+S10,27,S10-Karnataka,27-Chikkballapur,7,YAKUB SHARIFF,Bahujan Mukti Party
+S10,27,S10-Karnataka,27-Chikkballapur,8,ROBIN MATHEWS NAREKATTU,Samajwadi Party
+S10,27,S10-Karnataka,27-Chikkballapur,9,H N RAMAKRISHNA REDDY,Pyramid Party of India
+S10,27,S10-Karnataka,27-Chikkballapur,10,REDDY G K C,Janata Dal  (United)
+S10,27,S10-Karnataka,27-Chikkballapur,11,G C VENKATARAMANAPPA,Republican Party of India (A)
+S10,27,S10-Karnataka,27-Chikkballapur,12,B N GOPALAGOWDA,Independent
+S10,27,S10-Karnataka,27-Chikkballapur,13,JAYAPRAKASHA YADAV,Independent
+S10,27,S10-Karnataka,27-Chikkballapur,14,D N NARASIMHAMURTHY,Independent
+S10,27,S10-Karnataka,27-Chikkballapur,15,NANJAPPA,Independent
+S10,27,S10-Karnataka,27-Chikkballapur,16,T V MANJUNATHA GOWDA,Independent
+S10,27,S10-Karnataka,27-Chikkballapur,17,G N RAVI,Independent
+S10,27,S10-Karnataka,27-Chikkballapur,18,VENKATESH D T,Independent
+S10,27,S10-Karnataka,27-Chikkballapur,19,K S SWAMY,Independent
+S10,28,S10-Karnataka,28-Kolar,1,D.M.AMBAREESHA,Bahujan Samaj Party
+S10,28,S10-Karnataka,28-Kolar,2,KOLAR KESAVA,Janata Dal  (Secular)
+S10,28,S10-Karnataka,28-Kolar,3,EM.NARAYANASWAMY,Bharatiya Janata Party
+S10,28,S10-Karnataka,28-Kolar,4,K.H.MUNIYAPPA,Indian National Congress
+S10,28,S10-Karnataka,28-Kolar,5,KOTIGANAHALLI RAMAIAH,Aam Aadmi Party
+S10,28,S10-Karnataka,28-Kolar,6,V.MUNISWAMY,Samajwadi Party
+S10,28,S10-Karnataka,28-Kolar,7,R.RAVINDRA KUMAR,Bharatiya Dr. B.R.Ambedkar Janta Party
+S10,28,S10-Karnataka,28-Kolar,8,H.V.ANJAPPA,Independent
+S10,28,S10-Karnataka,28-Kolar,9,K.NARENDRABABU,Independent
+S10,28,S10-Karnataka,28-Kolar,10,NARAYANASWAMY,Independent
+S10,28,S10-Karnataka,28-Kolar,11,M.S.NARAYANASWAMY,Independent
+S10,28,S10-Karnataka,28-Kolar,12,H.N.NARAYANASWAMY,Independent
+S10,28,S10-Karnataka,28-Kolar,13,A.PRASAD,Independent
+S10,28,S10-Karnataka,28-Kolar,14,BEEDA SRINIVAS.N,Independent
+S10,28,S10-Karnataka,28-Kolar,15,K.H.MADHUSOODAN,Independent
+S10,28,S10-Karnataka,28-Kolar,16,M.MUNIYAPPA,Independent
+S10,28,S10-Karnataka,28-Kolar,17,DR.C.MOHAN,Independent
+S10,28,S10-Karnataka,28-Kolar,18,VINAYAKA PRASAD.H.N,Independent
+S10,28,S10-Karnataka,28-Kolar,19,B.V.VENKATAGIRIYAPPA,Independent
+S10,28,S10-Karnataka,28-Kolar,20,N.VENKATESH,Independent
+S10,28,S10-Karnataka,28-Kolar,21,G.N.VENKATESH,Independent
+S10,28,S10-Karnataka,28-Kolar,22,V.SRINIVASA,Independent
 S11,1,S11-Kerala,1-Kasaragod,1,P KARUNAKARAN,Communist Party of India  (Marxist)
 S11,1,S11-Kerala,1-Kasaragod,2,ADV. BASHEER ALADY,Bahujan Samaj Party
 S11,1,S11-Kerala,1-Kasaragod,3,ADV. T SIDDIQUE,Indian National Congress
@@ -1030,41 +880,41 @@ S11,11,S11-Kerala,11-Chalakudy,9,SAJI THURUTHIKUNNEL,Shivsena
 S11,11,S11-Kerala,11-Chalakudy,10,ABDUL KAREEM,Rashtriya Janata Dal
 S11,11,S11-Kerala,11-Chalakudy,11,INNOCENT,Independent
 S11,11,S11-Kerala,11-Chalakudy,12,JAISON PANIKULANGARA,Independent
-S11,11,S11-Kerala,11-Chalakudy,13,EDAPPALLY BASHEER,Marxist Communist Party of India (United)
+S11,11,S11-Kerala,11-Chalakudy,13,EDAPPALLY BASHEER,Independent
 S11,11,S11-Kerala,11-Chalakudy,14,T D BABURAJAN,Independent
 S11,11,S11-Kerala,11-Chalakudy,15,VINCENT,Independent
-S11,12,S11-Kerala,12-Ernakulam,1,PROF. K.V. THOMAS,Indian National Congress
-S11,12,S11-Kerala,12-Ernakulam,4,A.N. RADHAKRISHNAN,Bharatiya Janata Party
-S11,12,S11-Kerala,12-Ernakulam,6,CHRISTY FERNANDEZ,Independent
-S11,12,S11-Kerala,12-Ernakulam,7,N J PIOUS,Independent
-S11,12,S11-Kerala,12-Ernakulam,8,KRISHNANKUTTY M.K.,Communist Party of India (Marxist-Leninist) Red Star
-S11,12,S11-Kerala,12-Ernakulam,10,JUNO JOHN BABY,Independent
-S11,12,S11-Kerala,12-Ernakulam,11,K.V. BHASKARAN,Independent
-S11,12,S11-Kerala,12-Ernakulam,13,ANITHA PRATAP,Aam Aadmi Party
-S11,12,S11-Kerala,12-Ernakulam,14,ZULFIKAL ALI,SOCIAL DEMOCRATIC PARTY OF INDIA
-S11,12,S11-Kerala,12-Ernakulam,15,P.D. CHANDRABHANU,Socialist Republican Party
-S11,12,S11-Kerala,12-Ernakulam,16,ANIL KUMAR,Independent
-S11,12,S11-Kerala,12-Ernakulam,18,K C KARTHIKEYAN,Bahujan Samaj Party
-S11,12,S11-Kerala,12-Ernakulam,20,DENSIL MENDEZ,Janata Dal  (United)
-S11,12,S11-Kerala,12-Ernakulam,21,KISHORE,Independent
-S11,12,S11-Kerala,12-Ernakulam,22,ADV. RADHAKRISHNAN P T,Independent
-S11,12,S11-Kerala,12-Ernakulam,23,RAJANEESH BABU,Independent
+S11,12,S11-Kerala,12-Ernakulam,1,K C KARTHIKEYAN,Bahujan Samaj Party
+S11,12,S11-Kerala,12-Ernakulam,2,PROF. K.V. THOMAS,Indian National Congress
+S11,12,S11-Kerala,12-Ernakulam,3,A.N. RADHAKRISHNAN,Bharatiya Janata Party
+S11,12,S11-Kerala,12-Ernakulam,4,ANITHA PRATAP,Aam Aadmi Party
+S11,12,S11-Kerala,12-Ernakulam,5,KRISHNANKUTTY M.K.,Communist Party of India (Marxist-Leninist) Red Star
+S11,12,S11-Kerala,12-Ernakulam,6,P.D. CHANDRABHANU,Socialist Republican Party
+S11,12,S11-Kerala,12-Ernakulam,7,DENSIL MENDEZ,Janata Dal  (United)
+S11,12,S11-Kerala,12-Ernakulam,8,ZULFIKAL ALI,SOCIAL DEMOCRATIC PARTY OF INDIA
+S11,12,S11-Kerala,12-Ernakulam,9,ANIL KUMAR,Independent
+S11,12,S11-Kerala,12-Ernakulam,10,KISHORE,Independent
+S11,12,S11-Kerala,12-Ernakulam,11,CHRISTY FERNANDEZ,Independent
+S11,12,S11-Kerala,12-Ernakulam,12,JUNO JOHN BABY,Independent
+S11,12,S11-Kerala,12-Ernakulam,13,N J PIOUS,Independent
+S11,12,S11-Kerala,12-Ernakulam,14,K.V. BHASKARAN,Independent
+S11,12,S11-Kerala,12-Ernakulam,15,RAJANEESH BABU,Independent
+S11,12,S11-Kerala,12-Ernakulam,16,ADV. RADHAKRISHNAN P T,Independent
 S11,13,S11-Kerala,13-Idukki,1,ADV.DEAN KURIAKOSE,Indian National Congress
-S11,13,S11-Kerala,13-Idukki,2,P.C.JOLLY,Independent
+S11,13,S11-Kerala,13-Idukki,2,APPANCHIRA PONNAPPAN,Bahujan Samaj Party
 S11,13,S11-Kerala,13-Idukki,3,ADV.SABU VARGHESE,Bharatiya Janata Party
-S11,13,S11-Kerala,13-Idukki,4,MUHAMMED SHARAFUDHEEN,SOCIAL DEMOCRATIC PARTY OF INDIA
-S11,13,S11-Kerala,13-Idukki,5,ADV.CHITTOOR RAJAMANNAR,Independent
-S11,13,S11-Kerala,13-Idukki,7,ADV.JOICE GEORGE,Independent
-S11,13,S11-Kerala,13-Idukki,9,SILVI SUNIL,Aam Aadmi Party
-S11,13,S11-Kerala,13-Idukki,11,APPANCHIRA PONNAPPAN,Bahujan Samaj Party
-S11,13,S11-Kerala,13-Idukki,12,T.K.TOMY,Communist Party of India (Marxist-Leninist) Red Star
-S11,13,S11-Kerala,13-Idukki,13,SOMINI PRABHAKARAN,Independent
-S11,13,S11-Kerala,13-Idukki,15,JAMES JOSEPH,Independent
-S11,13,S11-Kerala,13-Idukki,16,SHOBY JOSEPH,Independent
-S11,13,S11-Kerala,13-Idukki,17,ANISH MARIYIL,Independent
-S11,13,S11-Kerala,13-Idukki,18,JOYCE GEORGE,Independent
-S11,13,S11-Kerala,13-Idukki,20,JOICE GEORGE,Independent
-S11,13,S11-Kerala,13-Idukki,21,BIJU JOSEPH,Independent
+S11,13,S11-Kerala,13-Idukki,4,T.K.TOMY,Communist Party of India (Marxist-Leninist) Red Star
+S11,13,S11-Kerala,13-Idukki,5,MUHAMMED SHARAFUDHEEN,SOCIAL DEMOCRATIC PARTY OF INDIA
+S11,13,S11-Kerala,13-Idukki,6,SILVI SUNIL,Aam Aadmi Party
+S11,13,S11-Kerala,13-Idukki,7,ANISH MARIYIL,Independent
+S11,13,S11-Kerala,13-Idukki,8,JAMES JOSEPH,Independent
+S11,13,S11-Kerala,13-Idukki,9,JOYCE GEORGE,Independent
+S11,13,S11-Kerala,13-Idukki,10,ADV.JOICE GEORGE,Independent
+S11,13,S11-Kerala,13-Idukki,11,JOICE GEORGE,Independent
+S11,13,S11-Kerala,13-Idukki,12,P.C.JOLLY,Independent
+S11,13,S11-Kerala,13-Idukki,13,BIJU JOSEPH,Independent
+S11,13,S11-Kerala,13-Idukki,14,ADV.CHITTOOR RAJAMANNAR,Independent
+S11,13,S11-Kerala,13-Idukki,15,SHOBY JOSEPH,Independent
+S11,13,S11-Kerala,13-Idukki,16,SOMINI PRABHAKARAN,Independent
 S11,14,S11-Kerala,14-Kottayam,1,JOSE K. MANI,Kerala Congress  (M)
 S11,14,S11-Kerala,14-Kottayam,2,ADV.MATHEW T. THOMAS,Janata Dal  (Secular)
 S11,14,S11-Kerala,14-Kottayam,3,SREENI K. JACOB,Bahujan Samaj Party
@@ -1125,172 +975,150 @@ S11,18,S11-Kerala,18-Kollam,8,R. PREMACHANDRAN,Independent
 S11,18,S11-Kerala,18-Kollam,9,V.S. PREMACHANDRAN,Independent
 S11,18,S11-Kerala,18-Kollam,10,M. BABY,Independent
 S11,18,S11-Kerala,18-Kollam,11,K. BHASKARAN,Independent
-S11,19,S11-Kerala,19-Attingal,1,SUNILKRISHNAN,Independent
-S11,19,S11-Kerala,19-Attingal,2,DR.A .SAMPATH,Communist Party of India  (Marxist)
-S11,19,S11-Kerala,19-Attingal,3,GIRIJA KUMARI.S,Bharatiya Janata Party
-S11,19,S11-Kerala,19-Attingal,4,SRI.M.K.MANOJ KUMAR,SOCIAL DEMOCRATIC PARTY OF INDIA
-S11,19,S11-Kerala,19-Attingal,6,SMT. PRIYA SUNIL,Welfare Party Of India
-S11,19,S11-Kerala,19-Attingal,7,ADV.BINDHU KRISHNA,Indian National Congress
-S11,19,S11-Kerala,19-Attingal,8,ANIL KUMAR N S,Bahujan Samaj Party
-S11,19,S11-Kerala,19-Attingal,9,SRI.SAMBATH ANILKUMAR,Independent
+S11,19,S11-Kerala,19-Attingal,1,ANIL KUMAR N S,Bahujan Samaj Party
+S11,19,S11-Kerala,19-Attingal,2,GIRIJA KUMARI.S,Bharatiya Janata Party
+S11,19,S11-Kerala,19-Attingal,3,ADV.BINDHU KRISHNA,Indian National Congress
+S11,19,S11-Kerala,19-Attingal,4,DR.A .SAMPATH,Communist Party of India  (Marxist)
+S11,19,S11-Kerala,19-Attingal,5,SRI. VAKKOM G AJITH,Shivsena
+S11,19,S11-Kerala,19-Attingal,6,SRI. ADV. CHIRAYINKEEZHU GOPINATHAN,Republican Party of India (A)
+S11,19,S11-Kerala,19-Attingal,7,SMT. PRIYA SUNIL,Welfare Party Of India
+S11,19,S11-Kerala,19-Attingal,8,SRI.M.K.MANOJ KUMAR,SOCIAL DEMOCRATIC PARTY OF INDIA
+S11,19,S11-Kerala,19-Attingal,9,SRI .ADV.M. R.SARIN,Janata Dal  (United)
 S11,19,S11-Kerala,19-Attingal,10,DAS K VARKALA,Independent
-S11,19,S11-Kerala,19-Attingal,13,SRI. VIVEKANANDAN,Independent
+S11,19,S11-Kerala,19-Attingal,11,SRI. VIVEKANANDAN,Independent
+S11,19,S11-Kerala,19-Attingal,12,SRI.SAMBATH ANILKUMAR,Independent
+S11,19,S11-Kerala,19-Attingal,13,SUNILKRISHNAN,Independent
 S11,19,S11-Kerala,19-Attingal,14,SRI.IRINCHAYAM SURESH,Independent
-S11,19,S11-Kerala,19-Attingal,15,SRI .SARIN,Janata Dal  (United)
-S11,19,S11-Kerala,19-Attingal,16,SRI.SURESHKUMAR THONNAKKAL,Independent
-S11,19,S11-Kerala,19-Attingal,17,SRI. VAKKOM G AJITH,Shivsena
-S11,19,S11-Kerala,19-Attingal,19,SRI. HARIHARAN K S,Independent
-S11,19,S11-Kerala,19-Attingal,20,SRI. ADV. CHIRAYINKEEZHU GOPINATHAN,Republican Party of India (A)
-S11,20,S11-Kerala,20-Thiruvananthapuram,1,SRI.SHAJAR KHAN,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S11,20,S11-Kerala,20-Thiruvananthapuram,2,FR.STEPHEN,Independent
+S11,19,S11-Kerala,19-Attingal,15,SRI.SURESHKUMAR THONNAKKAL,Independent
+S11,19,S11-Kerala,19-Attingal,16,SRI. HARIHARAN K S,Independent
+S11,20,S11-Kerala,20-Thiruvananthapuram,1,SRI. DOCTOR BENNET ABRAHAM,Communist Party of India
+S11,20,S11-Kerala,20-Thiruvananthapuram,2,SRI. O RAJAGOPAL,Bharatiya Janata Party
 S11,20,S11-Kerala,20-Thiruvananthapuram,3,DR. SHASHI THAROOR,Indian National Congress
-S11,20,S11-Kerala,20-Thiruvananthapuram,4,SRI. KUNNUKUZHI S MANI,Independent
-S11,20,S11-Kerala,20-Thiruvananthapuram,5,SRI. O RAJAGOPAL,Bharatiya Janata Party
-S11,20,S11-Kerala,20-Thiruvananthapuram,6,SRI. DOCTOR BENNET ABRAHAM,Communist Party of India
-S11,20,S11-Kerala,20-Thiruvananthapuram,7,SRI. O M JYOTHEENDRA NATH,Independent
-S11,20,S11-Kerala,20-Thiruvananthapuram,8,SRI. V S JAYAKUMAR,Independent
-S11,20,S11-Kerala,20-Thiruvananthapuram,9,SRI. O V SREEDATH,Socialist Republican Party
-S11,20,S11-Kerala,20-Thiruvananthapuram,10,SRI.KUNNIL SHAJAHAN,SOCIAL DEMOCRATIC PARTY OF INDIA
-S11,20,S11-Kerala,20-Thiruvananthapuram,11,SRI. J SUDHAKARAN,Bahujan Samaj Party
-S11,20,S11-Kerala,20-Thiruvananthapuram,13,SRI. AJIT JOY,Aam Aadmi Party
-S11,20,S11-Kerala,20-Thiruvananthapuram,14,SRI.GEORGE MANKIDIYIL,Independent
-S11,20,S11-Kerala,20-Thiruvananthapuram,16,SRI.ANIL KUMAR Y,Independent
-S11,20,S11-Kerala,20-Thiruvananthapuram,17,SRI. JAIN WILSON,Independent
-S11,20,S11-Kerala,20-Thiruvananthapuram,18,SRI. ADV. PERURKADA HARIKUMAR,Shivsena
+S11,20,S11-Kerala,20-Thiruvananthapuram,4,SRI. J SUDHAKARAN,Bahujan Samaj Party
+S11,20,S11-Kerala,20-Thiruvananthapuram,5,SRI. AJIT JOY,Aam Aadmi Party
+S11,20,S11-Kerala,20-Thiruvananthapuram,6,SMT. R CHANDRIKA KATTAKADA,Republican Party of India
+S11,20,S11-Kerala,20-Thiruvananthapuram,7,SRI. THOMAS JOSEPH,Republican Party of India (A)
+S11,20,S11-Kerala,20-Thiruvananthapuram,8,SRI. O V SREEDATH,Socialist Republican Party
+S11,20,S11-Kerala,20-Thiruvananthapuram,9,SRI.KUNNIL SHAJAHAN,SOCIAL DEMOCRATIC PARTY OF INDIA
+S11,20,S11-Kerala,20-Thiruvananthapuram,10,SRI.SHAJAR KHAN,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S11,20,S11-Kerala,20-Thiruvananthapuram,11,SRI. ADV. PERURKADA HARIKUMAR,Shivsena
+S11,20,S11-Kerala,20-Thiruvananthapuram,12,SRI.ANIL KUMAR Y,Independent
+S11,20,S11-Kerala,20-Thiruvananthapuram,13,SRI. V S JAYAKUMAR,Independent
+S11,20,S11-Kerala,20-Thiruvananthapuram,14,SRI. JAIN WILSON,Independent
+S11,20,S11-Kerala,20-Thiruvananthapuram,15,SRI.GEORGE MANKIDIYIL,Independent
+S11,20,S11-Kerala,20-Thiruvananthapuram,16,SRI. O M JYOTHEENDRA NATH,Independent
+S11,20,S11-Kerala,20-Thiruvananthapuram,17,SRI.BENET BABU BENJAMIN,Independent
+S11,20,S11-Kerala,20-Thiruvananthapuram,18,SRI. KUNNUKUZHI S MANI,Independent
 S11,20,S11-Kerala,20-Thiruvananthapuram,19,SMT. SYAMALAKUMARI,Independent
-S11,20,S11-Kerala,20-Thiruvananthapuram,21,SRI. THOMAS JOSEPH,Republican Party of India (A)
-S11,20,S11-Kerala,20-Thiruvananthapuram,22,SRI.BENET BABU BENJAMIN,Independent
-S11,20,S11-Kerala,20-Thiruvananthapuram,24,SMT. R CHANDRIKA KATTAKADA,Republican Party of India
-S12,1,S12-Madhya Pradesh,1-MORENA,1,BRINDAWAN SINGH SIKARWAR,Bahujan Samaj Party
-S12,1,S12-Madhya Pradesh,1-MORENA,3,DEVENDRA KUMAR AGRVAL,Aam Aadmi Party
-S12,1,S12-Madhya Pradesh,1-MORENA,4,JAYANT SINGH TOMAR,Loktantrik Samajwadi Party
-S12,1,S12-Madhya Pradesh,1-MORENA,5,DR GOVIND SINGH,Indian National Congress
-S12,1,S12-Madhya Pradesh,1-MORENA,9,RAJESH KUSHWAH,Samajwadi Party
-S12,1,S12-Madhya Pradesh,1-MORENA,10,SIYARAM SINGH CHOUDRI,Independent
-S12,1,S12-Madhya Pradesh,1-MORENA,11,ANOOP MISHRA,Bharatiya Janata Party
-S12,1,S12-Madhya Pradesh,1-MORENA,14,NALKONWAR (NANHOOMAL),Independent
-S12,1,S12-Madhya Pradesh,1-MORENA,15,ARUJN SINGH (PAPPU KUSHWAH),Rashtriya Samanta Dal
+S11,20,S11-Kerala,20-Thiruvananthapuram,20,FR.STEPHEN,Independent
+S12,1,S12-Madhya Pradesh,1-MORENA,1,ANOOP MISHRA,Bharatiya Janata Party
+S12,1,S12-Madhya Pradesh,1-MORENA,2,DR GOVIND SINGH,Indian National Congress
+S12,1,S12-Madhya Pradesh,1-MORENA,3,BRINDAWAN SINGH SIKARWAR,Bahujan Samaj Party
+S12,1,S12-Madhya Pradesh,1-MORENA,4,ARJUN SINGH (PAPPU KUSHWAH),Rashtriya Samanta Dal
+S12,1,S12-Madhya Pradesh,1-MORENA,5,JAYANT SINGH TOMAR,Loktantrik Samajwadi Party
+S12,1,S12-Madhya Pradesh,1-MORENA,6,DEVENDRA KUMAR AGRVAL,Aam Aadmi Party
+S12,1,S12-Madhya Pradesh,1-MORENA,7,MANESH KUMAR RAWAT,Jai Maha Bharath Party
+S12,1,S12-Madhya Pradesh,1-MORENA,8,RAJESH KUSHWAH,Samajwadi Party
+S12,1,S12-Madhya Pradesh,1-MORENA,9,VISNU SHARMA VIRTHARE,All India Trinamool Congress
+S12,1,S12-Madhya Pradesh,1-MORENA,10,SHAKTI SINGH TOMAR,Rashtriya Ahinsa Manch
+S12,1,S12-Madhya Pradesh,1-MORENA,11,ANOOP NAGAR,Independent
+S12,1,S12-Madhya Pradesh,1-MORENA,12,AKASH GUPTA,Independent
+S12,1,S12-Madhya Pradesh,1-MORENA,13,KULDEEP SINGH,Independent
+S12,1,S12-Madhya Pradesh,1-MORENA,14,CHHAVENDRA,Independent
+S12,1,S12-Madhya Pradesh,1-MORENA,15,RAM NARESH,Independent
 S12,1,S12-Madhya Pradesh,1-MORENA,16,SATANDRA SINGH (TONY TOMAR),Independent
-S12,1,S12-Madhya Pradesh,1-MORENA,17,CHHAVENDRA,Independent
-S12,1,S12-Madhya Pradesh,1-MORENA,18,RAM NARESH,Independent
-S12,1,S12-Madhya Pradesh,1-MORENA,19,ANOOP NAGAR,Independent
-S12,1,S12-Madhya Pradesh,1-MORENA,20,RAVI SHANKER GOYAL,Independent
-S12,1,S12-Madhya Pradesh,1-MORENA,21,MANEESH KUMAR RAWAT,Jai Maha Bharath Party
-S12,1,S12-Madhya Pradesh,1-MORENA,22,KULDEEP SINGH,Independent
-S12,1,S12-Madhya Pradesh,1-MORENA,23,AKASH GUPTA,Independent
-S12,1,S12-Madhya Pradesh,1-MORENA,24,SHAKTI SINGH TOMAR,Rashtriya Ahinsa Manch
-S12,1,S12-Madhya Pradesh,1-MORENA,25,GANI KHAN (VIKKI),Rashtriya Krantikari Samajwadi Party
-S12,1,S12-Madhya Pradesh,1-MORENA,26,VISNU SHARMA,All India Trinamool Congress
-S12,2,S12-Madhya Pradesh,2-BHIND,1,ANEETA CHODHARI,Samajwadi Party
-S12,2,S12-Madhya Pradesh,2-BHIND,2,BANBARI SINGH,Bahujan Mukti Party
-S12,2,S12-Madhya Pradesh,2-BHIND,3,KIRAN DOHARE,Bahujan Samaj Party
-S12,2,S12-Madhya Pradesh,2-BHIND,4,IMARTI DEVI,Indian National Congress
-S12,2,S12-Madhya Pradesh,2-BHIND,5,PHOOL SINGH BARAIYA,Bahujan Sangharshh Dal
-S12,2,S12-Madhya Pradesh,2-BHIND,7,MANISH KUMAR,Bahujan Samaj Party
-S12,2,S12-Madhya Pradesh,2-BHIND,8,BHAGIRATH PRASAD,Bharatiya Janata Party
-S12,2,S12-Madhya Pradesh,2-BHIND,10,VIJAY SINGH,All India Forward Bloc
-S12,2,S12-Madhya Pradesh,2-BHIND,11,DILIP SINGH,Independent
-S12,2,S12-Madhya Pradesh,2-BHIND,12,TEEKARAM,Loktantrik Samajwadi Party
-S12,2,S12-Madhya Pradesh,2-BHIND,15,KRISHNA DEVEE,Aam Aadmi Party
-S12,2,S12-Madhya Pradesh,2-BHIND,18,KIRAN DOHARE,Independent
-S12,2,S12-Madhya Pradesh,2-BHIND,19,HAKIM SINGH,Independent
-S12,2,S12-Madhya Pradesh,2-BHIND,20,RAY SINGH,Independent
-S12,2,S12-Madhya Pradesh,2-BHIND,21,RAM SEWAK MAURYA,Independent
-S12,2,S12-Madhya Pradesh,2-BHIND,22,IMARTI BAI,Independent
-S12,3,S12-Madhya Pradesh,3-GWALIOR,1,SUNIL GOPAL,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S12,3,S12-Madhya Pradesh,3-GWALIOR,2,ANAND SINGH KUSHWAH (RAMAYANI),Independent
-S12,3,S12-Madhya Pradesh,3-GWALIOR,3,GEETA RAJPUT,Al-Hind Party
-S12,3,S12-Madhya Pradesh,3-GWALIOR,4,CAPTAN BABULAL GOSWAMI,Independent
-S12,3,S12-Madhya Pradesh,3-GWALIOR,5,HIRADAY NARAYAN SINGH TOMAR,Akhil Bharat Hindu Mahasabha
-S12,3,S12-Madhya Pradesh,3-GWALIOR,6,ALOK KUMAR,Bahujan Samaj Party
-S12,3,S12-Madhya Pradesh,3-GWALIOR,10,MADAN MOHAN SINGH TOMAR,Bhartiya Jan Yug Party
-S12,3,S12-Madhya Pradesh,3-GWALIOR,11,C.L. KARODIYA,Jan-Nyay Dal
-S12,3,S12-Madhya Pradesh,3-GWALIOR,12,ASHOK SINGH,Indian National Congress
-S12,3,S12-Madhya Pradesh,3-GWALIOR,14,AKHILESH,Communist Party of India  (Marxist)
-S12,3,S12-Madhya Pradesh,3-GWALIOR,15,VIKAS SHARMA,Bharatiya Navyuvak Party
-S12,3,S12-Madhya Pradesh,3-GWALIOR,16,RAM,Independent
-S12,3,S12-Madhya Pradesh,3-GWALIOR,17,NARENDRA SINGH TOMAR,Bharatiya Janata Party
-S12,3,S12-Madhya Pradesh,3-GWALIOR,18,DEEPAK KUMAR,Independent
-S12,3,S12-Madhya Pradesh,3-GWALIOR,19,KISHAN LAL KUSHWAH,Rashtriya Samanta Dal
-S12,3,S12-Madhya Pradesh,3-GWALIOR,20,SHIV SINGH KUSHAWAH,Mahanwadi Party
-S12,3,S12-Madhya Pradesh,3-GWALIOR,21,PRAJESH CHOUDHARY,Independent
-S12,3,S12-Madhya Pradesh,3-GWALIOR,22,BALWANT SINGH,Samajwadi Party
-S12,3,S12-Madhya Pradesh,3-GWALIOR,23,NARAYAN SINGH,Independent
-S12,3,S12-Madhya Pradesh,3-GWALIOR,24,ASIF KHAN,Independent
-S12,3,S12-Madhya Pradesh,3-GWALIOR,25,NEELAM,Aam Aadmi Party
-S12,3,S12-Madhya Pradesh,3-GWALIOR,26,KAMTA PRASAD KAMTE,Bharatiya Rashtriya Mazdoor Dal
-S12,3,S12-Madhya Pradesh,3-GWALIOR,27,GULAM NABI,Independent
+S12,1,S12-Madhya Pradesh,1-MORENA,17,SIYARAM SINGH CHOUDRI,Independent
+S12,2,S12-Madhya Pradesh,2-BHIND,1,IMARTI DEVI,Indian National Congress
+S12,2,S12-Madhya Pradesh,2-BHIND,2,DR. BHAGIRATH PRASAD,Bharatiya Janata Party
+S12,2,S12-Madhya Pradesh,2-BHIND,3,MANISH KATROLIYA,Bahujan Samaj Party
+S12,2,S12-Madhya Pradesh,2-BHIND,4,ANITA HITENDRA CHAUDHARY,Samajwadi Party
+S12,2,S12-Madhya Pradesh,2-BHIND,5,KRISHNA DEVI,Aam Aadmi Party
+S12,2,S12-Madhya Pradesh,2-BHIND,6,B.S. THANESWARIYA,Bahujan Mukti Party
+S12,2,S12-Madhya Pradesh,2-BHIND,7,PHOOLSINGH BARAIYA,Bahujan Sangharshh Dal
+S12,2,S12-Madhya Pradesh,2-BHIND,8,VIJAYSINGH KORI,All India Forward Bloc
+S12,2,S12-Madhya Pradesh,2-BHIND,9,HAKIM SINGH,Independent
+S12,3,S12-Madhya Pradesh,3-GWALIOR,1,AKHILESH YADAV,Communist Party of India  (Marxist)
+S12,3,S12-Madhya Pradesh,3-GWALIOR,2,ASHOK SINGH,Indian National Congress
+S12,3,S12-Madhya Pradesh,3-GWALIOR,3,ALOK SHARMA,Bahujan Samaj Party
+S12,3,S12-Madhya Pradesh,3-GWALIOR,4,NARENDRA SINGH TOMAR,Bharatiya Janata Party
+S12,3,S12-Madhya Pradesh,3-GWALIOR,5,C.L. KARODIYA (PRIJAPATI),Jan-Nyay Dal
+S12,3,S12-Madhya Pradesh,3-GWALIOR,6,K. P. KAMTE,Bharatiya Rashtriya Mazdoor Dal
+S12,3,S12-Madhya Pradesh,3-GWALIOR,7,KISHAN LAL KUSHWAH,Rashtriya Samanta Dal
+S12,3,S12-Madhya Pradesh,3-GWALIOR,8,GEETA RAJPUT,Al-Hind Party
+S12,3,S12-Madhya Pradesh,3-GWALIOR,9,NEELAM AGRWAL,Aam Aadmi Party
+S12,3,S12-Madhya Pradesh,3-GWALIOR,10,BALWANT SINGH KUSHWAH ADVOCATE,Samajwadi Party
+S12,3,S12-Madhya Pradesh,3-GWALIOR,11,MADAN MOHAN URF MOHAN SINGH TOMAR,Bhartiya Jan Yug Party
+S12,3,S12-Madhya Pradesh,3-GWALIOR,12,VIKAS SHARMA,Bharatiya Navyuvak Party
+S12,3,S12-Madhya Pradesh,3-GWALIOR,13,SHIV SINGH KUSHAWAH,Mahanwadi Party
+S12,3,S12-Madhya Pradesh,3-GWALIOR,14,COMRADE SUNIL GOPAL,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S12,3,S12-Madhya Pradesh,3-GWALIOR,15,HIRADAY NARAYAN SINGH TOMAR (GUDDU),Akhil Bharat Hindu Mahasabha
+S12,3,S12-Madhya Pradesh,3-GWALIOR,16,ASIF KHAN,Independent
+S12,3,S12-Madhya Pradesh,3-GWALIOR,17,DEEPAK KUMAR BANSAL RANGWALE (PRERAK),Independent
+S12,3,S12-Madhya Pradesh,3-GWALIOR,18,NARAYAN SINGH KUSHWAH,Independent
+S12,3,S12-Madhya Pradesh,3-GWALIOR,19,PRAJESH CHOUDHARY,Independent
+S12,3,S12-Madhya Pradesh,3-GWALIOR,20,CAPTAN BABULAL GOSWAMI,Independent
+S12,3,S12-Madhya Pradesh,3-GWALIOR,21,RAM PATHWAR KORI (RAMSEBAK),Independent
+S12,4,S12-Madhya Pradesh,4-GUNA,1,JAIBHANSINGH PAWAIYA,Bharatiya Janata Party
 S12,4,S12-Madhya Pradesh,4-GUNA,2,JYOTIRADITYA M. SCINDIA,Indian National Congress
-S12,4,S12-Madhya Pradesh,4-GUNA,3,CHANDRAPAL SINGH TOMAR,Independent
-S12,4,S12-Madhya Pradesh,4-GUNA,4,LAKHAN SINGH BAGHEL,Bahujan Samaj Party
-S12,4,S12-Madhya Pradesh,4-GUNA,5,HAJARI LAL KOTIA (RATHORE),Independent
-S12,4,S12-Madhya Pradesh,4-GUNA,6,SHAILENDRA SINGH KUSHWAH,Aam Aadmi Party
-S12,4,S12-Madhya Pradesh,4-GUNA,7,JAIBHANSINGH PAWAIYA,Bharatiya Janata Party
-S12,4,S12-Madhya Pradesh,4-GUNA,8,NARAYANRAO GUPCHUP,Independent
-S12,4,S12-Madhya Pradesh,4-GUNA,9,MAHENDRA KUMAR,Independent
-S12,4,S12-Madhya Pradesh,4-GUNA,10,GIRRAJ YADAV,Independent
-S12,4,S12-Madhya Pradesh,4-GUNA,11,NAND KISHORE TYAGI,Independent
-S12,4,S12-Madhya Pradesh,4-GUNA,12,LALLI RAM RAI,Independent
-S12,4,S12-Madhya Pradesh,4-GUNA,13,ANWAR KHAN,Independent
-S12,5,S12-Madhya Pradesh,5-SAGAR,1,BHARAT KUMAR,Independent
-S12,5,S12-Madhya Pradesh,5-SAGAR,2,GOVIND SINGH,Indian National Congress
-S12,5,S12-Madhya Pradesh,5-SAGAR,3,LAXMINARAYAN,Bharatiya Janata Party
+S12,4,S12-Madhya Pradesh,4-GUNA,3,LAKHAN SINGH BAGHEL,Bahujan Samaj Party
+S12,4,S12-Madhya Pradesh,4-GUNA,4,SHAILENDRA SINGH KUSHWAH,Aam Aadmi Party
+S12,4,S12-Madhya Pradesh,4-GUNA,5,ANWAR KHAN,Independent
+S12,4,S12-Madhya Pradesh,4-GUNA,6,GIRRAJ YADAV,Independent
+S12,4,S12-Madhya Pradesh,4-GUNA,7,CHANDRAPAL SINGH TOMAR,Independent
+S12,4,S12-Madhya Pradesh,4-GUNA,8,NAND KISHORE TYAGI,Independent
+S12,4,S12-Madhya Pradesh,4-GUNA,9,NARAYANRAO GUPCHUP,Independent
+S12,4,S12-Madhya Pradesh,4-GUNA,10,MAHENDRA KUMAR,Independent
+S12,4,S12-Madhya Pradesh,4-GUNA,11,LALLI RAM RAI,Independent
+S12,5,S12-Madhya Pradesh,5-SAGAR,1,GOVIND SINGH RAJPUT,Indian National Congress
+S12,5,S12-Madhya Pradesh,5-SAGAR,2,LAXMI NARAYAN YADAV,Bharatiya Janata Party
+S12,5,S12-Madhya Pradesh,5-SAGAR,3,SAROJ KATIYAR KURMI,Bahujan Samaj Party
 S12,5,S12-Madhya Pradesh,5-SAGAR,4,ATUL MISHRA,Aam Aadmi Party
-S12,5,S12-Madhya Pradesh,5-SAGAR,5,SAROJ KATIYAR,Bahujan Samaj Party
-S12,5,S12-Madhya Pradesh,5-SAGAR,6,LAXMINARAYAN,Bharatiya Janata Party
-S12,5,S12-Madhya Pradesh,5-SAGAR,7,GOVIND SINGH,Indian National Congress
-S12,5,S12-Madhya Pradesh,5-SAGAR,8,VINAY KUMAR,Bhartiya Shakti Chetna Party
-S12,5,S12-Madhya Pradesh,5-SAGAR,9,KASHIRAM,Gondvana Gantantra Party
-S12,5,S12-Madhya Pradesh,5-SAGAR,10,MAHENDRA KUMAR,Bahujan Mukti Party
-S12,5,S12-Madhya Pradesh,5-SAGAR,11,SHITIN,Independent
-S12,5,S12-Madhya Pradesh,5-SAGAR,12,MOHAMMAD HANIF,Independent
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,1,KAMLESH KUMAR,Indian National Congress
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,2,NEERAJ,Communist Party of India
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,3,DR. VIRENDRA KUMAR,Bharatiya Janata Party
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,4,SEWAK RAM AHIRWAR,Bahujan Samaj Party
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,5,AMBESH KUMARI,Samajwadi Party
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,6,RAMESH CHAND VERMA,Aam Aadmi Party
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,7,RAM CHARAN AHIRWAR,Poorvanchal Rashtriya Congress
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,8,GANESH,Independent
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,9,GIRDHARI,Independent
+S12,5,S12-Madhya Pradesh,5-SAGAR,5,KASHIRAM PATEL,Gondvana Gantantra Party
+S12,5,S12-Madhya Pradesh,5-SAGAR,6,VINAY KUMAR,Bhartiya Shakti Chetna Party
+S12,5,S12-Madhya Pradesh,5-SAGAR,7,BHARAT SEN ADVOCATE,Independent
+S12,5,S12-Madhya Pradesh,5-SAGAR,8,MAHENDRA KUMAR CHOUDHARY,Independent
+S12,5,S12-Madhya Pradesh,5-SAGAR,9,SHITIN KESHERWANI,Independent
+S12,5,S12-Madhya Pradesh,5-SAGAR,10,M. HANIF QURASHI,Independent
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,1,AHIRWAR DR. KAMLESH VERMA,Indian National Congress
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,2,AHIRWAR SEWAK RAM,Bahujan Samaj Party
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,3,KHANGAR NEERAJ,Communist Party of India
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,4,DR. VIRENDRA KUMAR,Bharatiya Janata Party
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,5,DR. AMBESH KUMARI AHIRWAR,Samajwadi Party
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,6,AHIRWAR RAMCHARAN,Poorvanchal Rashtriya Congress
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,7,RAMESH CHAND VERMA,Aam Aadmi Party
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,8,GANESH KUMHAR,Independent
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,9,GIRDHARI LAL KORI,Independent
 S12,6,S12-Madhya Pradesh,6-TIKAMGARH,10,CHATURBHUJ SNEHI,Independent
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,11,BHAGWAN DAS,Independent
-S12,6,S12-Madhya Pradesh,6-TIKAMGARH,12,LAKHAN LAL,Independent
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,11,BHAGWAN DAS BANSHKAR,Independent
+S12,6,S12-Madhya Pradesh,6-TIKAMGARH,12,LAKHAN LAL CHADHAR,Independent
 S12,6,S12-Madhya Pradesh,6-TIKAMGARH,13,SHEEL CHANDRA AHIRWAR,Independent
-S12,7,S12-Madhya Pradesh,7-DAMOH,1,MAHENDRA PRATAP SINGH,Indian National Congress
-S12,7,S12-Madhya Pradesh,7-DAMOH,2,DEVENDRA-CHOURASIA,Bahujan Samaj Party
-S12,7,S12-Madhya Pradesh,7-DAMOH,4,PRAHLAD SINGH PATEL,Bharatiya Janata Party
-S12,7,S12-Madhya Pradesh,7-DAMOH,10,UPENDRA SINGH,Bhartiya Shakti Chetna Party
-S12,7,S12-Madhya Pradesh,7-DAMOH,11,SANTOSH BHARTI,Aam Aadmi Party
-S12,7,S12-Madhya Pradesh,7-DAMOH,13,ANANT LAL BASOR,Independent
-S12,7,S12-Madhya Pradesh,7-DAMOH,14,GULAB KHAN,Minorities Democratic Party
-S12,7,S12-Madhya Pradesh,7-DAMOH,15,LALCHAND,Rashtriya Janata Dal
-S12,7,S12-Madhya Pradesh,7-DAMOH,16,ISHWAR CHAND,Gondvana Gantantra Party
-S12,7,S12-Madhya Pradesh,7-DAMOH,17,PRAHLAD-MUKUNDILAL,Independent
-S12,7,S12-Madhya Pradesh,7-DAMOH,18,PRAHLAD-GABDU,Independent
-S12,7,S12-Madhya Pradesh,7-DAMOH,19,IRFAN KHAN,Independent
-S12,7,S12-Madhya Pradesh,7-DAMOH,20,MAHENDRA PRATAP SINGH -RAGHUVEER SINGH,Independent
-S12,7,S12-Madhya Pradesh,7-DAMOH,21,PRAHLAD KURMI-BALMUKUND KURMI,Independent
+S12,7,S12-Madhya Pradesh,7-DAMOH,1,DEVENDRA CHAOURASIA,Bahujan Samaj Party
+S12,7,S12-Madhya Pradesh,7-DAMOH,2,PRAHALAD SINGH PATEL,Bharatiya Janata Party
+S12,7,S12-Madhya Pradesh,7-DAMOH,3,CHOUDHARY MAHENDRA PRATAP SINGH,Indian National Congress
+S12,7,S12-Madhya Pradesh,7-DAMOH,4,DIVAN UPENDR PRATAP SINGH (RAJA SAB),Bhartiya Shakti Chetna Party
+S12,7,S12-Madhya Pradesh,7-DAMOH,5,SANTOSH BHARTI,Aam Aadmi Party
+S12,7,S12-Madhya Pradesh,7-DAMOH,6,ANANT LAL BASOR,Independent
+S12,7,S12-Madhya Pradesh,7-DAMOH,7,IRFAN KHAN,Independent
+S12,7,S12-Madhya Pradesh,7-DAMOH,8,DR.GULAB KHAN MASTER,Independent
+S12,7,S12-Madhya Pradesh,7-DAMOH,9,PRAHLAD SINGH PATEL,Independent
+S12,7,S12-Madhya Pradesh,7-DAMOH,10,PRAHLAD SINGH LODI,Independent
 S12,8,S12-Madhya Pradesh,8-KHAJURAHO,1,NAGENDRA SINGH,Bharatiya Janata Party
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,2,JAGDEESH KUMAR PATEL,Apna Dal
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,2,RAJA PATERIA,Indian National Congress
 S12,8,S12-Madhya Pradesh,8-KHAJURAHO,3,RAM LAKHAN SINGH,Bahujan Samaj Party
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,4,DINESH,Bharatiya Janata Party
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,5,MAHESH CHANDRA,Rashtriya Samanta Dal
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,6,RAJA PATERIYA,Indian National Congress
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,7,SIDDHARTH KUSHWAHA,Samajwadi Party
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,8,RAM NATH,Independent
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,9,KRISHNA SHARAN,Brihattar Bharat Prajatantra Sewa Party
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,10,AMIT BHATNAGAR,Aam Aadmi Party
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,11,ANSHAN KARI GUPT RAMKISHOR,Bharatiya Janata Party
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,12,SANTOSH KUMAR,Independent
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,13,AVNISH TIWARI,Shivsena
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,14,AYENDR KUMAR SHARMA,Independent
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,15,ANWAR KHAN,Independent
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,16,SANJEEV KUMAR MISHRA,All India Forward Bloc
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,17,SHRI DHAR KHARE,Independent
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,18,DURGA SHARMA,Bundelkhand Congress
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,19,JAYANT PRATAP SINGH,Independent
-S12,8,S12-Madhya Pradesh,8-KHAJURAHO,20,IMRAN,Peace Party
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,4,AMIT BHATNAGAR,Aam Aadmi Party
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,5,AVNISH TIWARI,Shivsena
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,6,IMRAN,Peace Party
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,7,KRISHAN SHARAN BHAIYA RAJA BUNDELA,Brihattar Bharat Prajatantra Sewa Party
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,8,JAGDEESH KUMAR PATEL,Apna Dal
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,9,SMT. DURGA SHARMA / ALIAS MADHU KAPIL,Bundelkhand Congress
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,10,MAHESH CHANDRA,Rashtriya Samanta Dal
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,11,SIDDHARTH SUKHLAL KUSHWAHA,Samajwadi Party
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,12,SANJEEV KUMAR MISHRA,All India Forward Bloc
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,13,ANWAR KHAN,Independent
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,14,AYENDRA  KUMAR SHARMA,Independent
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,15,JAYANT PRATAP SINGH / VIJAY SINGH,Independent
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,16,RAM NATH LODHEE,Independent
+S12,8,S12-Madhya Pradesh,8-KHAJURAHO,17,SHRIDHAR KHARE,Independent
 S12,9,S12-Madhya Pradesh,9-SATNA,1,AJAY ARJUN SINGH,Indian National Congress
 S12,9,S12-Madhya Pradesh,9-SATNA,2,GANESH SINGH,Bharatiya Janata Party
 S12,9,S12-Madhya Pradesh,9-SATNA,3,DHARMENDRA SINGH,Bahujan Samaj Party
@@ -1409,11 +1237,14 @@ S12,17,S12-Madhya Pradesh,17-HOSHANGABAD,5,MAYA VISHWAKARMA,Aam Aadmi Party
 S12,17,S12-Madhya Pradesh,17-HOSHANGABAD,6,UDAY PRATAP  SINGH,Independent
 S12,17,S12-Madhya Pradesh,17-HOSHANGABAD,7,DEVENDRA KUMAR URF GUDDA BHAIYYA,Independent
 S12,17,S12-Madhya Pradesh,17-HOSHANGABAD,8,MUKESH BABU AHIRWAR,Independent
-S14,1,S14-Manipur,1-Inner manipur,1,DR. GURUMAYUM TONSANA SHARMA,Manipur Democratic Peoples's Front
-S14,1,S14-Manipur,1-Inner manipur,2,DR. THOKCHOM MEINYA,Indian National Congress
+S14,1,S14-Manipur,1-Inner manipur,1,DR. THOKCHOM MEINYA,Indian National Congress
+S14,1,S14-Manipur,1-Inner manipur,2,MOIRANGTHEM NARA,Communist Party of India
 S14,1,S14-Manipur,1-Inner manipur,3,RAJKUMAR RANJAN SINGH,Bharatiya Janata Party
-S14,1,S14-Manipur,1-Inner manipur,4,MOIRANGTHEM NARA,Communist Party of India
-S14,1,S14-Manipur,1-Inner manipur,5,INDIRA OINAM,Independent
+S14,1,S14-Manipur,1-Inner manipur,4,SARANGTHEM MANAOBI,All India Trinamool Congress
+S14,1,S14-Manipur,1-Inner manipur,5,DR. IBOMCHA SINGH,Aam Aadmi Party
+S14,1,S14-Manipur,1-Inner manipur,6,OINAM JOTIN SINGH,Jai Maha Bharath Party
+S14,1,S14-Manipur,1-Inner manipur,7,DR. GURUMAYUM TONSANA SHARMA,Manipur Democratic Peoples's Front
+S14,1,S14-Manipur,1-Inner manipur,8,INDIRA OINAM,Independent
 S14,2,S14-Manipur,2-Outer manipur,1,KIM GANGTE,All India Trinamool Congress
 S14,2,S14-Manipur,2-Outer manipur,2,GANGMUMEI KAMEI,Bharatiya Janata Party
 S14,2,S14-Manipur,2-Outer manipur,3,CHUNGKHOKAI DOUNGEL,Nationalist Congress Party
@@ -1472,13 +1303,13 @@ S18,3,S18-Orissa,3-Sambalpur,9,ASHOK PANDA,Independent
 S18,3,S18-Orissa,3-Sambalpur,10,DUSMANTA KAR,Independent
 S18,3,S18-Orissa,3-Sambalpur,11,MD. ALI HUSSAIN,Independent
 S18,4,S18-Orissa,4-Keonjhar,1,ANANTA NAYAK,Bharatiya Janata Party
-S18,4,S18-Orissa,4-Keonjhar,2,MADHABA SARDAR,Indian National Congress
-S18,4,S18-Orissa,4-Keonjhar,3,BASUDEB NAIK,Independent
+S18,4,S18-Orissa,4-Keonjhar,2,JAGAT MOHAN NAIK,Bahujan Samaj Party
+S18,4,S18-Orissa,4-Keonjhar,3,MADHABA SARDAR,Indian National Congress
 S18,4,S18-Orissa,4-Keonjhar,4,SAKUNTALA LAGURI,Biju Janata Dal
-S18,4,S18-Orissa,4-Keonjhar,5,DR. SUDARSHAN LOHAR,Rashtriya Indepndent Morcha
-S18,4,S18-Orissa,4-Keonjhar,6,SUJIT KUMAR LUGUN,Independent
-S18,4,S18-Orissa,4-Keonjhar,7,BISHNUPRIYA NAIK,Odisha Jan Morcha
-S18,4,S18-Orissa,4-Keonjhar,8,JAGAT MOHAN NAIK,Bahujan Samaj Party
+S18,4,S18-Orissa,4-Keonjhar,5,BISHNUPRIYA NAIK,Odisha Jan Morcha
+S18,4,S18-Orissa,4-Keonjhar,6,DR. SUDARSHAN LOHAR,Rashtriya Indepndent Morcha
+S18,4,S18-Orissa,4-Keonjhar,7,BASUDEB NAIK,Independent
+S18,4,S18-Orissa,4-Keonjhar,8,SUJIT KUMAR LUGUN,Independent
 S18,5,S18-Orissa,5-Mayurbhanj,1,DR. NEPOLE RAGHU MURMU,Bharatiya Janata Party
 S18,5,S18-Orissa,5-Mayurbhanj,2,SALKHAN MURMU,Independent
 S18,5,S18-Orissa,5-Mayurbhanj,3,DEVI PRASANNA BESRA,Independent
@@ -1486,65 +1317,56 @@ S18,5,S18-Orissa,5-Mayurbhanj,4,RAMA CHANDRA HANSDAH,Biju Janata Dal
 S18,5,S18-Orissa,5-Mayurbhanj,5,DEVI PRASANNA BESRA,Independent
 S18,5,S18-Orissa,5-Mayurbhanj,6,SALKHAN MURMU,Independent
 S18,5,S18-Orissa,5-Mayurbhanj,7,DR. NEPOLE RAGHU MURMU,Bharatiya Janata Party
-S18,6,S18-Orissa,6-Balasore,1,M A KHARABELA SWAIN,Aama Odisha Party
-S18,6,S18-Orissa,6-Balasore,2,PRASANTA KUMAR MISHRA,Communist Party of India
-S18,6,S18-Orissa,6-Balasore,3,MAMATA KUNDU,Aam Aadmi Party
-S18,6,S18-Orissa,6-Balasore,4,SAROJ KUMAR PANDA,Independent
-S18,6,S18-Orissa,6-Balasore,5,RABINDRA KUMAR JENA,Biju Janata Dal
-S18,6,S18-Orissa,6-Balasore,6,SHRIKANTA KUMAR JENA,Indian National Congress
-S18,6,S18-Orissa,6-Balasore,7,BICHITRA NANDA DAS,Bahujan Samaj Party
-S18,6,S18-Orissa,6-Balasore,8,PRATAP CHANDRA SARANGI,Bharatiya Janata Party
-S18,6,S18-Orissa,6-Balasore,9,KARTIKESWAR PATRA,All India Trinamool Congress
-S18,6,S18-Orissa,6-Balasore,10,DAMODAR DAS,Independent
-S18,6,S18-Orissa,6-Balasore,11,BISWAJIT RAY,Independent
-S18,6,S18-Orissa,6-Balasore,12,JAGANNATH DAS,Independent
-S18,7,S18-Orissa,7-Bhadrak,1,ARJUN CHARAN SETHI,Biju Janata Dal
-S18,7,S18-Orissa,7-Bhadrak,2,NARAYAN CHANDRA JENA,Aam Aadmi Party
+S18,5,S18-Orissa,5-Mayurbhanj,8,ANTA ALOK BASKEY,AJSU Party
+S18,5,S18-Orissa,5-Mayurbhanj,9,ANTA ALOK BASKEY,AJSU Party
+S18,5,S18-Orissa,5-Mayurbhanj,10,BHAGABAN SOREN,Independent
+S18,5,S18-Orissa,5-Mayurbhanj,12,DASHMAT SOREN,Bahujan Samaj Party
+S18,5,S18-Orissa,5-Mayurbhanj,13,DEBASHIS MARNDI,Jharkhand Mukti Morcha
+S18,5,S18-Orissa,5-Mayurbhanj,14,CHHABI MAHALI,Aam Aadmi Party
+S18,5,S18-Orissa,5-Mayurbhanj,16,RAMA CHANDRA HANSDAH,Biju Janata Dal
+S18,5,S18-Orissa,5-Mayurbhanj,18,PRABHUDAN MARANDI,Aama Odisha Party
+S18,5,S18-Orissa,5-Mayurbhanj,19,DASHMAT SOREN,Bahujan Samaj Party
+S18,5,S18-Orissa,5-Mayurbhanj,20,SHYAM SUNDAR HANSDAH,Indian National Congress
+S18,6,S18-Orissa,6-Balasore,1,PRASANTA KUMAR MISHRA,Communist Party of India
+S18,6,S18-Orissa,6-Balasore,2,MAMATA KUNDU,Aam Aadmi Party
+S18,6,S18-Orissa,6-Balasore,3,SAROJ KUMAR PANDA,Independent
+S18,6,S18-Orissa,6-Balasore,4,RABINDRA KUMAR JENA,Biju Janata Dal
+S18,6,S18-Orissa,6-Balasore,5,SHRIKANTA KUMAR JENA,Indian National Congress
+S18,6,S18-Orissa,6-Balasore,6,BICHITRA NANDA DAS,Bahujan Samaj Party
+S18,6,S18-Orissa,6-Balasore,7,PRATAP CHANDRA SARANGI,Bharatiya Janata Party
+S18,6,S18-Orissa,6-Balasore,8,KARTIKESWAR PATRA,All India Trinamool Congress
+S18,6,S18-Orissa,6-Balasore,9,BISWAJIT RAY,Independent
+S18,6,S18-Orissa,6-Balasore,10,JAGANNATH DAS,Independent
+S18,7,S18-Orissa,7-Bhadrak,1,ARJUN CHARAN MALLIK,Bahujan Samaj Party
+S18,7,S18-Orissa,7-Bhadrak,2,ARJUN CHARAN SETHI,Biju Janata Dal
 S18,7,S18-Orissa,7-Bhadrak,3,RAMESH JENA,Communist Party of India
-S18,7,S18-Orissa,7-Bhadrak,4,SANGRAM KESHARI JENA,Indian National Congress
-S18,7,S18-Orissa,7-Bhadrak,5,SARAT DAS,Bharatiya Janata Party
-S18,7,S18-Orissa,7-Bhadrak,6,ARJUN CHARAN MALLIK,Bahujan Samaj Party
-S18,7,S18-Orissa,7-Bhadrak,7,SUSANTA KUMAR JENA,Independent
-S18,7,S18-Orissa,7-Bhadrak,8,NETRANANDA MALLICK,Aama Odisha Party
-S18,8,S18-Orissa,8-Jajpur,1,SUBAS CHANDRA MALLICK,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S18,8,S18-Orissa,8-Jajpur,2,RITA TARAI,Biju Janata Dal
-S18,8,S18-Orissa,8-Jajpur,3,KALANDI MALLICK,Aam Aadmi Party
-S18,8,S18-Orissa,8-Jajpur,4,DEBENDRA KUMAR MALLIK,Bahujan Samaj Party
-S18,8,S18-Orissa,8-Jajpur,5,NABIN KUMAR DALAI,Independent
+S18,7,S18-Orissa,7-Bhadrak,4,SARAT DAS,Bharatiya Janata Party
+S18,7,S18-Orissa,7-Bhadrak,5,SANGRAM KESHARI JENA,Indian National Congress
+S18,7,S18-Orissa,7-Bhadrak,6,NARAYAN CHANDRA JENA,Aam Aadmi Party
+S18,7,S18-Orissa,7-Bhadrak,7,NETRANANDA MALLICK,Aama Odisha Party
+S18,7,S18-Orissa,7-Bhadrak,8,SUSANTA KUMAR JENA,Independent
+S18,8,S18-Orissa,8-Jajpur,1,AMIYA KANTA MALLICK,Bharatiya Janata Party
+S18,8,S18-Orissa,8-Jajpur,2,ASOK DAS,Indian National Congress
+S18,8,S18-Orissa,8-Jajpur,3,DEBENDRA KUMAR MALLIK,Bahujan Samaj Party
+S18,8,S18-Orissa,8-Jajpur,4,RITA TARAI,Biju Janata Dal
+S18,8,S18-Orissa,8-Jajpur,5,KALANDI MALIK,Aam Aadmi Party
 S18,8,S18-Orissa,8-Jajpur,6,GAYADHAR MALLICK,Samata Kranti Dal
-S18,8,S18-Orissa,8-Jajpur,7,ASOK DAS,Indian National Congress
-S18,8,S18-Orissa,8-Jajpur,8,AMIYA KANTA MALLICK,Bharatiya Janata Party
-S18,8,S18-Orissa,8-Jajpur,9,RANJIT MALIK,Bahujan Mukti Party
-S18,9,S18-Orissa,9-Dhenkanal,1,JIMUTA PRASAD MISHRA,Aam Aadmi Party
-S18,9,S18-Orissa,9-Dhenkanal,2,PRIYABRATA GARNAIK,Samata Kranti Dal
-S18,9,S18-Orissa,9-Dhenkanal,3,DEBASHIS HOTA,Independent
+S18,8,S18-Orissa,8-Jajpur,7,RANJIT MALIK,Bahujan Mukti Party
+S18,8,S18-Orissa,8-Jajpur,8,SUBAS CHANDRA MALLICK,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S18,8,S18-Orissa,8-Jajpur,9,NABIN KUMAR DALAI,Independent
+S18,9,S18-Orissa,9-Dhenkanal,1,TATHAGATA SATPATHY,Biju Janata Dal
+S18,9,S18-Orissa,9-Dhenkanal,2,PREMANANDA SAHOO,Bahujan Samaj Party
+S18,9,S18-Orissa,9-Dhenkanal,3,RUDRANARAYAN PANY,Bharatiya Janata Party
 S18,9,S18-Orissa,9-Dhenkanal,4,SUDHIR KUMAR SAMAL,Indian National Congress
-S18,9,S18-Orissa,9-Dhenkanal,5,SUDHIR KUMAR SAMAL,Indian National Congress
-S18,9,S18-Orissa,9-Dhenkanal,6,SUDHIR KUMAR SAMAL,Indian National Congress
-S18,9,S18-Orissa,9-Dhenkanal,7,SUDHIR KUMAR SAMAL,Indian National Congress
-S18,9,S18-Orissa,9-Dhenkanal,8,NIRMAL SAMAL,Independent
-S18,9,S18-Orissa,9-Dhenkanal,9,PRADYUMNA KUMAR NAIK,Bahujan Mukti Party
-S18,9,S18-Orissa,9-Dhenkanal,10,TATHAGATA SATPATHY,Biju Janata Dal
-S18,9,S18-Orissa,9-Dhenkanal,11,TATHAGATA SATPATHY,Biju Janata Dal
-S18,9,S18-Orissa,9-Dhenkanal,12,TATHAGATA SATPATHY,Biju Janata Dal
-S18,9,S18-Orissa,9-Dhenkanal,13,TATHAGATA SATPATHY,Biju Janata Dal
-S18,9,S18-Orissa,9-Dhenkanal,14,KALAKAR NAIK,Ambedkarite Party of India
-S18,9,S18-Orissa,9-Dhenkanal,15,PREMANANDA SAHOO,Bahujan Samaj Party
-S18,9,S18-Orissa,9-Dhenkanal,16,PREMANANDA SAHOO,Bahujan Samaj Party
-S18,9,S18-Orissa,9-Dhenkanal,17,NIRMAL SAMAL,Independent
-S18,9,S18-Orissa,9-Dhenkanal,18,JIMUTA PRASAD MISHRA,Aam Aadmi Party
-S18,9,S18-Orissa,9-Dhenkanal,19,MANASI SWAIN,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S18,9,S18-Orissa,9-Dhenkanal,20,MANASI SWAIN,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S18,9,S18-Orissa,9-Dhenkanal,21,RUDRANARAYAN PANY,Bharatiya Janata Party
-S18,9,S18-Orissa,9-Dhenkanal,22,RUDRANARAYAN PANY,Bharatiya Janata Party
-S18,9,S18-Orissa,9-Dhenkanal,23,RUDRANARAYAN PANY,Bharatiya Janata Party
-S18,9,S18-Orissa,9-Dhenkanal,24,RUDRANARAYAN PANY,Bharatiya Janata Party
-S18,9,S18-Orissa,9-Dhenkanal,25,SUPARNO SATPATHY,Aama Odisha Party
-S18,9,S18-Orissa,9-Dhenkanal,26,SUPARNO SATPATHY,Aama Odisha Party
-S18,9,S18-Orissa,9-Dhenkanal,27,PRIYABRATA GARANAIK,Samata Kranti Dal
-S18,9,S18-Orissa,9-Dhenkanal,28,GURU PRASAD PRADHAN,Independent
-S18,9,S18-Orissa,9-Dhenkanal,29,GURU PRASAD PRADHAN,Independent
-S18,9,S18-Orissa,9-Dhenkanal,30,GURU PRASAD PRADHAN,Independent
+S18,9,S18-Orissa,9-Dhenkanal,5,KALAKAR NAIK,Ambedkarite Party of India
+S18,9,S18-Orissa,9-Dhenkanal,6,JIMUTA PRASAD MISHRA,Aam Aadmi Party
+S18,9,S18-Orissa,9-Dhenkanal,7,PRADYUMNA KUMAR NAIK,Bahujan Mukti Party
+S18,9,S18-Orissa,9-Dhenkanal,8,PRIYABRATA GARNAIK,Samata Kranti Dal
+S18,9,S18-Orissa,9-Dhenkanal,9,MANASI SWAIN,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S18,9,S18-Orissa,9-Dhenkanal,10,SUPARNO SATPATHY,Aama Odisha Party
+S18,9,S18-Orissa,9-Dhenkanal,11,GURU PRASAD PRADHAN,Independent
+S18,9,S18-Orissa,9-Dhenkanal,12,DEBASHIS HOTA,Independent
+S18,9,S18-Orissa,9-Dhenkanal,13,NIRMAL SAMAL,Independent
 S18,10,S18-Orissa,10-Bolangir,1,KALIKESH NARAYAN SINGH DEO,Biju Janata Dal
 S18,10,S18-Orissa,10-Bolangir,2,RANA NAG,Bahujan Samaj Party
 S18,10,S18-Orissa,10-Bolangir,3,SARAT PATTNAYAK,Indian National Congress
@@ -1592,18 +1414,21 @@ S18,14,S18-Orissa,14-Cuttack,6,SAMIR DEY,Bharatiya Janata Party
 S18,14,S18-Orissa,14-Cuttack,7,BIKASH DAS,Aam Aadmi Party
 S18,14,S18-Orissa,14-Cuttack,8,JIBESH KISHORE SUNDARAY,All India Trinamool Congress
 S18,14,S18-Orissa,14-Cuttack,9,MAHAMEGHABAHAN AIRA KHARABELA SWAIN,Aama Odisha Party
+S18,14,S18-Orissa,14-Cuttack,10,PRAMOD KUMAR MALLICK,Bahujan Samaj Party
 S18,15,S18-Orissa,15-Kendrapara,1,SUKUMAR MALLICK,Independent
 S18,15,S18-Orissa,15-Kendrapara,2,SHEKH FARUK,Bahujan Samaj Party
 S18,15,S18-Orissa,15-Kendrapara,3,SRI BAIJAYANT PANDA,Biju Janata Dal
 S18,15,S18-Orissa,15-Kendrapara,4,BISHNU PRASAD DAS,Bharatiya Janata Party
 S18,15,S18-Orissa,15-Kendrapara,5,MD.SAMIM AKTAR,Aam Aadmi Party
 S18,15,S18-Orissa,15-Kendrapara,6,DHARANIDHAR NAYAK,Indian National Congress
+S18,15,S18-Orissa,15-Kendrapara,7,PRAMOD SAHU,Independent
 S18,16,S18-Orissa,16-Jagatsinghpur,1,ANUPAMA SETHY,Aam Aadmi Party
 S18,16,S18-Orissa,16-Jagatsinghpur,2,KULAMANI SAMAL,Biju Janata Dal
 S18,16,S18-Orissa,16-Jagatsinghpur,3,AJAY KUMAR BEHERA,Communist Party of India
 S18,16,S18-Orissa,16-Jagatsinghpur,4,MANAS KUMAR BEHERA,Independent
 S18,16,S18-Orissa,16-Jagatsinghpur,5,BIBHU PRASAD TARAI,Indian National Congress
 S18,16,S18-Orissa,16-Jagatsinghpur,6,BAIDHAR MALLICK,Bharatiya Janata Party
+S18,16,S18-Orissa,16-Jagatsinghpur,7,PRADIP KUMAR MALLICK,Bahujan Samaj Party
 S18,17,S18-Orissa,17-Puri,1,SABYASACHI MOHAPATRA,Kalinga Sena
 S18,17,S18-Orissa,17-Puri,2,SUCHARITA MOHANTY,Indian National Congress
 S18,17,S18-Orissa,17-Puri,3,ASHOK PRADHAN,Communist Party of India  (Marxist-Leninist)  (Liberation)
@@ -1611,7 +1436,6 @@ S18,17,S18-Orissa,17-Puri,4,NIRADA BARANA KHUNTIA,Aam Aadmi Party
 S18,17,S18-Orissa,17-Puri,5,BHASKAR CHANDRA MOHANTY,Bahujan Samaj Party
 S18,17,S18-Orissa,17-Puri,6,ASHOK SAHU,Bharatiya Janata Party
 S18,17,S18-Orissa,17-Puri,7,PINAKI MISHRA,Biju Janata Dal
-S18,18,S18-Orissa,18-Bhubaneswar,1,ABHIJATA MISHRA,All India Trinamool Congress
 S18,18,S18-Orissa,18-Bhubaneswar,2,PRANA KRUSHNA DALABEHERA,Samruddha Odisha
 S18,18,S18-Orissa,18-Bhubaneswar,3,PRAMILA BEHERA,Communist Party of India (Marxist-Leninist) Red Star
 S18,18,S18-Orissa,18-Bhubaneswar,4,SUNJOY HANS,Aama Odisha Party
@@ -1623,15 +1447,15 @@ S18,18,S18-Orissa,18-Bhubaneswar,9,DR KULAMANI NAYAK,"Proutist Bloc, India"
 S18,18,S18-Orissa,18-Bhubaneswar,10,PRITHIVIRAJ HARICHANDAN,Bharatiya Janata Party
 S18,18,S18-Orissa,18-Bhubaneswar,11,MANAS RANJAN MISHRA,Independent
 S18,18,S18-Orissa,18-Bhubaneswar,12,RABINDRA NATH BEHERA,Samajwadi Party
-S18,19,S18-Orissa,19-Aska,1,K. SHYAMBABU SUBUDHI,Independent
-S18,19,S18-Orissa,19-Aska,2,LADU KISHORE SWAIN,Biju Janata Dal
-S18,19,S18-Orissa,19-Aska,3,SANKAR SAHU,Communist Party of India (Marxist-Leninist) Red Star
-S18,19,S18-Orissa,19-Aska,4,MAHESH CHANDRA MOHANTY,Bharatiya Janata Party
+S18,19,S18-Orissa,19-Aska,1,BIJAYA KUMAR MAHAPATRO,Bahujan Samaj Party
+S18,19,S18-Orissa,19-Aska,2,MAHESH CHANDRA MOHANTY,Bharatiya Janata Party
+S18,19,S18-Orissa,19-Aska,3,SRILOKANATH RATHA,Indian National Congress
+S18,19,S18-Orissa,19-Aska,4,LADU KISHORE SWAIN,Biju Janata Dal
 S18,19,S18-Orissa,19-Aska,5,PRABHAT KUMAR MAHANTY,Aam Aadmi Party
-S18,19,S18-Orissa,19-Aska,6,SRILOKANATH RATHA,Indian National Congress
-S18,19,S18-Orissa,19-Aska,7,DR BANSIDHAR TRIPATHY,All India Trinamool Congress
-S18,19,S18-Orissa,19-Aska,8,BIJAYA KUMAR MAHAPATRO,Bahujan Samaj Party
-S18,19,S18-Orissa,19-Aska,9,KALI CHARANA NAYAK,Independent
+S18,19,S18-Orissa,19-Aska,6,DR BANSIDHAR TRIPATHY,All India Trinamool Congress
+S18,19,S18-Orissa,19-Aska,7,SANKAR SAHU,Communist Party of India (Marxist-Leninist) Red Star
+S18,19,S18-Orissa,19-Aska,8,KALI CHARANA NAYAK,Independent
+S18,19,S18-Orissa,19-Aska,9,K. SHYAMBABU SUBUDHI,Independent
 S18,20,S18-Orissa,20-Berhampur,1,ALI KISHOR PATNAIK,Communist Party of India  (Marxist)
 S18,20,S18-Orissa,20-Berhampur,2,ASWINI KUMAR PADHY,Bahujan Samaj Party
 S18,20,S18-Orissa,20-Berhampur,3,CHANDRA SEKHAR SAHU,Indian National Congress
@@ -1652,115 +1476,98 @@ S18,21,S18-Orissa,21-Koraput,6,MEGHANADA SABAR,Communist Party of India  (Marxis
 S18,21,S18-Orissa,21-Koraput,7,KAILASH SABARA,Samata Kranti Dal
 S18,21,S18-Orissa,21-Koraput,8,PRASKA RENGA,Bahujan Samaj Party
 S18,21,S18-Orissa,21-Koraput,9,BANAMALI MAJHI,Ambedkarite Party of India
-S20,1,S20-Rajasthan,1-Ganganagar,1,DULICHAND MEGHWAL,Independent
-S20,1,S20-Rajasthan,1-Ganganagar,2,KUMBHA RAM,Independent
-S20,1,S20-Rajasthan,1-Ganganagar,3,TITAR SINGH,Independent
-S20,1,S20-Rajasthan,1-Ganganagar,4,PALUSKAR KRISHNARAO TATOBA,Prabuddha Republican Party
-S20,1,S20-Rajasthan,1-Ganganagar,5,NIHALCHAND,Bharatiya Janata Party
-S20,1,S20-Rajasthan,1-Ganganagar,6,KARTAR SINGH BAINS,All India Trinamool Congress
-S20,1,S20-Rajasthan,1-Ganganagar,7,SOHAN LAL,Bahujan Samaj Party
-S20,1,S20-Rajasthan,1-Ganganagar,8,SHIMLA DEVI NAYAK,National Unionist Zamindara Party
-S20,1,S20-Rajasthan,1-Ganganagar,9,PALA RAM,Communist Party of India  (Marxist)
-S20,1,S20-Rajasthan,1-Ganganagar,10,HETRAM,Rajasthan Vikas Party
-S20,1,S20-Rajasthan,1-Ganganagar,11,BALKRISHAN,Aam Aadmi Party
-S20,1,S20-Rajasthan,1-Ganganagar,12,AMAR SINGH,Bahujan Mukti Party
-S20,1,S20-Rajasthan,1-Ganganagar,13,OM PRAKASH,Independent
-S20,1,S20-Rajasthan,1-Ganganagar,14,BHANWARLAL,Indian National Congress
-S20,1,S20-Rajasthan,1-Ganganagar,15,SUNIL BHADRAWAL,Lok Dal
-S20,1,S20-Rajasthan,1-Ganganagar,16,BALRAJ,Independent
-S20,1,S20-Rajasthan,1-Ganganagar,17,BALWANT SINGH,Bharatiya Sant Mat Party
-S20,1,S20-Rajasthan,1-Ganganagar,18,JASVINDER SINGH,Jai Maha Bharath Party
-S20,1,S20-Rajasthan,1-Ganganagar,19,JASVINDER SINGH,National Peoples Party
-S20,2,S20-Rajasthan,2-Bikaner,1,MANGILAL NAYAK,National Unionist Zamindara Party
-S20,2,S20-Rajasthan,2-Bikaner,2,SHANKAR LAL,Indian National Congress
-S20,2,S20-Rajasthan,2-Bikaner,3,BHANWAR LAL,Bahujan Samaj Party
-S20,2,S20-Rajasthan,2-Bikaner,4,GAURISHANKAR,Aam Aadmi Party
-S20,2,S20-Rajasthan,2-Bikaner,5,RAM RATAN,Bahujan Mukti Party
-S20,2,S20-Rajasthan,2-Bikaner,6,GOPAL BALMIKI,Independent
-S20,2,S20-Rajasthan,2-Bikaner,7,ARJUN RAM MEGHWAL,Bharatiya Janata Party
+S20,1,S20-Rajasthan,1-Ganganagar,1,NIHALCHAND,Bharatiya Janata Party
+S20,1,S20-Rajasthan,1-Ganganagar,2,PALARAM,Communist Party of India  (Marxist)
+S20,1,S20-Rajasthan,1-Ganganagar,3,MASTER BHANWARLAL MEGHWAL,Indian National Congress
+S20,1,S20-Rajasthan,1-Ganganagar,4,AMAR SINGH,Bahujan Mukti Party
+S20,1,S20-Rajasthan,1-Ganganagar,5,ADVOCATE KARTAR SINGH BAINS,All India Trinamool Congress
+S20,1,S20-Rajasthan,1-Ganganagar,6,JASVINDER SINGH,Jai Maha Bharath Party
+S20,1,S20-Rajasthan,1-Ganganagar,7,DR. PALUSKAR K. T.,Prabuddha Republican Party
+S20,1,S20-Rajasthan,1-Ganganagar,8,BALWANT SINGH HARIYALA,Bharatiya Sant Mat Party
+S20,1,S20-Rajasthan,1-Ganganagar,9,DR. BALKRISHAN BAWARI,Aam Aadmi Party
+S20,1,S20-Rajasthan,1-Ganganagar,10,SHIMLA DEVI NAYAK (ADVOCATE),National Unionist Zamindara Party
+S20,1,S20-Rajasthan,1-Ganganagar,11,SUNIL BHADRAWAL,Lok Dal
+S20,1,S20-Rajasthan,1-Ganganagar,12,HETRAM,Rajasthan Vikas Party
+S20,1,S20-Rajasthan,1-Ganganagar,13,OM PARKASH,Independent
+S20,1,S20-Rajasthan,1-Ganganagar,14,KUMBHA RAM,Independent
+S20,1,S20-Rajasthan,1-Ganganagar,15,TITAR SINGH,Independent
+S20,1,S20-Rajasthan,1-Ganganagar,16,DULICHAND MEGHWAL,Independent
+S20,1,S20-Rajasthan,1-Ganganagar,17,BALRAJ BAWARI,Independent
+S20,2,S20-Rajasthan,2-Bikaner,1,ARJUN RAM MEGHWAL,Bharatiya Janata Party
+S20,2,S20-Rajasthan,2-Bikaner,2,BHANWAR LAL,Bahujan Samaj Party
+S20,2,S20-Rajasthan,2-Bikaner,3,ER. SHANKAR PANNU,Indian National Congress
+S20,2,S20-Rajasthan,2-Bikaner,4,DR. GAURI SHANKER DAABI,Aam Aadmi Party
+S20,2,S20-Rajasthan,2-Bikaner,5,MANGILAL NAYAK,National Unionist Zamindara Party
+S20,2,S20-Rajasthan,2-Bikaner,6,RAM RATAN,Bahujan Mukti Party
+S20,2,S20-Rajasthan,2-Bikaner,7,GOPAL BALMIKI,Independent
 S20,2,S20-Rajasthan,2-Bikaner,8,JAGDISH KUMAR,Independent
-S20,3,S20-Rajasthan,3-Churu,1,RAHUL KASWAN,Bharatiya Janata Party
-S20,3,S20-Rajasthan,3-Churu,2,KRISHAN KUMAR SARAN,Aam Aadmi Party
-S20,3,S20-Rajasthan,3-Churu,4,GAJENDRA ARYA,Independent
-S20,3,S20-Rajasthan,3-Churu,5,INDRASINGH JAT,Communist Party of India  (Marxist)
-S20,3,S20-Rajasthan,3-Churu,6,ABHINESH MAHARSHI,Bahujan Samaj Party
-S20,3,S20-Rajasthan,3-Churu,9,TORURAM MEGHWAL,Bahujan Mukti Party
-S20,3,S20-Rajasthan,3-Churu,10,SYOPAT RAM,Bharatiya Sant Mat Party
-S20,3,S20-Rajasthan,3-Churu,11,PRATAP SINGH,Indian National Congress
-S20,3,S20-Rajasthan,3-Churu,13,AJAY KUMAR,Independent
-S20,3,S20-Rajasthan,3-Churu,14,RAJPAL,Independent
-S20,3,S20-Rajasthan,3-Churu,15,SALIM GUJAR,Independent
-S20,3,S20-Rajasthan,3-Churu,16,MOHAMMAD ALI KHAN,Bahujan Sangharshh Dal
-S20,3,S20-Rajasthan,3-Churu,17,GORDHAN SARSWAT,All India Trinamool Congress
-S20,3,S20-Rajasthan,3-Churu,18,HANUMAN PRASAD JANGID,Independent
-S20,4,S20-Rajasthan,4-Jhunjhunu,1,RAJBALA OLA,Indian National Congress
-S20,4,S20-Rajasthan,4-Jhunjhunu,2,URMILA,Megh Desham Party
-S20,4,S20-Rajasthan,4-Jhunjhunu,3,R S KADYAN,Aam Aadmi Party
-S20,4,S20-Rajasthan,4-Jhunjhunu,5,DR RAJKUMAR SHARMA,Independent
-S20,4,S20-Rajasthan,4-Jhunjhunu,6,DR RAJPAL SHARMA,Independent
-S20,4,S20-Rajasthan,4-Jhunjhunu,7,OM PRAKASH JHARODA,Communist Party of India  (Marxist-Leninist)  (Liberation)
-S20,4,S20-Rajasthan,4-Jhunjhunu,8,SANTOSH AHLAWAT,Bharatiya Janata Party
-S20,4,S20-Rajasthan,4-Jhunjhunu,9,RAHISA BANO,Bahujan Samaj Party
-S20,4,S20-Rajasthan,4-Jhunjhunu,11,BHUDAR MAL,All India Trinamool Congress
-S20,4,S20-Rajasthan,4-Jhunjhunu,12,BHAN SINGH,Bharatiya Sant Mat Party
-S20,4,S20-Rajasthan,4-Jhunjhunu,13,RAJBALA,Independent
-S20,4,S20-Rajasthan,4-Jhunjhunu,14,MAHABEER PRASAD KUMAWAT,Independent
-S20,4,S20-Rajasthan,4-Jhunjhunu,15,PRAVEEN KUMAR,Independent
-S20,5,S20-Rajasthan,5-Sikar,1,PRATAP SINGH,Indian National Congress
-S20,5,S20-Rajasthan,5-Sikar,2,GULAM NABI,Bahujan Samaj Party
+S20,3,S20-Rajasthan,3-Churu,1,ABHINESH MAHARSHI,Bahujan Samaj Party
+S20,3,S20-Rajasthan,3-Churu,2,INDRASINGH JAT,Communist Party of India  (Marxist)
+S20,3,S20-Rajasthan,3-Churu,3,PRATAP SINGH,Indian National Congress
+S20,3,S20-Rajasthan,3-Churu,4,RAHUL KASWAN,Bharatiya Janata Party
+S20,3,S20-Rajasthan,3-Churu,5,KRISHAN KUMAR SARAN,Aam Aadmi Party
+S20,3,S20-Rajasthan,3-Churu,6,GORDHAN SARSWAT,All India Trinamool Congress
+S20,3,S20-Rajasthan,3-Churu,7,TORURAM MEGHWAL,Bahujan Mukti Party
+S20,3,S20-Rajasthan,3-Churu,8,MOHAMMAD ALI KHAN,Bahujan Sangharshh Dal
+S20,3,S20-Rajasthan,3-Churu,9,SYOPAT RAM,Bharatiya Sant Mat Party
+S20,3,S20-Rajasthan,3-Churu,10,AJAY KUMAR,Independent
+S20,3,S20-Rajasthan,3-Churu,11,RAJPAL,Independent
+S20,3,S20-Rajasthan,3-Churu,12,SALIM GUJAR,Independent
+S20,4,S20-Rajasthan,4-Jhunjhunu,1,RAHISA BANO,Bahujan Samaj Party
+S20,4,S20-Rajasthan,4-Jhunjhunu,2,RAJ BALA OLA,Indian National Congress
+S20,4,S20-Rajasthan,4-Jhunjhunu,3,SANTOSH AHLAWAT,Bharatiya Janata Party
+S20,4,S20-Rajasthan,4-Jhunjhunu,4,URMILA,Megh Desham Party
+S20,4,S20-Rajasthan,4-Jhunjhunu,5,OMPRAKASH JHARODA,Communist Party of India  (Marxist-Leninist)  (Liberation)
+S20,4,S20-Rajasthan,4-Jhunjhunu,6,GENERAL R S KADYAN,Aam Aadmi Party
+S20,4,S20-Rajasthan,4-Jhunjhunu,7,BHAN SINGH,Bharatiya Sant Mat Party
+S20,4,S20-Rajasthan,4-Jhunjhunu,8,BHUDAR MAL,All India Trinamool Congress
+S20,4,S20-Rajasthan,4-Jhunjhunu,9,PRAVEEN KUMAR,Independent
+S20,4,S20-Rajasthan,4-Jhunjhunu,10,MAHABEER PRASAD KUMAWAT,Independent
+S20,4,S20-Rajasthan,4-Jhunjhunu,11,DR. RAJKUMAR SHARMA,Independent
+S20,4,S20-Rajasthan,4-Jhunjhunu,12,RAJBALA,Independent
+S20,5,S20-Rajasthan,5-Sikar,1,PRATAP SINGH JAT,Indian National Congress
+S20,5,S20-Rajasthan,5-Sikar,2,GULAM NABI AZAD,Bahujan Samaj Party
 S20,5,S20-Rajasthan,5-Sikar,3,SATISH KUMAR SHARMA,Jago Party
-S20,5,S20-Rajasthan,5-Sikar,4,SURENDRA KUMAR PUNIA,Aam Aadmi Party
+S20,5,S20-Rajasthan,5-Sikar,4,MAJOR SURENDRA KUMAR PUNIA,Aam Aadmi Party
 S20,5,S20-Rajasthan,5-Sikar,5,AMARA RAM,Communist Party of India  (Marxist)
 S20,5,S20-Rajasthan,5-Sikar,6,AJAYPAL,Independent
 S20,5,S20-Rajasthan,5-Sikar,7,SUMEDHA NAND SARASWATI,Bharatiya Janata Party
-S20,5,S20-Rajasthan,5-Sikar,8,RAMESH CHANDRA SHARMA,Bhartiya Party
-S20,5,S20-Rajasthan,5-Sikar,9,SURENDRA KUMAR,Independent
-S20,5,S20-Rajasthan,5-Sikar,11,SUBHASH,Independent
+S20,5,S20-Rajasthan,5-Sikar,8,RAMESH SHARMA,Bhartiya Party
+S20,5,S20-Rajasthan,5-Sikar,9,SURENDRA KUMAR PHULWARIYA,Independent
+S20,5,S20-Rajasthan,5-Sikar,10,VIMAL INDORIA,Jai Maha Bharath Party
+S20,5,S20-Rajasthan,5-Sikar,11,SUBHASH MAHARIA,Independent
 S20,5,S20-Rajasthan,5-Sikar,12,PRATAP SINGH,Independent
-S20,5,S20-Rajasthan,5-Sikar,13,KANHAYLAL,Independent
-S20,5,S20-Rajasthan,5-Sikar,14,DOOL CHAND,Independent
-S20,5,S20-Rajasthan,5-Sikar,15,BHAGIRATH SINGH,Akhil Bharat Hindu Mahasabha
-S20,5,S20-Rajasthan,5-Sikar,16,VIMAL,Jai Maha Bharath Party
-S20,6,S20-Rajasthan,6-Jaipur Rural,2,NARAYAN LAL PARIHAR,Bharat Nav Nirman Party
-S20,6,S20-Rajasthan,6-Jaipur Rural,3,DR. OM SINGH MEENA,Independent
-S20,6,S20-Rajasthan,6-Jaipur Rural,4,JAGDISH PRASAD,Lok Dal
-S20,6,S20-Rajasthan,6-Jaipur Rural,5,SHAYAM SINGH RATHORE,Lok Shakti
-S20,6,S20-Rajasthan,6-Jaipur Rural,6,ANIL SINGH JAT,Bahujan Samaj Party
-S20,6,S20-Rajasthan,6-Jaipur Rural,7,KAMAL  KUMAR  GAUR,Independent
-S20,6,S20-Rajasthan,6-Jaipur Rural,8,RAJYAVARDHAN SINGH RATHORE,Bharatiya Janata Party
-S20,6,S20-Rajasthan,6-Jaipur Rural,9,AJAY KUMAR SHARMA,Jago Party
-S20,6,S20-Rajasthan,6-Jaipur Rural,10,DHIRAJ GURJAR,Samajwadi Party
-S20,6,S20-Rajasthan,6-Jaipur Rural,11,GOVIND SINGH GURJAR,Independent
-S20,6,S20-Rajasthan,6-Jaipur Rural,12,TEK CHAND SONWAL,Ambedkarite Party of India
-S20,6,S20-Rajasthan,6-Jaipur Rural,13,DR. C.P. JOSHI,Indian National Congress
-S20,6,S20-Rajasthan,6-Jaipur Rural,14,ANIL KUMAR,Aam Aadmi Party
-S20,6,S20-Rajasthan,6-Jaipur Rural,15,NAVIN PILANIA,National Peoples Party
-S20,6,S20-Rajasthan,6-Jaipur Rural,16,BHAGWAN SAHAI KHANDELWAL,Independent
-S20,7,S20-Rajasthan,7-Jaipur,1,D.K. CHHANGANI,Communist Party of India
-S20,7,S20-Rajasthan,7-Jaipur,2,ANIL KUMAR SHARMA,Jago Party
-S20,7,S20-Rajasthan,7-Jaipur,3,RAMCHARAN BOHARA,Bharatiya Janata Party
-S20,7,S20-Rajasthan,7-Jaipur,4,SANJAY GOYAL,Independent
-S20,7,S20-Rajasthan,7-Jaipur,5,PAWAN SINGH SHEKHAWAT,Independent
-S20,7,S20-Rajasthan,7-Jaipur,6,DR. VIRENDRA SINGH,Aam Aadmi Party
-S20,7,S20-Rajasthan,7-Jaipur,7,MAHESH JOSHI,Indian National Congress
-S20,7,S20-Rajasthan,7-Jaipur,8,ABID AHMED,Independent
-S20,7,S20-Rajasthan,7-Jaipur,9,RAJU LAL BAIRWA,Ambedkarite Party of India
-S20,7,S20-Rajasthan,7-Jaipur,10,ZAKIR BULAND KHAN,All India Trinamool Congress
-S20,7,S20-Rajasthan,7-Jaipur,11,FAROOQ KHAN,Bahujan Samaj Party
-S20,7,S20-Rajasthan,7-Jaipur,12,DR. TANMAY SHARMA,Indian Peoples Green Party
-S20,7,S20-Rajasthan,7-Jaipur,14,SABIR KHAN,Bharat Nav Nirman Party
-S20,7,S20-Rajasthan,7-Jaipur,16,MUNNA DASS DABODIA,Independent
-S20,7,S20-Rajasthan,7-Jaipur,19,RAM SINGH,Independent
-S20,7,S20-Rajasthan,7-Jaipur,20,KAILASH CHAND SAINI,Hindustan Janta Party
-S20,7,S20-Rajasthan,7-Jaipur,21,NEERU AGARWAL,National Unionist Zamindara Party
-S20,7,S20-Rajasthan,7-Jaipur,22,ABDUL AZIZ BHARTIYA,Rashtriya Ulama Council
-S20,7,S20-Rajasthan,7-Jaipur,24,RAM CHARAN JOSHI,Independent
-S20,7,S20-Rajasthan,7-Jaipur,25,MO. ASHIF FAROOQI,Independent
-S20,7,S20-Rajasthan,7-Jaipur,26,RIYAZ,Independent
-S20,7,S20-Rajasthan,7-Jaipur,28,MO. HAFIZ KHAN VARASI,Independent
-S20,7,S20-Rajasthan,7-Jaipur,31,IFTEKAR QURESHI,All India Forward Bloc
-S20,8,S20-Rajasthan,8-Alwar,1,SANJAY SHARMA,Bharatiya Janata Party
-S20,8,S20-Rajasthan,8-Alwar,2,JETANDRA SINGH,Indian National Congress
+S20,5,S20-Rajasthan,5-Sikar,13,KANHAIYA LAL BALAI,Independent
+S20,5,S20-Rajasthan,5-Sikar,14,DULI CHAND KUMAWAT,Independent
+S20,5,S20-Rajasthan,5-Sikar,15,SWAMI BHAGIRATH SINGH KHARRANTE BHADHADAR,Akhil Bharat Hindu Mahasabha
+S20,6,S20-Rajasthan,6-Jaipur Rural,1,DR. C.P. JOSHI,Indian National Congress
+S20,6,S20-Rajasthan,6-Jaipur Rural,2,RAJYAVARDHAN SINGH RATHORE,Bharatiya Janata Party
+S20,6,S20-Rajasthan,6-Jaipur Rural,3,AJAY KUMAR SHARMA,Jago Party
+S20,6,S20-Rajasthan,6-Jaipur Rural,4,ANIL KUMAR,Aam Aadmi Party
+S20,6,S20-Rajasthan,6-Jaipur Rural,5,JAGDISH PRASAD,Lok Dal
+S20,6,S20-Rajasthan,6-Jaipur Rural,6,TEK CHAND SONWAL,Ambedkarite Party of India
+S20,6,S20-Rajasthan,6-Jaipur Rural,7,DHIRAJ GURJAR,Samajwadi Party
+S20,6,S20-Rajasthan,6-Jaipur Rural,8,NAVIN PILANIA,National Peoples Party
+S20,6,S20-Rajasthan,6-Jaipur Rural,9,NARAYAN LAL PARIHAR,Bharat Nav Nirman Party
+S20,6,S20-Rajasthan,6-Jaipur Rural,10,SHAYAM SINGH RATHORE,Lok Shakti
+S20,6,S20-Rajasthan,6-Jaipur Rural,11,DR. OM SINGH MEENA,Independent
+S20,6,S20-Rajasthan,6-Jaipur Rural,12,KAMAL  KUMAR  GAUR,Independent
+S20,7,S20-Rajasthan,7-Jaipur,1,D.K. (DEV KRISHAN) CHHANGANI,Communist Party of India
+S20,7,S20-Rajasthan,7-Jaipur,2,FAROOQ SHAH,Bahujan Samaj Party
+S20,7,S20-Rajasthan,7-Jaipur,3,DR. MAHESH JOSHI,Indian National Congress
+S20,7,S20-Rajasthan,7-Jaipur,4,RAMCHARAN BOHARA,Bharatiya Janata Party
+S20,7,S20-Rajasthan,7-Jaipur,5,ANIL KUMAR SHARMA,Jago Party
+S20,7,S20-Rajasthan,7-Jaipur,6,ABDUL AZIZ BHARTIYA,Rashtriya Ulama Council
+S20,7,S20-Rajasthan,7-Jaipur,7,IFTEKAR QURISHI,All India Forward Bloc
+S20,7,S20-Rajasthan,7-Jaipur,8,KAILASH CHAND SAINI,Hindustan Janta Party
+S20,7,S20-Rajasthan,7-Jaipur,9,DR. TANMAY,Indian Peoples Green Party
+S20,7,S20-Rajasthan,7-Jaipur,10,NEERU AGARWAL,National Unionist Zamindara Party
+S20,7,S20-Rajasthan,7-Jaipur,11,RAJU LAL BAIRWA,Ambedkarite Party of India
+S20,7,S20-Rajasthan,7-Jaipur,12,DR. VIRENDRA SINGH,Aam Aadmi Party
+S20,7,S20-Rajasthan,7-Jaipur,13,PAWAN SINGH SHEKHAWAT,Independent
+S20,7,S20-Rajasthan,7-Jaipur,14,MUNNA DASS DABODIA,Independent
+S20,7,S20-Rajasthan,7-Jaipur,15,RAM SINGH RAJ,Independent
+S20,7,S20-Rajasthan,7-Jaipur,16,HAFIZ KHAN VARASI,Independent
 S21,1,S21-Sikkim,1-Sikkim,1,PREM DAS RAI,Sikkim Democratic Front
 S21,1,S21-Sikkim,1-Sikkim,2,TEK NATH DHAKAL,Sikkim Krantikari Morcha
 S21,1,S21-Sikkim,1-Sikkim,3,NAR BAHADUR KHATIWARA,Bharatiya Janata Party
@@ -1780,16 +1587,18 @@ S23,1,S23-Tripura,1-Tripura West,10,SALIL SAHA,Aam Aadmi Party
 S23,1,S23-Tripura,1-Tripura West,11,SUBAL BHOWMIK,Tripura Pragatishil Gramin Congress
 S23,1,S23-Tripura,1-Tripura West,12,KAMAL KANTI DEBNATH,Independent
 S23,1,S23-Tripura,1-Tripura West,13,JOGANATI DATTA,Independent
-S23,2,S23-Tripura,2-Tripura East,1,BHRIGURAM REANG,All India Trinamool Congress
-S23,2,S23-Tripura,2-Tripura East,2,JITENDRA CHOUDHURY,Communist Party of India  (Marxist)
-S23,2,S23-Tripura,2-Tripura East,3,FALGUNI TRIPURA,Communist Party of India  (Marxist-Leninist)  (Liberation)
-S23,2,S23-Tripura,2-Tripura East,4,PRABIDDHA REANG,Independent
-S23,2,S23-Tripura,2-Tripura East,5,SACHINDRA DEBBARMA,Indian National Congress
-S23,2,S23-Tripura,2-Tripura East,6,NARENDRA CHANDRA DEBBARMA,Indigenousn People's Front Of Tripura
-S23,2,S23-Tripura,2-Tripura East,7,SRI BIKASH DEBBARMA,Jai Maha Bharath Party
-S23,2,S23-Tripura,2-Tripura East,8,MISS PATAL KANYA JAMATIA,Independent
-S23,2,S23-Tripura,2-Tripura East,9,SRI KARNA BIJOY JAMATIA,Aam Aadmi Party
-S23,2,S23-Tripura,2-Tripura East,10,SHRI PARIKSHIT DEBBARMA,Bharatiya Janata Party
+S23,2,S23-Tripura,2-Tripura East,1,JITENDRA CHOUDHURY,Communist Party of India  (Marxist)
+S23,2,S23-Tripura,2-Tripura East,2,PARIKSHIT DEBBARMA,Bharatiya Janata Party
+S23,2,S23-Tripura,2-Tripura East,3,SACHITRA DEBBARMA,Indian National Congress
+S23,2,S23-Tripura,2-Tripura East,4,KARNA BIJOY JAMATIA,Aam Aadmi Party
+S23,2,S23-Tripura,2-Tripura East,5,NARENDRA CHANDRA DEBBARMA,Indigenousn People's Front Of Tripura
+S23,2,S23-Tripura,2-Tripura East,6,FALGUNI TRIPURA,Communist Party of India  (Marxist-Leninist)  (Liberation)
+S23,2,S23-Tripura,2-Tripura East,7,BASU MOG,Tripura Pragatishil Gramin Congress
+S23,2,S23-Tripura,2-Tripura East,8,BIKASH DEBBARMA,Jai Maha Bharath Party
+S23,2,S23-Tripura,2-Tripura East,9,BHRIGURAM REANG,All India Trinamool Congress
+S23,2,S23-Tripura,2-Tripura East,10,SUBARNAMALA DEB BARMA,Amra Bangalee
+S23,2,S23-Tripura,2-Tripura East,11,PATAL KANYA JAMATIA,Independent
+S23,2,S23-Tripura,2-Tripura East,12,PRABIDDHA REANG,Independent
 S24,1,S24-Uttar Pradesh,1-Saharanpur,1,IMRAN MASOOD,Indian National Congress
 S24,1,S24-Uttar Pradesh,1-Saharanpur,2,JAGDISH SINGH RANA,Bahujan Samaj Party
 S24,1,S24-Uttar Pradesh,1-Saharanpur,3,RAGHAV LAKHANPAL,Bharatiya Janata Party
@@ -1846,112 +1655,78 @@ S24,4,S24-Uttar Pradesh,4-Bijnor,9,MOHAMMAD MOOSA,Peace Party
 S24,4,S24-Uttar Pradesh,4-Bijnor,10,UMESH ALIES PANI,Independent
 S24,4,S24-Uttar Pradesh,4-Bijnor,11,KAMAL,Independent
 S24,4,S24-Uttar Pradesh,4-Bijnor,12,GAJRESH KUMAR,Independent
-S24,5,S24-Uttar Pradesh,5-Nagina,1,ASARPAT SINGH,Independent
+S24,5,S24-Uttar Pradesh,5-Nagina,1,GIRISH CHANDRA,Bahujan Samaj Party
 S24,5,S24-Uttar Pradesh,5-Nagina,2,YASHWANT SINGH,Bharatiya Janata Party
-S24,5,S24-Uttar Pradesh,5-Nagina,3,GHAZI SAADUDDIN ZAHEER AHMED,Nationalist Congress Party
-S24,5,S24-Uttar Pradesh,5-Nagina,4,BHAGWAN DASS RATHOR,Mahan Dal
-S24,5,S24-Uttar Pradesh,5-Nagina,5,VINOD KUMAR TEJYAN,Bahujan Mukti Party
-S24,5,S24-Uttar Pradesh,5-Nagina,6,MANJU DEVI,Lok Dal
-S24,5,S24-Uttar Pradesh,5-Nagina,7,NEETU RANI,Independent
-S24,5,S24-Uttar Pradesh,5-Nagina,8,TEJ SINGH,Ambedkar Samaj Party
-S24,5,S24-Uttar Pradesh,5-Nagina,9,YASHVIR SINGH,Samajwadi Party
-S24,5,S24-Uttar Pradesh,5-Nagina,10,MINAKSHI,Independent
+S24,5,S24-Uttar Pradesh,5-Nagina,3,YASHVIR SINGH,Samajwadi Party
+S24,5,S24-Uttar Pradesh,5-Nagina,4,OMPRAKASH RAVI,Shivsena
+S24,5,S24-Uttar Pradesh,5-Nagina,5,TEJ SINGH,Ambedkar Samaj Party
+S24,5,S24-Uttar Pradesh,5-Nagina,6,BHAGWAN DASS RATHOR,Mahan Dal
+S24,5,S24-Uttar Pradesh,5-Nagina,7,MANJU DEVI,Lok Dal
+S24,5,S24-Uttar Pradesh,5-Nagina,8,VINOD KUMAR,Bahujan Mukti Party
+S24,5,S24-Uttar Pradesh,5-Nagina,9,SHARISHTHA KUMAR SINGH,Jai Maha Bharath Party
+S24,5,S24-Uttar Pradesh,5-Nagina,10,SHEESHRAM SINGH RAVI,Peace Party
 S24,5,S24-Uttar Pradesh,5-Nagina,11,SARIKA,Aam Aadmi Party
-S24,5,S24-Uttar Pradesh,5-Nagina,12,GIRISH CHANDRA,Bahujan Samaj Party
-S24,5,S24-Uttar Pradesh,5-Nagina,13,ROHITASH,Indian Bahujan Samajwadi Party
-S24,5,S24-Uttar Pradesh,5-Nagina,14,SHEESH RAM SINGH RAVI,Peace Party
-S24,5,S24-Uttar Pradesh,5-Nagina,15,SUNIL,Independent
-S24,5,S24-Uttar Pradesh,5-Nagina,16,SHARISHTHA KUMAR SINGH,Jai Maha Bharath Party
-S24,5,S24-Uttar Pradesh,5-Nagina,17,SHAMSHER,Independent
-S24,5,S24-Uttar Pradesh,5-Nagina,18,OM PRAKASH RAVI,Shivsena
-S24,5,S24-Uttar Pradesh,5-Nagina,19,RAJEEV,Jai Maha Bharath Party
-S24,6,S24-Uttar Pradesh,6-Moradabad,1,KUNWER SARVESH KUMAR,Bharatiya Janata Party
-S24,6,S24-Uttar Pradesh,6-Moradabad,2,MOHD ZAFAR IQBAL,Akhil Bharatiya Muslim League (Secular)
-S24,6,S24-Uttar Pradesh,6-Moradabad,3,DR S T HASAN,Samajwadi Party
-S24,6,S24-Uttar Pradesh,6-Moradabad,4,HARIOM,Naya Daur Party
-S24,6,S24-Uttar Pradesh,6-Moradabad,5,ENGINEER MOHAMMAD IRFAN,Peace Party
-S24,6,S24-Uttar Pradesh,6-Moradabad,6,NAFISUDDIN,Communist Party of India  (Marxist)
-S24,6,S24-Uttar Pradesh,6-Moradabad,7,HAJI MOHD YAQOOB,Bahujan Samaj Party
-S24,6,S24-Uttar Pradesh,6-Moradabad,8,SANDEEP KUMAR,Sarva Samaj Kalyan Party
-S24,6,S24-Uttar Pradesh,6-Moradabad,9,VIMAL KUMAR,Aam Aadmi Party
-S24,6,S24-Uttar Pradesh,6-Moradabad,10,ROOPA CHANDRA SINGH,Independent
-S24,6,S24-Uttar Pradesh,6-Moradabad,11,BEGUM NOOR BANO URF MEHTAB,Indian National Congress
-S24,6,S24-Uttar Pradesh,6-Moradabad,12,RAJ KUMAR GUPTA,Independent
-S24,6,S24-Uttar Pradesh,6-Moradabad,13,SATISH CHANDRA SHARMA,Independent
-S24,6,S24-Uttar Pradesh,6-Moradabad,14,KAMAR ALAM,Indian Bahujan Samajwadi Party
+S24,5,S24-Uttar Pradesh,5-Nagina,12,ASARPAT SINGH,Independent
+S24,5,S24-Uttar Pradesh,5-Nagina,13,SHAMSHER,Independent
+S24,5,S24-Uttar Pradesh,5-Nagina,14,SUNIL,Independent
+S24,6,S24-Uttar Pradesh,6-Moradabad,1,NAFISUDDIN,Communist Party of India  (Marxist)
+S24,6,S24-Uttar Pradesh,6-Moradabad,2,BEGUM NOOR BANO URF MEHTAB,Indian National Congress
+S24,6,S24-Uttar Pradesh,6-Moradabad,3,HAJI MOHD YAQOOB,Bahujan Samaj Party
+S24,6,S24-Uttar Pradesh,6-Moradabad,4,KUNWER SARVESH KUMAR,Bharatiya Janata Party
+S24,6,S24-Uttar Pradesh,6-Moradabad,5,DR S T HASAN,Samajwadi Party
+S24,6,S24-Uttar Pradesh,6-Moradabad,6,AMIT KUMAR,Bahujan Mukti Party
+S24,6,S24-Uttar Pradesh,6-Moradabad,7,KAMAR ALAM,Indian Bahujan Samajwadi Party
+S24,6,S24-Uttar Pradesh,6-Moradabad,8,JAIPAL SINGH SAINI,Shivsena
+S24,6,S24-Uttar Pradesh,6-Moradabad,9,MOHD ZAFAR IQBAL,Akhil Bharatiya Muslim League (Secular)
+S24,6,S24-Uttar Pradesh,6-Moradabad,10,TEAJ SINGH SAINI,Rashtriya Samanta Dal
+S24,6,S24-Uttar Pradesh,6-Moradabad,11,ENGINEER MOHAMMAD IRFAN,Peace Party
+S24,6,S24-Uttar Pradesh,6-Moradabad,12,VIMAL KUMAR,Aam Aadmi Party
+S24,6,S24-Uttar Pradesh,6-Moradabad,13,SATISH CHANDRA SHARMA,Naitik Party
+S24,6,S24-Uttar Pradesh,6-Moradabad,14,SANDEEP KUMAR,Sarva Samaj Kalyan Party
 S24,6,S24-Uttar Pradesh,6-Moradabad,15,SAURABH PRATAP SINGH,All India Trinamool Congress
-S24,6,S24-Uttar Pradesh,6-Moradabad,16,RASHID HUSAIN,Jantantra Party
-S24,6,S24-Uttar Pradesh,6-Moradabad,17,TEAJ SINGH SAINI,Rashtriya Samanta Dal
-S24,6,S24-Uttar Pradesh,6-Moradabad,18,SADHNA SINGH,Independent
-S24,6,S24-Uttar Pradesh,6-Moradabad,19,VIJAY PAL SINGH,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S24,6,S24-Uttar Pradesh,6-Moradabad,20,JAIPAL SINGH SAINI,Shivsena
-S24,6,S24-Uttar Pradesh,6-Moradabad,21,AMIT KUMAR,Bahujan Mukti Party
-S24,7,S24-Uttar Pradesh,7-Rampur,1,SIFAT ALI KHAN,Indian Union Muslim League
-S24,7,S24-Uttar Pradesh,7-Rampur,2,NASEER AHMAD KHAN,Samajwadi Party
-S24,7,S24-Uttar Pradesh,7-Rampur,3,JAGMOHAN,Independent
-S24,7,S24-Uttar Pradesh,7-Rampur,4,NAWAB KAZIM ALI KHAN,Indian National Congress
-S24,7,S24-Uttar Pradesh,7-Rampur,5,DR. NEPAL SINGH,Bharatiya Janata Party
-S24,7,S24-Uttar Pradesh,7-Rampur,6,AKBAR HUSAIN,Bahujan Samaj Party
-S24,7,S24-Uttar Pradesh,7-Rampur,7,AKBAR MASOOD,Independent
-S24,7,S24-Uttar Pradesh,7-Rampur,8,SYED SALMAN ALI,Aam Aadmi Party
+S24,6,S24-Uttar Pradesh,6-Moradabad,16,HARIOM,Naya Daur Party
+S24,6,S24-Uttar Pradesh,6-Moradabad,17,RAJ KUMAR GUPTA,Independent
+S24,6,S24-Uttar Pradesh,6-Moradabad,18,ROOPA CHANDRA SINGH,Independent
+S24,7,S24-Uttar Pradesh,7-Rampur,1,AKBAR HUSAIN,Bahujan Samaj Party
+S24,7,S24-Uttar Pradesh,7-Rampur,2,NAWAB KAZIM ALI KHAN,Indian National Congress
+S24,7,S24-Uttar Pradesh,7-Rampur,3,NASEER AHMAD KHAN,Samajwadi Party
+S24,7,S24-Uttar Pradesh,7-Rampur,4,DR. NEPAL SINGH,Bharatiya Janata Party
+S24,7,S24-Uttar Pradesh,7-Rampur,5,JANNAT NISHA,All India Minorities Front
+S24,7,S24-Uttar Pradesh,7-Rampur,6,VIJENDRA SINGH,Rashtriya Congress (Babu Jagjivanram)
+S24,7,S24-Uttar Pradesh,7-Rampur,7,SYED SALMAN ALI,Aam Aadmi Party
+S24,7,S24-Uttar Pradesh,7-Rampur,8,AKBAR MASOOD,Independent
 S24,7,S24-Uttar Pradesh,7-Rampur,9,JAGDISH SARAN SAGAR,Independent
-S24,7,S24-Uttar Pradesh,7-Rampur,10,JANNAT NISHA,All India Minorities Front
-S24,7,S24-Uttar Pradesh,7-Rampur,11,NAVED MIAN,Independent
-S24,7,S24-Uttar Pradesh,7-Rampur,12,VIJENDRA SINGH,Rashtriya Congress (Babu Jagjivanram)
-S24,7,S24-Uttar Pradesh,7-Rampur,13,BEGUM YASEEN ALI KHAN,Independent
-S24,7,S24-Uttar Pradesh,7-Rampur,14,AMARJEET SINGH,Independent
-S24,7,S24-Uttar Pradesh,7-Rampur,15,TEJPAL SINGH,Independent
-S24,8,S24-Uttar Pradesh,8-Sambhal,1,DR SAFIQ UR RAHMAN BARQ,Samajwadi Party
-S24,8,S24-Uttar Pradesh,8-Sambhal,2,SATYA PAL SINGH,Bharatiya Janata Party
-S24,8,S24-Uttar Pradesh,8-Sambhal,3,AQEEL UR REHMAN KHAN,Bahujan Samaj Party
-S24,8,S24-Uttar Pradesh,8-Sambhal,4,DHARAM YADAV ALIAS D P YADAV,Rashtriya Parivartan Dal
-S24,8,S24-Uttar Pradesh,8-Sambhal,5,RASHID,Peace Party
-S24,8,S24-Uttar Pradesh,8-Sambhal,6,HURR MEHDI BAQRI,Aam Aadmi Party
-S24,8,S24-Uttar Pradesh,8-Sambhal,7,ACHARYA PRAMOD KRISHNAM,Indian National Congress
-S24,8,S24-Uttar Pradesh,8-Sambhal,8,REKHA DEVI YADAV,Sanyukt Samajwadi Dal
-S24,8,S24-Uttar Pradesh,8-Sambhal,9,SANJEEV,Bahujan Kranti Party (Marxwad-Ambedkarwad)
-S24,8,S24-Uttar Pradesh,8-Sambhal,10,NUTAN VIJAY,Independent
-S24,8,S24-Uttar Pradesh,8-Sambhal,11,MOHD ASLAM URF PASHA,Republican Party of India (A)
-S24,8,S24-Uttar Pradesh,8-Sambhal,12,KUNAL SINGH,Independent
-S24,8,S24-Uttar Pradesh,8-Sambhal,13,NEM SINGH,Independent
-S24,8,S24-Uttar Pradesh,8-Sambhal,14,NANAD RAM KHHARAGWANSI,Independent
-S24,8,S24-Uttar Pradesh,8-Sambhal,15,FIROJ HAIDER,Independent
-S24,8,S24-Uttar Pradesh,8-Sambhal,16,AKEEL AHMAD,Independent
-S24,8,S24-Uttar Pradesh,8-Sambhal,17,HAJI RASHID HUSSAIN,Independent
-S24,8,S24-Uttar Pradesh,8-Sambhal,18,SURESH CHANDRA,Bharatiya Janata Party
-S24,9,S24-Uttar Pradesh,9-Amroha,1,HUMERA AKHTAR,Samajwadi Party
-S24,9,S24-Uttar Pradesh,9-Amroha,2,HUMERA AKHTAR,Samajwadi Party
-S24,9,S24-Uttar Pradesh,9-Amroha,3,HUMERA AKHTAR,Samajwadi Party
-S24,9,S24-Uttar Pradesh,9-Amroha,4,HUSNEIN RAZAA,New All India Congress Party
-S24,9,S24-Uttar Pradesh,9-Amroha,5,BRAJLAL,Bahujan Mukti Party
-S24,9,S24-Uttar Pradesh,9-Amroha,6,RAKESH TIKAIT,Rashtriya Lok Dal
-S24,9,S24-Uttar Pradesh,9-Amroha,7,RAKESH TIKAIT,Rashtriya Lok Dal
-S24,9,S24-Uttar Pradesh,9-Amroha,8,RAKESH TIKAIT,Rashtriya Lok Dal
+S24,7,S24-Uttar Pradesh,7-Rampur,10,JAGMOHAN,Independent
+S24,7,S24-Uttar Pradesh,7-Rampur,11,TEJPAL SINGH,Independent
+S24,7,S24-Uttar Pradesh,7-Rampur,12,NAVED MIAN,Independent
+S24,8,S24-Uttar Pradesh,8-Sambhal,1,DR SHAFIQ- UR RAHMAN BARQ,Samajwadi Party
+S24,8,S24-Uttar Pradesh,8-Sambhal,2,SATYAPAL SINGH,Bharatiya Janata Party
+S24,8,S24-Uttar Pradesh,8-Sambhal,3,AQEEL-UR -REHMAN KHAN,Bahujan Samaj Party
+S24,8,S24-Uttar Pradesh,8-Sambhal,4,DHARAM YADAV URF D.P.YADAV,Rashtriya Parivartan Dal
+S24,8,S24-Uttar Pradesh,8-Sambhal,5,DR. RASHID ALI,Peace Party
+S24,8,S24-Uttar Pradesh,8-Sambhal,6,ACHARYA PRAMOD KRISHNAM,Indian National Congress
+S24,8,S24-Uttar Pradesh,8-Sambhal,7,REKHA DEVI YADAV,Sanyukt Samajwadi Dal
+S24,8,S24-Uttar Pradesh,8-Sambhal,8,NUTAN VIJAY ADVOCATE,Independent
+S24,8,S24-Uttar Pradesh,8-Sambhal,9,MOHD ASLAM URF PASHA,Republican Party of India (A)
+S24,8,S24-Uttar Pradesh,8-Sambhal,10,NANAD RAM KHADAGVANSHI,Independent
+S24,8,S24-Uttar Pradesh,8-Sambhal,11,FIROZ HAIDER,Independent
+S24,8,S24-Uttar Pradesh,8-Sambhal,12,AQEEL AHMAD,Independent
+S24,8,S24-Uttar Pradesh,8-Sambhal,13,RASHID,Independent
+S24,9,S24-Uttar Pradesh,9-Amroha,1,KANWAR SINGH TANWAR,Bharatiya Janata Party
+S24,9,S24-Uttar Pradesh,9-Amroha,2,FARHAT HASAN,Bahujan Samaj Party
+S24,9,S24-Uttar Pradesh,9-Amroha,3,RAKESH TIKAIT,Rashtriya Lok Dal
+S24,9,S24-Uttar Pradesh,9-Amroha,4,HUMERA AKHTAR,Samajwadi Party
+S24,9,S24-Uttar Pradesh,9-Amroha,5,KHAJAN SINGH,Rashtriya Congress (Babu Jagjivanram)
+S24,9,S24-Uttar Pradesh,9-Amroha,6,BRAJLAL,Bahujan Mukti Party
+S24,9,S24-Uttar Pradesh,9-Amroha,7,MAHESH,Republican Party of India (A)
+S24,9,S24-Uttar Pradesh,9-Amroha,8,RAKESH,Peace Party
 S24,9,S24-Uttar Pradesh,9-Amroha,9,RAJPAL,Adarsh Rashtriya Vikas Party
-S24,9,S24-Uttar Pradesh,9-Amroha,10,KANWAR SINGH TANWAR,Bharatiya Janata Party
-S24,9,S24-Uttar Pradesh,9-Amroha,11,KANWAR SINGH TANWAR,Bharatiya Janata Party
-S24,9,S24-Uttar Pradesh,9-Amroha,12,FARHAT HASAN,Bahujan Samaj Party
-S24,9,S24-Uttar Pradesh,9-Amroha,13,FARHAT HASAN,Bahujan Samaj Party
-S24,9,S24-Uttar Pradesh,9-Amroha,14,FARHAT HASAN,Bahujan Samaj Party
-S24,9,S24-Uttar Pradesh,9-Amroha,15,NARESH CHAND,Independent
-S24,9,S24-Uttar Pradesh,9-Amroha,16,NARESH KUMAR,Independent
-S24,9,S24-Uttar Pradesh,9-Amroha,17,NARESH KUMAR,Independent
-S24,9,S24-Uttar Pradesh,9-Amroha,18,SYED KALBE RUSHAID RIZVI,Aam Aadmi Party
-S24,9,S24-Uttar Pradesh,9-Amroha,19,KAMAL AKHTER,Independent
-S24,9,S24-Uttar Pradesh,9-Amroha,20,HUMERA AKHTAR,Samajwadi Party
-S24,9,S24-Uttar Pradesh,9-Amroha,21,KHAJAN SINGH,Independent
-S24,9,S24-Uttar Pradesh,9-Amroha,22,SERVESH KUMAR SAINI,Shivsena
-S24,9,S24-Uttar Pradesh,9-Amroha,23,SURENDRA SINGH,Independent
-S24,9,S24-Uttar Pradesh,9-Amroha,24,SURENDRA SINGH,Independent
-S24,9,S24-Uttar Pradesh,9-Amroha,25,SHAHNAZ CHOUDHARY,Independent
-S24,9,S24-Uttar Pradesh,9-Amroha,26,SARVESH KUMAR SAINI,Shivsena
-S24,9,S24-Uttar Pradesh,9-Amroha,27,SANJEEV UPADHYAY,Independent
-S24,9,S24-Uttar Pradesh,9-Amroha,28,HUSNEIN RAZAA,New All India Congress Party
-S24,9,S24-Uttar Pradesh,9-Amroha,29,MAHESH,Republican Party of India (A)
-S24,9,S24-Uttar Pradesh,9-Amroha,30,MAHKAR SINGH,Independent
-S24,9,S24-Uttar Pradesh,9-Amroha,31,KARAN SINGH,Bharatiya Nav Kranti Party
-S24,9,S24-Uttar Pradesh,9-Amroha,32,SYED KALBE RUSHAID RIZVI,Aam Aadmi Party
-S24,9,S24-Uttar Pradesh,9-Amroha,33,RAKESH,Peace Party
+S24,9,S24-Uttar Pradesh,9-Amroha,10,SARVESH KUMAR SAINI,Shivsena
+S24,9,S24-Uttar Pradesh,9-Amroha,11,SYED KALBE RUSHAID RIZVI,Aam Aadmi Party
+S24,9,S24-Uttar Pradesh,9-Amroha,12,HUSNEIN RAZAA,New All India Congress Party
+S24,9,S24-Uttar Pradesh,9-Amroha,13,NARESH KUMAR,Independent
+S24,9,S24-Uttar Pradesh,9-Amroha,14,NARESH CHAND,Independent
+S24,9,S24-Uttar Pradesh,9-Amroha,15,SURENDRA SINGH,Independent
 S24,10,S24-Uttar Pradesh,10-Meerut,1,NAGMA,Indian National Congress
 S24,10,S24-Uttar Pradesh,10-Meerut,2,RAJENDRA AGARWAL,Bharatiya Janata Party
 S24,10,S24-Uttar Pradesh,10-Meerut,3,MOHD.SHAHID AKHLAK,Bahujan Samaj Party
@@ -2002,8 +1777,8 @@ S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,5,UDAYVEER,Rashtriya Janta Party
 S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,6,KISHAN PAL SINGH,Aam Aadmi Party
 S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,7,GAJENDRA,Indian Oceanic Party
 S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,8,DHARMENDER,Dharam Nirpeksh Dal
-S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,9,RAM VILAS,Bahujan Mukti Party
-S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,10,RAVINDER SHARMA,Rashtriya Kranti Party
+S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,9,RAVINDER SHARMA,Rashtriya Kranti Party
+S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,10,RAM VILAS,Bahujan Mukti Party
 S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,11,RUVEZ ALAM RAHI,National Loktantrik Party
 S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,12,MOHD. SABIR ANSARI,All India Trinamool Congress
 S24,13,S24-Uttar Pradesh,13-Gautam Buddha Nagar,13,LT COL SP SINGH,Nav Bharat Democratic Party
@@ -2033,102 +1808,63 @@ S24,15,S24-Uttar Pradesh,15-Aligarh,2,ZAFAR ALAM,Samajwadi Party
 S24,15,S24-Uttar Pradesh,15-Aligarh,3,BIJENDRA SINGH,Indian National Congress
 S24,15,S24-Uttar Pradesh,15-Aligarh,4,SATISH KUMAR,Bharatiya Janata Party
 S24,15,S24-Uttar Pradesh,15-Aligarh,5,AMITA SINGH JAAT,Sarva Samaj Kalyan Party
-S24,15,S24-Uttar Pradesh,15-Aligarh,6,DEVANAND,Lok Dal
-S24,15,S24-Uttar Pradesh,15-Aligarh,7,DURGESH CHANDRA GAUTAM,All India Trinamool Congress
+S24,15,S24-Uttar Pradesh,15-Aligarh,6,DURGESH CHANDRA GAUTAM,All India Trinamool Congress
+S24,15,S24-Uttar Pradesh,15-Aligarh,7,DEVANAND,Lok Dal
 S24,15,S24-Uttar Pradesh,15-Aligarh,8,PRADEEP KUMAR,Bahujan Mukti Party
 S24,15,S24-Uttar Pradesh,15-Aligarh,9,BAADSHAH,Peace Party
 S24,15,S24-Uttar Pradesh,15-Aligarh,10,RAKESH CHANDRA RAWAT,Rashtriya Sawarn Dal
 S24,15,S24-Uttar Pradesh,15-Aligarh,11,VINOD KUMAR BAGHEL,Rashtriya Samaj Paksha
-S24,15,S24-Uttar Pradesh,15-Aligarh,12,SABIR RAHI,Aam Aadmi Party
+S24,15,S24-Uttar Pradesh,15-Aligarh,12,MOHD. SABIR RAHI,Aam Aadmi Party
 S24,15,S24-Uttar Pradesh,15-Aligarh,13,NATTHI LAL SHARMA,Independent
 S24,15,S24-Uttar Pradesh,15-Aligarh,14,SANJAY KUMAR,Independent
 S25,1,S25-West Bengal,1-Cooch behar,1,NRIPENDRA NARAYAN SINGHA KARJEE,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S25,1,S25-West Bengal,1-Cooch behar,2,NRIPENDRA NARAYAN SINGHA KARJEE,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
 S25,1,S25-West Bengal,1-Cooch behar,3,DIPAK KUMAR ROY,All India Forward Bloc
-S25,1,S25-West Bengal,1-Cooch behar,4,DIPAK KUMAR ROY,All India Forward Bloc
-S25,1,S25-West Bengal,1-Cooch behar,5,DIPAK KUMAR ROY,All India Forward Bloc
 S25,1,S25-West Bengal,1-Cooch behar,6,HEM CHANDRA BARMAN,Bharatiya Janata Party
-S25,1,S25-West Bengal,1-Cooch behar,7,HEM CHANDRA BARMAN,Bharatiya Janata Party
-S25,1,S25-West Bengal,1-Cooch behar,8,HEM CHANDRA BARMAN,Bharatiya Janata Party
-S25,1,S25-West Bengal,1-Cooch behar,9,HEM CHANDRA BARMAN,Bharatiya Janata Party
 S25,1,S25-West Bengal,1-Cooch behar,10,RENUKA SINHA,All India Trinamool Congress
-S25,1,S25-West Bengal,1-Cooch behar,11,RENUKA SINHA,All India Trinamool Congress
 S25,1,S25-West Bengal,1-Cooch behar,12,BANGSHI BADAN BARMAN,Independent
 S25,1,S25-West Bengal,1-Cooch behar,13,KESHAB CHANDRA RAY,Indian National Congress
-S25,1,S25-West Bengal,1-Cooch behar,14,KESHAB CHANDRA RAY,Indian National Congress
-S25,1,S25-West Bengal,1-Cooch behar,15,KESHAB CHANDRA RAY,Indian National Congress
-S25,1,S25-West Bengal,1-Cooch behar,16,KESHAB CHANDRA RAY,Indian National Congress
 S25,1,S25-West Bengal,1-Cooch behar,17,HITENDRA DAS,Independent
-S25,1,S25-West Bengal,1-Cooch behar,18,HITENDRA DAS,Independent
 S25,1,S25-West Bengal,1-Cooch behar,19,PIJUSH BARMAN,Welfare Party Of India
-S25,1,S25-West Bengal,1-Cooch behar,20,PIJUSH BARMAN,Welfare Party Of India
 S25,1,S25-West Bengal,1-Cooch behar,21,HAREKRISHNA SARKAR,Republican Party of India (A)
-S25,1,S25-West Bengal,1-Cooch behar,22,HAREKRISHNA SARKAR,Republican Party of India (A)
-S25,1,S25-West Bengal,1-Cooch behar,23,DIPAK KUMAR ROY,All India Forward Bloc
 S25,1,S25-West Bengal,1-Cooch behar,24,KAMAL KRISHNA BAIRAGI,Rashtriya Janadhikar Suraksha Party
 S25,1,S25-West Bengal,1-Cooch behar,25,DALENDRA NATH RAY,Amra Bangalee
-S25,1,S25-West Bengal,1-Cooch behar,26,PIJUSH BARMAN,Welfare Party Of India
 S25,1,S25-West Bengal,1-Cooch behar,27,GIRINDRA NATH BARMAN,Bahujan Samaj Party
-S25,2,S25-West Bengal,2-Alipurduars,1,BILKAN BARA,Samajwadi Jan Parishad
-S25,2,S25-West Bengal,2-Alipurduars,2,ISHABELA KUJUR,Rashtriya Janadhikar Suraksha Party
-S25,2,S25-West Bengal,2-Alipurduars,3,JOSEPH MUNDA,Indian National Congress
-S25,2,S25-West Bengal,2-Alipurduars,4,DASRATH TIRKEY,All India Trinamool Congress
-S25,2,S25-West Bengal,2-Alipurduars,5,DASRATH TIRKEY,All India Trinamool Congress
-S25,2,S25-West Bengal,2-Alipurduars,6,DASRATH TIRKEY,All India Trinamool Congress
-S25,2,S25-West Bengal,2-Alipurduars,7,SUBHASH CHIKBARAIK,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S25,2,S25-West Bengal,2-Alipurduars,8,BIRENDRA BARA (ORAON),Bharatiya Janata Party
-S25,2,S25-West Bengal,2-Alipurduars,9,BIRENDRA BARA (ORAON),Bharatiya Janata Party
-S25,2,S25-West Bengal,2-Alipurduars,10,BIRENDRA BARA (ORAON),Bharatiya Janata Party
-S25,2,S25-West Bengal,2-Alipurduars,11,ELIASH NARJINARY,Bahujan Samaj Party
-S25,2,S25-West Bengal,2-Alipurduars,12,MANOHAR TIRKEY,Revolutionary Socialist Party
-S25,2,S25-West Bengal,2-Alipurduars,13,MANOHAR TIRKEY,Revolutionary Socialist Party
-S25,2,S25-West Bengal,2-Alipurduars,14,MANOHAR TIRKEY,Revolutionary Socialist Party
-S25,2,S25-West Bengal,2-Alipurduars,15,MANOHAR TIRKEY,Revolutionary Socialist Party
-S25,2,S25-West Bengal,2-Alipurduars,16,PAUL DEXION KHARIYA,Independent
-S25,2,S25-West Bengal,2-Alipurduars,17,PAUL DEXION KHARIYA,Independent
-S25,2,S25-West Bengal,2-Alipurduars,18,DR. KAPIN CH. BORO,Independent
-S25,2,S25-West Bengal,2-Alipurduars,19,DR. KAPIN CH. BORO,Independent
-S25,3,S25-West Bengal,3-Jalpaiguri,1,HARIBHAKTA SARDAR,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S25,3,S25-West Bengal,3-Jalpaiguri,2,HARIBHAKTA SARDAR,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S25,3,S25-West Bengal,3-Jalpaiguri,3,DHRITIMAN ROY,Rashtriya Janadhikar Suraksha Party
-S25,3,S25-West Bengal,3-Jalpaiguri,4,SUKHBILAS BARMA,Indian National Congress
-S25,3,S25-West Bengal,3-Jalpaiguri,5,DHIRENDRA NATH ROY,Independent
-S25,3,S25-West Bengal,3-Jalpaiguri,6,DHIRENDRA NATH ROY,Independent
-S25,3,S25-West Bengal,3-Jalpaiguri,7,BIJOY CHANDRA BARMAN,All India Trinamool Congress
-S25,3,S25-West Bengal,3-Jalpaiguri,8,SATYALAL SARKAR,Bharatiya Janata Party
-S25,3,S25-West Bengal,3-Jalpaiguri,9,SATYALAL SARKAR,Bharatiya Janata Party
-S25,3,S25-West Bengal,3-Jalpaiguri,10,KSHITISH CHANDRA MANDAL,Bahujan Samaj Party
-S25,3,S25-West Bengal,3-Jalpaiguri,11,MAHENDRA KUMAR ROY,Communist Party of India  (Marxist)
-S25,3,S25-West Bengal,3-Jalpaiguri,12,MAHENDRA KUMAR ROY,Communist Party of India  (Marxist)
-S25,3,S25-West Bengal,3-Jalpaiguri,13,MAHENDRA KUMAR ROY,Communist Party of India  (Marxist)
-S25,3,S25-West Bengal,3-Jalpaiguri,14,SUBASH BISWAS,Independent
-S25,3,S25-West Bengal,3-Jalpaiguri,15,HAREKRISHNA SARKAR,Republican Party of India (A)
-S25,3,S25-West Bengal,3-Jalpaiguri,16,HAREKRISHNA SARKAR,Republican Party of India (A)
-S25,3,S25-West Bengal,3-Jalpaiguri,17,DILIP SARKAR,Bahujan Mukti Party
-S25,3,S25-West Bengal,3-Jalpaiguri,18,HARIPADA BARMAN,Rashtriya Janasachetan Party (R.J.P.)
-S25,4,S25-West Bengal,4-Darjeeling,1,SAMAN PATHAK,Communist Party of India  (Marxist)
-S25,4,S25-West Bengal,4-Darjeeling,2,SAMAN PATHAK,Communist Party of India  (Marxist)
-S25,4,S25-West Bengal,4-Darjeeling,3,SAMAN PATHAK,Communist Party of India  (Marxist)
-S25,4,S25-West Bengal,4-Darjeeling,4,KAKALI MAJUMDAR (ROY),Bahujan Samaj Party
-S25,4,S25-West Bengal,4-Darjeeling,5,KAKALI MAJUMDAR (ROY),Bahujan Samaj Party
+S25,2,S25-West Bengal,2-Alipurduars,1,ELIASH NARJINARY,Bahujan Samaj Party
+S25,2,S25-West Bengal,2-Alipurduars,2,DASRATH TIRKEY,All India Trinamool Congress
+S25,2,S25-West Bengal,2-Alipurduars,3,BIRENDRA BARA (ORAON),Bharatiya Janata Party
+S25,2,S25-West Bengal,2-Alipurduars,4,MANOHAR TIRKEY,Revolutionary Socialist Party
+S25,2,S25-West Bengal,2-Alipurduars,5,JOSEPH MUNDA,Indian National Congress
+S25,2,S25-West Bengal,2-Alipurduars,6,ISHABELA KUJUR,Rashtriya Janadhikar Suraksha Party
+S25,2,S25-West Bengal,2-Alipurduars,7,BILKAN BARA,Samajwadi Jan Parishad
+S25,2,S25-West Bengal,2-Alipurduars,8,SUBASH CHIK BARAIK,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S25,2,S25-West Bengal,2-Alipurduars,9,DR. KAPIN CH. BORO,Independent
+S25,2,S25-West Bengal,2-Alipurduars,10,PAUL DEXION KHARIYA,Independent
+S25,3,S25-West Bengal,3-Jalpaiguri,1,KSHITISH CHANDRA MANDAL,Bahujan Samaj Party
+S25,3,S25-West Bengal,3-Jalpaiguri,2,BIJOY CHANDRA BARMAN,All India Trinamool Congress
+S25,3,S25-West Bengal,3-Jalpaiguri,3,MAHENDRA KUMAR ROY,Communist Party of India  (Marxist)
+S25,3,S25-West Bengal,3-Jalpaiguri,4,SATYALAL SARKAR,Bharatiya Janata Party
+S25,3,S25-West Bengal,3-Jalpaiguri,5,SUKHBILAS BARMA,Indian National Congress
+S25,3,S25-West Bengal,3-Jalpaiguri,6,DILIP SARKAR,Bahujan Mukti Party
+S25,3,S25-West Bengal,3-Jalpaiguri,7,DHIRENDRA NATH ROY,Independent
+S25,3,S25-West Bengal,3-Jalpaiguri,8,DHRITIMAN ROY,Rashtriya Janadhikar Suraksha Party
+S25,3,S25-West Bengal,3-Jalpaiguri,9,HARIPADA BARMAN,Rashtriya Janasachetan Party (R.J.P.)
+S25,3,S25-West Bengal,3-Jalpaiguri,10,HARIBHAKTA SARDAR,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+S25,3,S25-West Bengal,3-Jalpaiguri,11,HAREKRISHNA SARKAR,Republican Party of India (A)
+S25,3,S25-West Bengal,3-Jalpaiguri,12,SUBHAS BISWAS,Independent
+S25,4,S25-West Bengal,4-Darjeeling,1,S.S.AHLUWALIA,Bharatiya Janata Party
+S25,4,S25-West Bengal,4-Darjeeling,2,KAKALI MAJUMDAR (ROY),Bahujan Samaj Party
+S25,4,S25-West Bengal,4-Darjeeling,3,BHAI CHUNG BHUTIA,All India Trinamool Congress
+S25,4,S25-West Bengal,4-Darjeeling,4,SAMAN PATHAK (SURAJ),Communist Party of India  (Marxist)
+S25,4,S25-West Bengal,4-Darjeeling,5,SUJAY GHATAK,Indian National Congress
 S25,4,S25-West Bengal,4-Darjeeling,6,GOUTAM BHATTACHARYA,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S25,4,S25-West Bengal,4-Darjeeling,7,SUJAY GHATAK,Indian National Congress
-S25,4,S25-West Bengal,4-Darjeeling,8,BHAICHUNG BHUTIA,All India Trinamool Congress
-S25,4,S25-West Bengal,4-Darjeeling,9,GOUTAM BHATTACHARYA,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
-S25,4,S25-West Bengal,4-Darjeeling,10,SUJAY GHATAK,Indian National Congress
-S25,4,S25-West Bengal,4-Darjeeling,11,BHAICHUNG BHUTIA,All India Trinamool Congress
-S25,4,S25-West Bengal,4-Darjeeling,12,ARUN KUMAR AGARWAL,Independent
-S25,4,S25-West Bengal,4-Darjeeling,13,ARUN KUMAR AGARWAL,Independent
-S25,4,S25-West Bengal,4-Darjeeling,14,MAHENDRA PRASAD LAMA,Independent
-S25,4,S25-West Bengal,4-Darjeeling,15,MAHENDRA PRASAD LAMA,Independent
-S25,4,S25-West Bengal,4-Darjeeling,16,NIMA LAMA,Gorkha Rashtriya Congress
-S25,4,S25-West Bengal,4-Darjeeling,17,NIMA LAMA,Gorkha Rashtriya Congress
-S25,4,S25-West Bengal,4-Darjeeling,18,SURENDRAJEET SINGH AHLUWALIA,Bharatiya Janata Party
-S25,4,S25-West Bengal,4-Darjeeling,19,SURENDRAJEET SINGH AHLUWALIA,Bharatiya Janata Party
-S25,4,S25-West Bengal,4-Darjeeling,20,RABINDRA ROY BASUNIA,Independent
-S25,4,S25-West Bengal,4-Darjeeling,21,NIRANJAN SAHA,Amra Bangalee
-S25,4,S25-West Bengal,4-Darjeeling,22,LALIT SINGHA,Bahujan Mukti Party
-S25,4,S25-West Bengal,4-Darjeeling,23,SUNIL PANDIT,Rashtriya Janasachetan Party (R.J.P.)
+S25,4,S25-West Bengal,4-Darjeeling,7,NIRANJAN SAHA,Amra Bangalee
+S25,4,S25-West Bengal,4-Darjeeling,8,NIMA LAMA,Gorkha Rashtriya Congress
+S25,4,S25-West Bengal,4-Darjeeling,9,LALIT SINGHA,Bahujan Mukti Party
+S25,4,S25-West Bengal,4-Darjeeling,10,SUNIL PANDIT,Rashtriya Janasachetan Party (R.J.P.)
+S25,4,S25-West Bengal,4-Darjeeling,11,ARUN KUMAR AGARWAL,Independent
+S25,4,S25-West Bengal,4-Darjeeling,12,MAHENDRA P. LAMA,Independent
+S25,4,S25-West Bengal,4-Darjeeling,13,RABINDRA ROY BASUNIA,Independent
+S27,1,S27-Jharkhand,1-Rajmahal,1,DR. ANIL MURMU,Jharkhand Vikas Morcha (Prajatantrik)
 U01,1,U01-Andaman & Nicobar Islands,1-Andaman & Nicobar Islands,1,R.S.UMA BHARATTHY,Nationalist Congress Party
 U01,1,U01-Andaman & Nicobar Islands,1-Andaman & Nicobar Islands,2,KULDEEP RAI SHARMA,Indian National Congress
 U01,1,U01-Andaman & Nicobar Islands,1-Andaman & Nicobar Islands,3,GOUR CHANDRA MAJUMDER,Bahujan Samaj Party
@@ -2166,14 +1902,14 @@ U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,2,KAPIL SIBAL,Indian National Congress
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,3,NARENDRA KR PANDEY,Bahujan Samaj Party
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,4,DR. HARSH VARDHAN,Bharatiya Janata Party
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,5,AJAY KUMAR KHEMKA,Kalyankari Jantantrik Party
-U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,6,MD AFAQ,Jai Maha Bharath Party
+U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,6,MD. AFAQ,Jai Maha Bharath Party
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,7,ALTAF HUSAIN,Bhartiya Janta Dal (Integrated)
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,8,JAGJEET SINGH,Bharatiya Gaon Taj Dal
-U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,9,JAG MOHAN SINGH BAKSHI,Atulya Bharat Party
+U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,9,JAGMOHAN SINGH BAKSHI,Atulya Bharat Party
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,10,DR. TARUN KUMAR,Vishva SHakti Party
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,11,TARIQ MIRZA,Republican Party of India (A)
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,12,DHAN RAJ CHAUHAN,Naya Daur Party
-U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,13,MOHD MURSALEEM,Peace Party
+U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,13,MOHD. MURSALEEM,Peace Party
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,14,MUSARRAT JAHAN,Rashtriya Janmorcha
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,15,RASHMI KASHYAP,Bhartiya Pragatisheel Congress
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,16,SANJAY GANDHI,Braj Vikas Party
@@ -2184,7 +1920,7 @@ U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,20,GAGAN RASTOGI,Independent
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,21,DILDAR HUSSAIN BEG,Independent
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,22,BALRAM BARI,Independent
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,23,BIR SINGH SONI,Independent
-U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,24,VIJAY SHANKAR CHAUBEY,Independent
+U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,24,VIJAY SHANKER CHAUBEY,Independent
 U05,1,U05-NCT OF Delhi,1-CHANDNI CHOWK,25,SURENDER SINGH,Independent
 U05,2,U05-NCT OF Delhi,2-NORTH EAST DELHI,1,ABDUL SAMI SALMANI,Bahujan Samaj Party
 U05,2,U05-NCT OF Delhi,2-NORTH EAST DELHI,2,ANAND KUMAR,Aam Aadmi Party
@@ -2232,56 +1968,35 @@ U05,3,U05-NCT OF Delhi,3-EAST DELHI,20,DEEPAK KUMAR,Independent
 U05,3,U05-NCT OF Delhi,3-EAST DELHI,21,PADAM CHAND,Independent
 U05,3,U05-NCT OF Delhi,3-EAST DELHI,22,MOHAMMED NAEEM,Independent
 U05,3,U05-NCT OF Delhi,3-EAST DELHI,23,MANJEET SINGH,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,1,MAHARAJ KUMAR,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,2,SWADESH OHRI,Atulya Bharat Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,3,NAVEEN CHANDRA,Naya Daur Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,4,VISHAL KHOSLA,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,5,ASHISH KHETAN,Aam Aadmi Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,6,ASHISH KHETAN,Aam Aadmi Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,7,ASHISH KHETAN,Aam Aadmi Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,8,ASHISH KHETAN,Aam Aadmi Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,9,SWADESH OHRI,Atulya Bharat Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,10,NIKHIL SABLANIA,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,11,SOLOMON GEORGE,Bahujan Samaj Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,12,SOLOMON GEORGE,Bahujan Samaj Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,13,AJAY MAKAN,Indian National Congress
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,14,AJAY MAKAN,Indian National Congress
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,15,AJAY MAKAN,Indian National Congress
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,16,AJAY MAKAN,Indian National Congress
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,17,RADHIKA MAKAN,Indian National Congress
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,18,RADHIKA MAKAN,Indian National Congress
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,19,LUKMAN KHAN,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,20,MEENAKASHI LEKHI,Bharatiya Janata Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,21,MEENAKASHI LEKHI,Bharatiya Janata Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,22,MEENAKASHI LEKHI,Bharatiya Janata Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,23,MEENA SINGLA,Poorvanchal Rashtriya Congress
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,24,DHEERAJ PURI,Shivsena
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,25,HARKRISHAN DAS NIJHAWAN,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,26,DEVI SINGH,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,27,LAKSHMI NARAYAN,Bharatiya Bahujan Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,28,LAKSHMI NARAYAN,Bharatiya Bahujan Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,29,PRADEEP VARMA,Bharat Vishal Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,30,BISWAJIT RANJIT CHATTERJEE,All India Trinamool Congress
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,31,PADMAJA KANDUKURI,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,32,SHATRUDHAN GUPTA,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,33,GHANSHYAM DASS,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,34,DALCHAND,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,35,K P SANKARAN MENON,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,36,SUJEET JHA,Bhartiya Janta Dal (Integrated)
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,37,YAMUNA CHAND,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,38,ANJUMAN AGNIHOTRI,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,39,ASHISH SHARMA,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,40,MEENA SINGLA,Poorvanchal Rashtriya Congress
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,41,MEENA SINGLA,Poorvanchal Rashtriya Congress
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,42,SUNITA CHAUDHARY,Jammu & Kashmir National Panthers Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,43,NARENDRA SINGH RAWAT,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,44,RAJNISH GOENKA,Bharatiya Janata Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,45,RAMANUJ PATEL,Samyak Parivartan Party
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,46,RUBINA KHAN,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,47,RAVI KUMAR GUPTA,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,48,VED PRAKASH,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,49,RATHEESH,Independent
-U05,4,U05-NCT OF Delhi,4-NEW DELHI,50,MEENAKASHI LEKHI,Bharatiya Janata Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,1,AJAY MAKAN,Indian National Congress
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,2,ASHISH KHETAN,Aam Aadmi Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,3,MEENAKASHI LEKHI,Bharatiya Janata Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,4,SOLOMON GEORGE,Bahujan Samaj Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,5,DEVI SINGH,Rashtriya Jankranti Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,6,DHEERAJ PURI,Shivsena
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,7,NAVEEN CHANDRA,Naya Daur Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,8,PRADEEP VARMA,Bharat Vishal Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,9,BISWAJIT RANJIT CHATTERJEE,All India Trinamool Congress
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,10,MEENA SINGLA,Poorvanchal Rashtriya Congress
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,11,RAMANUJ PATEL,Samyak Parivartan Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,12,LAKSHMI NARAYAN,Bharatiya Bahujan Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,13,SWADESH OHRI,Atulya Bharat Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,14,SUJEET JHA,Bhartiya Janta Dal (Integrated)
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,15,SUNITA CHAUDHARY,Jammu & Kashmir National Panthers Party
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,16,ANJUMAN AGNIHOTRI,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,17,GHANSHYAM DASS,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,18,DAL CHAND,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,19,NARENDRA SINGH RAWAT,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,20,NIKHIL SABLANIA,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,21,PADMAJA KANDUKURI,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,22,RATHEESH,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,23,RAVI KUMAR GUPTA,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,24,RUBINA KHAN,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,25,LUKMAN KHAN,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,26,VISHAL KHOSLA,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,27,VED PRAKASH,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,28,K P SANKARAN MENON,Independent
+U05,4,U05-NCT OF Delhi,4-NEW DELHI,29,HARKRISHAN DAS NIJHAWAN,Independent
 U05,5,U05-NCT OF Delhi,5-NORTH WEST DELHI,1,UDIT RAJ,Bharatiya Janata Party
 U05,5,U05-NCT OF Delhi,5-NORTH WEST DELHI,2,KRISHNA,Indian National Congress
 U05,5,U05-NCT OF Delhi,5-NORTH WEST DELHI,3,BASANT PANWAR,Bahujan Samaj Party
@@ -2313,20 +2028,20 @@ U05,6,U05-NCT OF Delhi,6-WEST DELHI,14,JARNAIL SINGH,Independent
 U05,6,U05-NCT OF Delhi,6-WEST DELHI,15,BABU SINGH DUKHIYA,Independent
 U05,6,U05-NCT OF Delhi,6-WEST DELHI,16,VIRENDER MOHAN VATS,Independent
 U05,6,U05-NCT OF Delhi,6-WEST DELHI,17,SUNIL SOURABH,Independent
-U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,1,DEVINDER KUMAR SEHRAWAT,Aam Aadmi Party
+U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,1,COL DEVINDER SEHRAWAT,Aam Aadmi Party
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,2,RAMESH KUMAR,Indian National Congress
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,3,RAMESH BIDHURI,Bharatiya Janata Party
-U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,4,SHRI CHAND TANWAR,Communist Party of India
+U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,4,SHRICHAND TANWAR,Communist Party of India
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,5,SANJAY KUMAR RAI,Bahujan Samaj Party
-U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,6,OMBIR,Bharatiya Bahujan Party
+U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,6,CHO. OMBIR SINGH NAUGHWAR,Bharatiya Bahujan Party
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,7,MOHAN KANUGA,Jammu & Kashmir National Panthers Party
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,8,SREERUPA MITRA CHAUDHURY,All India Trinamool Congress
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,9,HAFIZ MUSTAQ,Jan Samanta Party
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,10,KIRAN PAL SINGH,Independent
-U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,11,D K CHOPRA,Independent
+U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,11,D. K. CHOPRA,Independent
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,12,TEJ PAL SINGH,Independent
-U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,13,DUSHMANTA KUMAR GIRI,Independent
-U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,14,NARESH KUMAR,Independent
+U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,13,DR. DUSMANTA KUMAR GIRI,Independent
+U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,14,NARESH KUMAR CHANDALIYA,Independent
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,15,RAKESH KUMAR,Independent
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,16,RUBY YADAV,Independent
 U05,7,U05-NCT OF Delhi,7-SOUTH DELHI,17,SHAHID,Independent
