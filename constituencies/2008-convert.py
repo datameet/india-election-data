@@ -27,17 +27,17 @@ def parse(chunk):
 def run(filename):
     '''Create the CSV file from the command line'''
     out = csv.writer(sys.stdout, lineterminator='\n')
-    out.writerow(['STATE', 'PC_NO', 'PC_NAME', 'PC_TYPE', 'AC_NO', 'AC_NAME', 'AC_TYPE'])
+    out.writerow(['ST_CODE', 'ST_ABBR', 'ST_NAME', 'PC_CODE', 'PC_NAME', 'PC_TYPE', 'AC_CODE', 'AC_NAME', 'AC_TYPE'])
     for row in open(filename):
         row = row.strip()
         if not row:
             continue
 
         if row.startswith('STATE'):
-            state = row.replace('STATE: ', '')
+            dummy, st_abbr, st_code, st_name = row.split(':')
             continue
 
-        pc_parts = (state,) + parse(row[:30].strip())
+        pc_parts = (st_code, st_abbr, st_name,) + parse(row[:30].strip())
 
         ac_row = row[30:].strip()
         lastpos = 0
