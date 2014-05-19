@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
+
 if not os.path.exists('.cache-ec'):
     os.makedirs('.cache-ec')
 
@@ -12,12 +13,13 @@ session = requests.Session()
 
 def get(url):
     '''Return cached lxml tree for url'''
-    path = os.path.join('.cache-ec', hashlib.md5(url).hexdigest() + '.html')
+    url_e=url.encode('utf-8')
+    path = os.path.join('.cache-ec', hashlib.md5(url_e).hexdigest() + '.html')
     if not os.path.exists(path):
-        print url
+        print (url)
         response = session.get(url, headers={'User-Agent': ua})
         with open(path, 'w') as fd:
-            fd.write(response.text.encode('utf-8'))
+            fd.write(response.text)
     return BeautifulSoup(open(path), 'html.parser')
 
 def eci(url):
@@ -31,10 +33,12 @@ def eci(url):
         result.append(cells)
     return result
 
+result=[]
 codes = ['S0'+str(i) for i in range(1,10)]+['S'+str(i) for i in range(10,29)]+['U0'+str(i) for i in range(1,8)]
-result = []
 for code in codes:
     url = "http://eciresults.nic.in/statewise"+code+".htm?st="+code
     result += eci(url)
 
-pd.DataFrame(result).to_csv('eci-constituency-wise.csv', index=False, encoding='utf-8')
+data = pd.DataFrame(result)
+data.columns = ['Constituency','Constituency-code','Leading Candidate','Leading Party','Trailing Candidate','Trailing Party','Margin','Status','State','State-code']
+data.to_csv('eci-constituency-wise.csv', index=False, encoding='utf-8')
