@@ -1,0 +1,66 @@
+Variables
+=========
+
+The file mumbai2014.csv contains results from Maharashtra's 2014
+assembly polls on booth level (AC 152 to AC 187, i.e. greater Mumbai),
+better known as "Form 20" results. For each booth / candidate it lists:
+
+pc:          parliamentary constituency code
+pc_name:     parliamentary constituency name
+ac:          assembly segment code
+ac_name:     assembly segment name
+ac_reserved: assembly segment reservation status
+booth:       polling booth code
+candidate:   candidate name
+party:       party name
+symbol:      allotted symbol
+votes:       number of votes polled
+
+Moreover, there are five "fake" candidate names in each booth:
+
+valid:       number of valid votes
+rejected:    number of rejected votes
+nota:        how often 'None of The Above' was chosen 
+total:       total number of votes
+tendered:    number of tendered votes
+
+Sources
+=======
+
+The source PDF files were downloaded from on January 16, 2016, from 
+
+https://ceo.maharashtra.gov.in/form20/AC2014/AC_XXX.pdf (XXX = AC id)
+
+The candidate-to-party mapping was done based on
+
+http://ceo.maharashtra.gov.in/Downloads%5CAC2014%5CCandidatelistfinal.pdf
+
+Problems
+========
+
+ACs 154, 166, 182 and 185: raw files unavailable
+
+ACs 169, 178 and 183: raw files are scans, hence not crawlable
+
+Also note that the party names and symbols column is garbled at
+times because of a pdftotext limitation. Candidate names are generally
+not as affected and I have cleaned it up for the major relevant parties 
+in this election, namely BJP, Shiv Sena, Congress, MNS, NCP and MIM. 
+But be warned that smaller parties / independents might be garbled 
+(they can pretty easily be made out, though).
+
+Script
+======
+
+The perl script used to extract data from raw PDFs is attached for
+educational purposes - it has a few hardcoded paths in there, so don't
+expect it to run out of the box.
+
+Contact
+=======
+
+Should you have any questions about these files, or be interested in
+the same data for the whole of Maharashtra (which I have downloaded
+but not cleaned up and hence not shared), feel free to get in touch:
+
+Raphael, mail@raphael-susewind.de, PGP key 0x10AEE42F
